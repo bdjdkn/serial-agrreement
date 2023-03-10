@@ -1,0 +1,31 @@
+11:04:27 **** Incremental Build of configuration Debug for project can_test ****
+make -j8 all 
+arm-none-eabi-gcc "../Core/Src/main.c" -mcpu=cortex-m4 -std=gnu11 -g3 -DDEBUG -DUSE_HAL_DRIVER -DSTM32F407xx -c -I../Core/Inc -I../Drivers/STM32F4xx_HAL_Driver/Inc -I../Drivers/STM32F4xx_HAL_Driver/Inc/Legacy -I../Drivers/CMSIS/Device/ST/STM32F4xx/Include -I../Drivers/CMSIS/Include -O0 -ffunction-sections -fdata-sections -Wall -fstack-usage -MMD -MP -MF"Core/Src/main.d" -MT"Core/Src/main.o" --specs=nano.specs -mfpu=fpv4-sp-d16 -mfloat-abi=hard -mthumb -o "Core/Src/main.o"
+../Core/Src/main.c: In function 'HAL_CAN_RxFifo1MsgPendingCallback':
+../Core/Src/main.c:159:10: warning: unused variable 'wei' [-Wunused-variable]
+  159 |   double wei=(double)x*360.0/32768.0;
+      |          ^~~
+../Core/Src/main.c: In function 'main':
+../Core/Src/main.c:205:9: warning: unused variable 'data' [-Wunused-variable]
+  205 | uint8_t data[8]={1,2,3,4,5,6,7,8};
+      |         ^~~~
+../Core/Src/main.c:200:10: warning: unused variable 'mail' [-Wunused-variable]
+  200 | uint32_t mail;
+      |          ^~~~
+../Core/Src/main.c:199:21: warning: variable 'tx_header' set but not used [-Wunused-but-set-variable]
+  199 | CAN_TxHeaderTypeDef tx_header;
+      |                     ^~~~~~~~~
+arm-none-eabi-gcc -o "can_test.elf" @"objects.list"   -mcpu=cortex-m4 -T"E:\2022summer chuankou\stm\stm32_can_test\can_test\STM32F407IGHX_FLASH.ld" --specs=nosys.specs -Wl,-Map="can_test.map" -Wl,--gc-sections -static --specs=nano.specs -mfpu=fpv4-sp-d16 -mfloat-abi=hard -mthumb -Wl,--start-group -lc -lm -Wl,--end-group
+Finished building target: can_test.elf
+ 
+arm-none-eabi-size   can_test.elf 
+arm-none-eabi-objdump -h -S  can_test.elf  > "can_test.list"
+   text	   data	    bss	    dec	    hex	filename
+  14704	     20	   1740	  16464	   4050	can_test.elf
+Finished building: default.size.stdout
+ 
+Finished building: can_test.list
+ 
+
+11:04:28 Build Finished. 0 errors, 4 warnings. (took 1s.224ms)
+

@@ -1,0 +1,55 @@
+!SESSION 2022-09-24 14:01:10.347 -----------------------------------------------
+eclipse.buildId=Version 1.9.0
+java.version=11.0.11
+java.vendor=AdoptOpenJDK
+BootLoader constants: OS=win32, ARCH=x86_64, WS=win32, NL=zh_CN
+Command-line arguments:  -os win32 -ws win32 -arch x86_64
+
+!ENTRY com.st.stm32cube.ide.mcu.informationcenter 4 4 2022-09-24 14:01:42.220
+!MESSAGE CubeMX plugin appears to be active, Log4j initialization might be too late.
+
+!ENTRY com.st.stm32cube.ide.mcu.informationcenter 1 1 2022-09-24 14:01:42.374
+!MESSAGE Log4j initialized with config file E:\2022summer chuankou\stm\stm32_SPI_IMU\.metadata\.log4j.xml
+
+!ENTRY com.st.stm32cube.ide.mcu.ide 1 1 2022-09-24 14:01:46.709
+!MESSAGE Started RMI Server, listening on port 41337
+
+!ENTRY org.eclipse.cdt.core 1 0 2022-09-24 14:04:13.731
+!MESSAGE Indexed 'STM32_SPI_IMU' (21 sources, 81 headers) in 4.15 sec: 4,376 declarations; 17,600 references; 0 unresolved inclusions; 1 syntax errors; 2 unresolved names (0.0091%)
+!SESSION 2022-09-29 15:55:50.806 -----------------------------------------------
+eclipse.buildId=Version 1.9.0
+java.version=11.0.11
+java.vendor=AdoptOpenJDK
+BootLoader constants: OS=win32, ARCH=x86_64, WS=win32, NL=zh_CN
+Framework arguments:  E:\2022summer chuankou\stm\stm32_SPI_IMU\STM32_SPI_IMU\.project
+Command-line arguments:  -os win32 -ws win32 -arch x86_64 E:\2022summer chuankou\stm\stm32_SPI_IMU\STM32_SPI_IMU\.project
+
+!ENTRY org.eclipse.core.resources 2 10035 2022-09-29 15:55:57.134
+!MESSAGE The workspace exited with unsaved changes in the previous session; refreshing workspace to recover changes.
+
+!ENTRY com.st.stm32cube.ide.mcu.informationcenter 4 4 2022-09-29 15:56:02.876
+!MESSAGE CubeMX plugin appears to be active, Log4j initialization might be too late.
+
+!ENTRY com.st.stm32cube.ide.mcu.informationcenter 1 1 2022-09-29 15:56:03.135
+!MESSAGE Log4j initialized with config file E:\2022summer chuankou\stm\stm32_SPI_IMU\.metadata\.log4j.xml
+
+!ENTRY com.st.stm32cube.ide.mcu.ide 1 1 2022-09-29 15:56:17.783
+!MESSAGE Started RMI Server, listening on port 41337
+
+!ENTRY org.eclipse.cdt.core 1 0 2022-09-29 15:56:24.762
+!MESSAGE Indexed 'STM32_SPI_IMU' (23 sources, 83 headers) in 4.97 sec: 5,276 declarations; 26,934 references; 0 unresolved inclusions; 1 syntax errors; 2 unresolved names (0.0062%)
+!SESSION 2022-09-29 21:34:49.645 -----------------------------------------------
+eclipse.buildId=Version 1.9.0
+java.version=11.0.11
+java.vendor=AdoptOpenJDK
+BootLoader constants: OS=win32, ARCH=x86_64, WS=win32, NL=zh_CN
+Command-line arguments:  -os win32 -ws win32 -arch x86_64
+
+!ENTRY com.st.stm32cube.ide.mcu.informationcenter 4 4 2022-09-29 21:34:56.692
+!MESSAGE CubeMX plugin appears to be active, Log4j initialization might be too late.
+
+!ENTRY com.st.stm32cube.ide.mcu.informationcenter 1 1 2022-09-29 21:34:56.772
+!MESSAGE Log4j initialized with config file E:\2022summer chuankou\stm\stm32_SPI_IMU\.metadata\.log4j.xml
+
+!ENTRY com.st.stm32cube.ide.mcu.ide 1 1 2022-09-29 21:35:02.798
+!MESSAGE Started RMI Server, listening on port 41337

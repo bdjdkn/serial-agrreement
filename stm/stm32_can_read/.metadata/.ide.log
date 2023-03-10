@@ -1,0 +1,1082 @@
+2022-09-11 14:57:48,265 [INFO] Activator:177 - 
+
+
+2022-09-11 14:57:48,269 [INFO] Activator:178 - !SESSION log4j initialized
+2022-09-11 14:57:52,010 [ERROR] AnalyticsContext:980 - The ST intranet updater server is unknown: mcucrossselector.codex.cro.st.com
+2022-09-12 16:37:25,256 [INFO] McuFinderGlobals:39 - Set McuFinder mode to 2 (CubeIDE integrated)
+2022-09-12 16:37:28,891 [INFO] ApplicationProperties:181 - Using Application install path: C:\ST\STM32CubeIDE_1.9.0\STM32CubeIDE\plugins\com.st.stm32cube.common.mx_6.5.0.202202251913
+2022-09-12 16:37:28,913 [INFO] DbMcusXml:72 - Set database path to: C:\ST\STM32CubeIDE_1.9.0\STM32CubeIDE\plugins\com.st.stm32cube.common.mx_6.5.0.202202251913\\db\/mcu/
+2022-09-12 16:37:28,914 [INFO] ApiDb:260 - Set plugin database path to: C:\ST\STM32CubeIDE_1.9.0\STM32CubeIDE\plugins\com.st.stm32cube.common.mx_6.5.0.202202251913\\db\/plugins/boardmanager/
+2022-09-12 16:37:28,918 [WARN] ApiDb:245 - Overriding images path with different value:  => C:\ST\STM32CubeIDE_1.9.0\STM32CubeIDE\plugins\com.st.stm32cube.common.mx_6.5.0.202202251913\\db\/plugins/mcufinder/images/
+2022-09-12 16:37:28,939 [INFO] ApiDb:226 - Set database path to: C:\Users\bdjdkn\.stmcufinder\plugins\mcufinder//mcu/
+2022-09-12 16:37:28,939 [INFO] DbMcusAds:119 - Set database path to: C:\Users\bdjdkn\.stmcufinder\plugins\mcufinder//mcu/
+2022-09-12 16:37:29,968 [INFO] CrossReferenceDbSqlite:196 - Set database path to: C:\Users\bdjdkn\.stmcufinder\plugins\mcufinder//mcu/cs/
+2022-09-12 16:37:30,099 [INFO] RulesReader:57 - Compatibility file has been processed (281 Rules)
+2022-09-12 16:37:30,206 [INFO] DbMcusXml:72 - Set database path to: C:\ST\STM32CubeIDE_1.9.0\STM32CubeIDE\plugins\com.st.stm32cube.common.mx_6.5.0.202202251913\\db\/mcu/
+2022-09-12 16:37:30,207 [INFO] ApiDb:260 - Set plugin database path to: C:\ST\STM32CubeIDE_1.9.0\STM32CubeIDE\plugins\com.st.stm32cube.common.mx_6.5.0.202202251913\\db\/plugins/boardmanager/
+2022-09-12 16:37:30,207 [INFO] ApiDb:247 - Set plugin images path to: C:\ST\STM32CubeIDE_1.9.0\STM32CubeIDE\plugins\com.st.stm32cube.common.mx_6.5.0.202202251913\\db\/plugins/mcufinder/images/
+2022-09-12 16:37:30,207 [WARN] DbFile:35 - Overriding database path with different value: C:\Users\bdjdkn\.stmcufinder\plugins\mcufinder/ => C:\Users\bdjdkn\.stmcufinder\plugins\mcufinder
+2022-09-12 16:37:30,207 [INFO] ApiDb:226 - Set database path to: C:\Users\bdjdkn\.stmcufinder\plugins\mcufinder//mcu/
+2022-09-12 16:37:30,208 [WARN] DbFile:35 - Overriding database path with different value: C:\Users\bdjdkn\.stmcufinder\plugins\mcufinder/ => C:\Users\bdjdkn\.stmcufinder\plugins\mcufinder
+2022-09-12 16:37:30,208 [INFO] DbMcusAds:119 - Set database path to: C:\Users\bdjdkn\.stmcufinder\plugins\mcufinder//mcu/
+2022-09-12 16:37:30,209 [WARN] DbFile:35 - Overriding database path with different value: C:\Users\bdjdkn\.stmcufinder\plugins\mcufinder/ => C:\Users\bdjdkn\.stmcufinder\plugins\mcufinder
+2022-09-12 16:37:30,209 [WARN] DbFile:35 - Overriding database path with different value: C:\Users\bdjdkn\.stmcufinder\plugins\mcufinder/ => C:\Users\bdjdkn\.stmcufinder\plugins\mcufinder
+2022-09-12 16:37:30,209 [INFO] CrossReferenceDbSqlite:196 - Set database path to: C:\Users\bdjdkn\.stmcufinder\plugins\mcufinder//mcu/cs/
+2022-09-12 16:37:30,302 [INFO] MainPanel:230 - HeapMemory: 510656512
+2022-09-12 16:37:30,408 [INFO] DbMcusXml:72 - Set database path to: C:\ST\STM32CubeIDE_1.9.0\STM32CubeIDE\plugins\com.st.stm32cube.common.mx_6.5.0.202202251913\\db\/mcu/
+2022-09-12 16:37:30,408 [INFO] ApiDb:260 - Set plugin database path to: C:\ST\STM32CubeIDE_1.9.0\STM32CubeIDE\plugins\com.st.stm32cube.common.mx_6.5.0.202202251913\\db\/plugins/boardmanager/
+2022-09-12 16:37:30,408 [INFO] ApiDb:247 - Set plugin images path to: C:\ST\STM32CubeIDE_1.9.0\STM32CubeIDE\plugins\com.st.stm32cube.common.mx_6.5.0.202202251913\\db\/plugins/mcufinder/images/
+2022-09-12 16:37:30,409 [WARN] DbFile:35 - Overriding database path with different value: C:\Users\bdjdkn\.stmcufinder\plugins\mcufinder/ => C:\Users\bdjdkn\.stmcufinder\plugins\mcufinder
+2022-09-12 16:37:30,409 [INFO] ApiDb:226 - Set database path to: C:\Users\bdjdkn\.stmcufinder\plugins\mcufinder//mcu/
+2022-09-12 16:37:30,409 [WARN] DbFile:35 - Overriding database path with different value: C:\Users\bdjdkn\.stmcufinder\plugins\mcufinder/ => C:\Users\bdjdkn\.stmcufinder\plugins\mcufinder
+2022-09-12 16:37:30,410 [INFO] DbMcusAds:119 - Set database path to: C:\Users\bdjdkn\.stmcufinder\plugins\mcufinder//mcu/
+2022-09-12 16:37:30,410 [WARN] DbFile:35 - Overriding database path with different value: C:\Users\bdjdkn\.stmcufinder\plugins\mcufinder/ => C:\Users\bdjdkn\.stmcufinder\plugins\mcufinder
+2022-09-12 16:37:30,410 [WARN] DbFile:35 - Overriding database path with different value: C:\Users\bdjdkn\.stmcufinder\plugins\mcufinder/ => C:\Users\bdjdkn\.stmcufinder\plugins\mcufinder
+2022-09-12 16:37:30,410 [INFO] CrossReferenceDbSqlite:196 - Set database path to: C:\Users\bdjdkn\.stmcufinder\plugins\mcufinder//mcu/cs/
+2022-09-12 16:37:30,436 [INFO] ApplicationProperties:181 - Using Application install path: C:\ST\STM32CubeIDE_1.9.0\STM32CubeIDE\plugins\com.st.stm32cube.common.mx_6.5.0.202202251913
+2022-09-12 16:37:30,438 [INFO] PluginManage:188 - Search for loadable plugins [exclusion list=, ]
+2022-09-12 16:37:30,440 [INFO] PluginManage:302 - Check plugin analytics
+2022-09-12 16:37:30,561 [ERROR] AnalyticsContext:980 - The ST intranet updater server is unknown: mcucrossselector.codex.cro.st.com
+2022-09-12 16:37:30,632 [INFO] AnalyticsPlugin:257 - Accepted Software Licenses: STM32CubeMX.6.5.0
+2022-09-12 16:37:30,634 [INFO] AnalyticsPlugin:259 - Accepted CMSIS Pack Licenses: 
+2022-09-12 16:37:30,635 [INFO] AnalyticsPlugin:261 - Accepted Firmware Licenses: FW.F4.1.27.0
+2022-09-12 16:37:30,646 [INFO] PluginManage:352 - Loaded plugin analytics (category:tool,tabindex:-1)
+2022-09-12 16:37:30,647 [INFO] PluginManage:302 - Check plugin clock
+2022-09-12 16:37:30,665 [INFO] PluginManage:352 - Loaded plugin clock (category:base,tabindex:2)
+2022-09-12 16:37:30,666 [INFO] PluginManage:302 - Check plugin ddr
+2022-09-12 16:37:30,670 [INFO] PluginManage:352 - Loaded plugin ddr (category:tool,tabindex:6)
+2022-09-12 16:37:30,671 [INFO] PluginManage:302 - Check plugin filemanager
+2022-09-12 16:37:30,829 [INFO] PluginManage:352 - Loaded plugin filemanager (category:base,tabindex:10)
+2022-09-12 16:37:30,830 [INFO] PluginManage:302 - Check plugin ipmanager
+2022-09-12 16:37:30,841 [INFO] PluginManage:352 - Loaded plugin ipmanager (category:base,tabindex:5)
+2022-09-12 16:37:30,841 [INFO] PluginManage:302 - Check plugin lpbam
+2022-09-12 16:37:30,853 [INFO] PluginManage:352 - Loaded plugin lpbam (category:base,tabindex:0)
+2022-09-12 16:37:30,853 [INFO] PluginManage:302 - Check plugin pinoutandconfiguration
+2022-09-12 16:37:30,863 [INFO] PluginManage:352 - Loaded plugin pinoutandconfiguration (category:base,tabindex:1)
+2022-09-12 16:37:30,864 [INFO] PluginManage:302 - Check plugin pinoutconfig
+2022-09-12 16:37:30,902 [INFO] PluginManage:352 - Loaded plugin pinoutconfig (category:base,tabindex:0)
+2022-09-12 16:37:30,902 [INFO] PluginManage:302 - Check plugin power
+2022-09-12 16:37:30,915 [INFO] PluginManage:352 - Loaded plugin power (category:power,tabindex:4)
+2022-09-12 16:37:30,916 [INFO] PluginManage:302 - Check plugin projectmanager
+2022-09-12 16:37:30,936 [INFO] PluginManage:352 - Loaded plugin projectmanager (category:projectmanager,tabindex:3)
+2022-09-12 16:37:30,936 [INFO] PluginManage:302 - Check plugin thirdparty
+2022-09-12 16:37:31,147 [INFO] PluginManage:352 - Loaded plugin thirdparty (category:base,tabindex:-1)
+2022-09-12 16:37:31,148 [WARN] IntegrityCheckThread:78 - waiting for thirdparty lock release [integrity check]
+2022-09-12 16:37:31,148 [INFO] PluginManage:302 - Check plugin tools
+2022-09-12 16:37:31,149 [INFO] IntegrityCheckThread:80 - entering critical section [integrity check]
+2022-09-12 16:37:31,152 [INFO] ThirdPartyUpdaterWithRetryManager:66 - Updater plugin not ready yet. [1/15]
+2022-09-12 16:37:31,155 [INFO] PluginManage:352 - Loaded plugin tools (category:base,tabindex:7)
+2022-09-12 16:37:31,155 [INFO] PluginManage:302 - Check plugin tutovideos
+2022-09-12 16:37:31,396 [INFO] PluginManage:352 - Loaded plugin tutovideos (category:base,tabindex:-1)
+2022-09-12 16:37:31,397 [INFO] PluginManage:302 - Check plugin updater
+2022-09-12 16:37:31,416 [INFO] PluginManage:352 - Loaded plugin updater (category:base,tabindex:12)
+2022-09-12 16:37:31,416 [INFO] PluginManage:275 - PluginManage : Loaded plugins [14]
+2022-09-12 16:37:31,751 [INFO] PinOutPanel:1465 - setPackage(No Configuration,No Configuration)
+2022-09-12 16:37:31,897 [INFO] IPUIPlugin:75 - create IPUIPlugin
+2022-09-12 16:37:31,897 [INFO] PluginManager:213 - loadIPPluginJar : add adc
+2022-09-12 16:37:31,903 [INFO] IPUIPlugin:75 - create IPUIPlugin
+2022-09-12 16:37:31,904 [INFO] PluginManager:213 - loadIPPluginJar : add aes
+2022-09-12 16:37:31,910 [INFO] IPUIPlugin:75 - create IPUIPlugin
+2022-09-12 16:37:31,910 [INFO] PluginManager:213 - loadIPPluginJar : add can
+2022-09-12 16:37:31,915 [INFO] IPUIPlugin:75 - create IPUIPlugin
+2022-09-12 16:37:31,915 [INFO] PluginManager:213 - loadIPPluginJar : add comp
+2022-09-12 16:37:31,924 [INFO] IPUIPlugin:75 - create IPUIPlugin
+2022-09-12 16:37:31,925 [INFO] PluginManager:213 - loadIPPluginJar : add cryp
+2022-09-12 16:37:31,933 [INFO] IPUIPlugin:75 - create IPUIPlugin
+2022-09-12 16:37:31,934 [INFO] PluginManager:213 - loadIPPluginJar : add dfsdm
+2022-09-12 16:37:31,945 [INFO] IPUIPlugin:75 - create IPUIPlugin
+2022-09-12 16:37:31,946 [INFO] PluginManager:213 - loadIPPluginJar : add dma
+2022-09-12 16:37:31,954 [INFO] IPUIPlugin:75 - create IPUIPlugin
+2022-09-12 16:37:31,954 [INFO] PluginManager:213 - loadIPPluginJar : add dma3
+2022-09-12 16:37:31,957 [INFO] IPUIPlugin:75 - create IPUIPlugin
+2022-09-12 16:37:31,958 [INFO] PluginManager:213 - loadIPPluginJar : add fatfs
+2022-09-12 16:37:31,969 [INFO] IPUIPlugin:75 - create IPUIPlugin
+2022-09-12 16:37:31,969 [INFO] PluginManager:213 - loadIPPluginJar : add fmc
+2022-09-12 16:37:31,977 [INFO] IPUIPlugin:75 - create IPUIPlugin
+2022-09-12 16:37:31,978 [INFO] PluginManager:213 - loadIPPluginJar : add freertos
+2022-09-12 16:37:31,980 [INFO] IPUIPlugin:75 - create IPUIPlugin
+2022-09-12 16:37:31,981 [INFO] PluginManager:213 - loadIPPluginJar : add genericplugin
+2022-09-12 16:37:31,986 [INFO] IPUIPlugin:75 - create IPUIPlugin
+2022-09-12 16:37:31,986 [INFO] PluginManager:213 - loadIPPluginJar : add gfxmmu
+2022-09-12 16:37:31,995 [INFO] IPUIPlugin:75 - create IPUIPlugin
+2022-09-12 16:37:31,995 [INFO] PluginManager:213 - loadIPPluginJar : add gic
+2022-09-12 16:37:32,004 [INFO] IPUIPlugin:75 - create IPUIPlugin
+2022-09-12 16:37:32,005 [INFO] PluginManager:213 - loadIPPluginJar : add gpio
+2022-09-12 16:37:32,011 [INFO] IPUIPlugin:75 - create IPUIPlugin
+2022-09-12 16:37:32,011 [INFO] PluginManager:213 - loadIPPluginJar : add gtzc
+2022-09-12 16:37:32,019 [INFO] IPUIPlugin:75 - create IPUIPlugin
+2022-09-12 16:37:32,019 [INFO] PluginManager:213 - loadIPPluginJar : add hash
+2022-09-12 16:37:32,026 [INFO] IPUIPlugin:75 - create IPUIPlugin
+2022-09-12 16:37:32,026 [INFO] PluginManager:213 - loadIPPluginJar : add i2c
+2022-09-12 16:37:32,034 [INFO] IPUIPlugin:75 - create IPUIPlugin
+2022-09-12 16:37:32,034 [INFO] PluginManager:213 - loadIPPluginJar : add i2s
+2022-09-12 16:37:32,039 [INFO] IPUIPlugin:75 - create IPUIPlugin
+2022-09-12 16:37:32,040 [INFO] PluginManager:213 - loadIPPluginJar : add ipddr
+2022-09-12 16:37:32,053 [INFO] IPUIPlugin:75 - create IPUIPlugin
+2022-09-12 16:37:32,053 [INFO] PluginManager:213 - loadIPPluginJar : add linkedlist
+2022-09-12 16:37:32,059 [INFO] IPUIPlugin:75 - create IPUIPlugin
+2022-09-12 16:37:32,060 [INFO] PluginManager:213 - loadIPPluginJar : add lorawan
+2022-09-12 16:37:32,064 [INFO] IPUIPlugin:75 - create IPUIPlugin
+2022-09-12 16:37:32,064 [INFO] PluginManager:213 - loadIPPluginJar : add ltdc
+2022-09-12 16:37:32,074 [INFO] IPUIPlugin:75 - create IPUIPlugin
+2022-09-12 16:37:32,075 [INFO] PluginManager:213 - loadIPPluginJar : add mdma
+2022-09-12 16:37:32,081 [INFO] IPUIPlugin:75 - create IPUIPlugin
+2022-09-12 16:37:32,082 [INFO] PluginManager:213 - loadIPPluginJar : add nvic
+2022-09-12 16:37:32,088 [INFO] IPUIPlugin:75 - create IPUIPlugin
+2022-09-12 16:37:32,089 [INFO] PluginManager:213 - loadIPPluginJar : add opamp
+2022-09-12 16:37:32,095 [INFO] IPUIPlugin:75 - create IPUIPlugin
+2022-09-12 16:37:32,095 [INFO] PluginManager:213 - loadIPPluginJar : add openamp
+2022-09-12 16:37:32,103 [INFO] IPUIPlugin:75 - create IPUIPlugin
+2022-09-12 16:37:32,103 [INFO] PluginManager:213 - loadIPPluginJar : add pdm2pcm
+2022-09-12 16:37:32,116 [INFO] IPUIPlugin:75 - create IPUIPlugin
+2022-09-12 16:37:32,121 [INFO] PluginManager:213 - loadIPPluginJar : add plateformsettings
+2022-09-12 16:37:32,124 [INFO] IPUIPlugin:75 - create IPUIPlugin
+2022-09-12 16:37:32,125 [INFO] PluginManager:213 - loadIPPluginJar : add quadspi
+2022-09-12 16:37:32,133 [INFO] IPUIPlugin:75 - create IPUIPlugin
+2022-09-12 16:37:32,133 [INFO] PluginManager:213 - loadIPPluginJar : add resmgrutility
+2022-09-12 16:37:32,140 [INFO] IPUIPlugin:75 - create IPUIPlugin
+2022-09-12 16:37:32,140 [INFO] PluginManager:213 - loadIPPluginJar : add sai
+2022-09-12 16:37:32,144 [INFO] IPUIPlugin:75 - create IPUIPlugin
+2022-09-12 16:37:32,145 [INFO] PluginManager:213 - loadIPPluginJar : add spi
+2022-09-12 16:37:32,153 [INFO] IPUIPlugin:75 - create IPUIPlugin
+2022-09-12 16:37:32,153 [INFO] PluginManager:213 - loadIPPluginJar : add stm32_wpan
+2022-09-12 16:37:32,156 [INFO] IPUIPlugin:75 - create IPUIPlugin
+2022-09-12 16:37:32,156 [INFO] PluginManager:213 - loadIPPluginJar : add tim
+2022-09-12 16:37:32,161 [INFO] IPUIPlugin:75 - create IPUIPlugin
+2022-09-12 16:37:32,162 [INFO] PluginManager:213 - loadIPPluginJar : add touchsensing
+2022-09-12 16:37:32,166 [INFO] IPUIPlugin:75 - create IPUIPlugin
+2022-09-12 16:37:32,167 [INFO] PluginManager:213 - loadIPPluginJar : add tracer_emb
+2022-09-12 16:37:32,170 [INFO] IPUIPlugin:75 - create IPUIPlugin
+2022-09-12 16:37:32,170 [INFO] PluginManager:213 - loadIPPluginJar : add ts
+2022-09-12 16:37:32,174 [INFO] IPUIPlugin:75 - create IPUIPlugin
+2022-09-12 16:37:32,174 [INFO] PluginManager:213 - loadIPPluginJar : add tsc
+2022-09-12 16:37:32,178 [INFO] IPUIPlugin:75 - create IPUIPlugin
+2022-09-12 16:37:32,179 [INFO] PluginManager:213 - loadIPPluginJar : add ucpd
+2022-09-12 16:37:32,186 [INFO] IPUIPlugin:75 - create IPUIPlugin
+2022-09-12 16:37:32,186 [INFO] PluginManager:213 - loadIPPluginJar : add usart
+2022-09-12 16:37:32,191 [INFO] IPUIPlugin:75 - create IPUIPlugin
+2022-09-12 16:37:32,192 [INFO] PluginManager:213 - loadIPPluginJar : add usbx
+2022-09-12 16:37:32,605 [FATAL] Updater:297 - Updater called before beeing initialized
+2022-09-12 16:37:32,826 [FATAL] Updater:297 - Updater called before beeing initialized
+2022-09-12 16:37:32,839 [INFO] DbMcusAds:47 - JSON generation date=Thu Sep 30 14:55:09 CST 2021 (1632984909265)
+2022-09-12 16:37:32,839 [FATAL] Updater:297 - Updater called before beeing initialized
+2022-09-12 16:37:32,905 [WARN] DetailPanel:320 - Failed to get advertising image, set to default
+2022-09-12 16:37:33,091 [FATAL] Updater:297 - Updater called before beeing initialized
+2022-09-12 16:37:33,093 [FATAL] Updater:297 - Updater called before beeing initialized
+2022-09-12 16:37:33,094 [FATAL] Updater:297 - Updater called before beeing initialized
+2022-09-12 16:37:33,094 [WARN] DetailPanel:320 - Failed to get advertising image, set to default
+2022-09-12 16:37:33,097 [FATAL] Updater:297 - Updater called before beeing initialized
+2022-09-12 16:37:33,176 [INFO] Updater:1026 - Updater Version found : 6.5.0
+2022-09-12 16:37:33,205 [INFO] ApplicationProperties:181 - Using Application install path: C:\ST\STM32CubeIDE_1.9.0\STM32CubeIDE\plugins\com.st.stm32cube.common.mx_6.5.0.202202251913
+2022-09-12 16:37:33,385 [INFO] MainUpdater:2729 - connection check result : 10
+2022-09-12 16:37:33,386 [INFO] MainUpdater:276 - Updater Check For Update Now.
+2022-09-12 16:37:33,387 [INFO] MicroXplorer:477 - Change Database Version : DB.6.0.50
+2022-09-12 16:37:33,605 [INFO] CheckServerUpdateThread:115 - End of CheckServer Thread
+2022-09-12 16:37:33,609 [INFO] MainUpdater:2729 - connection check result : 10
+2022-09-12 16:37:33,611 [INFO] MainUpdater:2729 - connection check result : 10
+2022-09-12 16:37:33,706 [INFO] MicroXplorer:447 - Change Database Path : 
+2022-09-12 16:37:33,707 [INFO] MicroXplorer:477 - Change Database Version : DB.6.0.50
+2022-09-12 16:37:33,709 [WARN] ThirdParty:823 - waiting for thirdparty lock release [close project]
+2022-09-12 16:37:34,522 [WARN] PackLoader:238 - Cannot read IP mode file for wolfSSL.I-CUBE-wolfSSL.5.2.0
+2022-09-12 16:37:34,537 [WARN] PackLoader:238 - Cannot read IP mode file for STMicroelectronics.X-CUBE-GNSS1.6.0.0
+2022-09-12 16:37:34,566 [WARN] PackLoader:238 - Cannot read IP mode file for STMicroelectronics.X-CUBE-AZRTOS-F4.1.1.0
+2022-09-12 16:37:34,644 [WARN] PackLoader:238 - Cannot read IP mode file for STMicroelectronics.X-CUBE-MEMS1.9.2.0
+2022-09-12 16:37:34,902 [WARN] PackLoader:238 - Cannot read IP mode file for STMicroelectronics.X-CUBE-AZRTOS-F7.1.1.0
+2022-09-12 16:37:34,918 [WARN] PackLoader:238 - Cannot read IP mode file for STMicroelectronics.X-CUBE-AI.7.1.0
+2022-09-12 16:37:34,930 [WARN] PackLoader:238 - Cannot read IP mode file for STMicroelectronics.X-CUBE-TOUCHGFX.4.19.1
+2022-09-12 16:37:34,942 [WARN] PackLoader:238 - Cannot read IP mode file for STMicroelectronics.X-CUBE-BLE1.6.2.3
+2022-09-12 16:37:34,957 [WARN] PackLoader:238 - Cannot read IP mode file for STMicroelectronics.X-CUBE-NFC4.2.0.4
+2022-09-12 16:37:34,972 [WARN] PackLoader:238 - Cannot read IP mode file for STMicroelectronics.X-CUBE-BLE2.3.2.2
+2022-09-12 16:37:34,982 [WARN] PackLoader:238 - Cannot read IP mode file for STMicroelectronics.X-CUBE-NFC4.2.0.3
+2022-09-12 16:37:34,991 [WARN] PackLoader:238 - Cannot read IP mode file for STMicroelectronics.X-CUBE-TOUCHGFX.4.19.0
+2022-09-12 16:37:35,009 [WARN] PackLoader:238 - Cannot read IP mode file for STMicroelectronics.X-CUBE-TOF1.3.1.0
+2022-09-12 16:37:35,030 [WARN] PackLoader:238 - Cannot read IP mode file for STMicroelectronics.X-CUBE-SFXS2LP1.3.1.0
+2022-09-12 16:37:35,059 [WARN] PackLoader:238 - Cannot read IP mode file for STMicroelectronics.X-CUBE-AZRTOS-F4.1.0.0
+2022-09-12 16:37:35,075 [WARN] PackLoader:238 - Cannot read IP mode file for STMicroelectronics.X-CUBE-NFC7.1.0.0
+2022-09-12 16:37:35,098 [WARN] PackLoader:238 - Cannot read IP mode file for STMicroelectronics.X-CUBE-SUBG2.4.2.0
+2022-09-12 16:37:35,190 [WARN] PackLoader:238 - Cannot read IP mode file for STMicroelectronics.X-CUBE-MEMS1.9.3.0
+2022-09-12 16:37:35,472 [WARN] PackLoader:238 - Cannot read IP mode file for STMicroelectronics.X-CUBE-AI.7.2.0
+2022-09-12 16:37:35,496 [WARN] PackLoader:238 - Cannot read IP mode file for STMicroelectronics.X-CUBE-AZRTOS-G0.1.0.0
+2022-09-12 16:37:35,511 [WARN] PackLoader:238 - Cannot read IP mode file for STMicroelectronics.X-CUBE-SFXS2LP1.4.0.0
+2022-09-12 16:37:35,520 [WARN] PackLoader:238 - Cannot read IP mode file for STMicroelectronics.X-CUBE-BLE2.3.3.0
+2022-09-12 16:37:35,536 [WARN] PackLoader:238 - Cannot read IP mode file for STMicroelectronics.X-CUBE-DISPLAY.2.2.0
+2022-09-12 16:37:35,549 [WARN] PackLoader:238 - Cannot read IP mode file for STMicroelectronics.X-CUBE-ISPU.1.0.0
+2022-09-12 16:37:35,565 [WARN] PackLoader:238 - Cannot read IP mode file for RoweBots.I-CUBE-UNISONRTOS.5.5.0-4
+2022-09-12 16:37:35,598 [WARN] PackLoader:238 - Cannot read IP mode file for STMicroelectronics.X-CUBE-AZRTOS-H7.2.1.0
+2022-09-12 16:37:35,615 [WARN] PackLoader:238 - Cannot read IP mode file for STMicroelectronics.X-CUBE-BLEMGR.1.0.0
+2022-09-12 16:37:35,625 [WARN] PackLoader:238 - Cannot read IP mode file for STMicroelectronics.X-CUBE-ALGOBUILD.1.3.0
+2022-09-12 16:37:35,660 [WARN] PackLoader:238 - Cannot read IP mode file for STMicroelectronics.X-CUBE-AZRTOS-G0.1.1.0
+2022-09-12 16:37:35,680 [WARN] PackLoader:238 - Cannot read IP mode file for STMicroelectronics.X-CUBE-SUBG2.5.0.0
+2022-09-12 16:37:35,745 [WARN] PackLoader:238 - Cannot read IP mode file for SEGGER.I-CUBE-embOS.1.2.0
+2022-09-12 16:37:35,792 [WARN] PackLoader:238 - Cannot read IP mode file for STMicroelectronics.X-CUBE-DISPLAY.2.1.0
+2022-09-12 16:37:35,812 [WARN] PackLoader:238 - Cannot read IP mode file for STMicroelectronics.FP-ATR-ASTRA1.1.1.1
+2022-09-12 16:37:35,835 [WARN] PackLoader:238 - Cannot read IP mode file for STMicroelectronics.X-CUBE-AZRTOS-H7.2.0.0
+2022-09-12 16:37:35,857 [WARN] PackLoader:238 - Cannot read IP mode file for STMicroelectronics.X-CUBE-AZRTOS-G4.1.0.0
+2022-09-12 16:37:35,880 [WARN] PackLoader:238 - Cannot read IP mode file for STMicroelectronics.X-CUBE-AZRTOS-L4.1.0.0
+2022-09-12 16:37:35,895 [WARN] PackLoader:238 - Cannot read IP mode file for emotas.I-CUBE-CANOPEN.1.1.2
+2022-09-12 16:37:35,900 [WARN] PackLoader:238 - Cannot read IP mode file for STMicroelectronics.X-CUBE-TOUCHGFX.4.20.0
+2022-09-12 16:37:35,920 [WARN] PackLoader:238 - Cannot read IP mode file for STMicroelectronics.X-CUBE-AZRTOS-F7.1.0.0
+2022-09-12 16:37:35,938 [WARN] PackLoader:238 - Cannot read IP mode file for STMicroelectronics.X-CUBE-AZRTOS-WL.1.0.0
+2022-09-12 16:37:35,991 [WARN] PackLoader:238 - Cannot read IP mode file for STMicroelectronics.X-CUBE-MEMS1.9.1.0
+2022-09-12 16:37:36,117 [WARN] PackLoader:238 - Cannot read IP mode file for portGmbH.I-Cube-SoM-uGOAL.1.1.0
+2022-09-12 16:37:36,123 [WARN] PackLoader:238 - Cannot read IP mode file for STMicroelectronics.X-CUBE-ALS.1.0.1
+2022-09-12 16:37:36,152 [WARN] PackLoader:238 - Cannot read IP mode file for STMicroelectronics.X-CUBE-AZRTOS-L5.1.0.0
+2022-09-12 16:37:36,165 [WARN] PackLoader:238 - Cannot read IP mode file for STMicroelectronics.X-CUBE-EEPRMA1.3.1.1
+2022-09-12 16:37:36,172 [WARN] PackLoader:238 - Cannot read IP mode file for STMicroelectronics.X-CUBE-GNSS1.5.2.0
+2022-09-12 16:37:36,180 [WARN] PackLoader:238 - Cannot read IP mode file for STMicroelectronics.X-CUBE-DISPLAY.2.0.1
+2022-09-12 16:37:36,191 [WARN] PackLoader:238 - Cannot read IP mode file for STMicroelectronics.X-CUBE-TOF1.3.0.0
+2022-09-12 16:37:36,195 [INFO] ThirdParty:925 - Integrity check success = true
+2022-09-12 16:37:36,195 [INFO] IntegrityCheckThread:94 - exiting critical section [integrity check]
+2022-09-12 16:37:36,195 [INFO] IntegrityCheckThread:97 - End integrity checks thread
+2022-09-12 16:37:36,195 [INFO] ThirdParty:825 - entering critical section [close project]
+2022-09-12 16:37:36,198 [INFO] ThirdParty:835 - exiting critical section [close project]
+2022-09-12 16:37:36,203 [INFO] PinOutPanel:1465 - setPackage(No Configuration,No Configuration)
+2022-09-12 16:37:36,210 [INFO] UtilMem:74 - Begin LoadConfig() Used Memory: 394943880 Bytes (510656512)
+2022-09-12 16:37:36,212 [INFO] MicroXplorer:447 - Change Database Path : 
+2022-09-12 16:37:36,212 [INFO] MicroXplorer:477 - Change Database Version : DB.6.0.50
+2022-09-12 16:37:36,212 [INFO] OpenFileManager:303 - Change cursor
+2022-09-12 16:37:36,268 [INFO] Mcu:1893 - Initializing MCU STM32F407I(E-G)Hx STM32F407IGHx STM32F407IGH6
+2022-09-12 16:37:41,951 [INFO] Context:599 - Trying to add GPIOservice into a context  which must be forbidden
+2022-09-12 16:37:42,864 [WARN] ApiManager:304 - Cannot register API 'Board Extension:GNSS1A1' from pack STMicroelectronics.X-CUBE-GNSS1.6.0.0: no header file found
+2022-09-12 16:37:42,865 [WARN] ApiManager:304 - Cannot register API 'Board Support:Custom' from pack STMicroelectronics.X-CUBE-GNSS1.6.0.0: no header file found
+2022-09-12 16:37:42,865 [WARN] ApiManager:304 - Cannot register API 'Data Exchange:lib_gnss' from pack STMicroelectronics.X-CUBE-GNSS1.6.0.0: no header file found
+2022-09-12 16:37:43,027 [WARN] ApiManager:304 - Cannot register API 'Board Extension:IKS01A3' from pack STMicroelectronics.X-CUBE-MEMS1.9.2.0: no header file found
+2022-09-12 16:37:43,027 [WARN] ApiManager:304 - Cannot register API 'Board Extension:IKS01A2' from pack STMicroelectronics.X-CUBE-MEMS1.9.2.0: no header file found
+2022-09-12 16:37:43,027 [WARN] ApiManager:304 - Cannot register API 'Board Extension:IKS02A1' from pack STMicroelectronics.X-CUBE-MEMS1.9.2.0: no header file found
+2022-09-12 16:37:43,040 [WARN] ApiManager:304 - Cannot register API 'Wireless:BlueNRG-MS' from pack STMicroelectronics.X-CUBE-BLE1.6.2.3: no header file found
+2022-09-12 16:37:43,043 [INFO] RtosManager:484 - Registered RTOS mode: class=CMSIS, group=RTOS, mode=CMSIS_V1, owner=FREERTOS
+2022-09-12 16:37:43,043 [INFO] RtosManager:484 - Registered RTOS mode: class=CMSIS, group=RTOS2, mode=CMSIS_V2, owner=FREERTOS
+2022-09-12 16:37:43,044 [INFO] RtosManager:484 - Registered RTOS mode: class=RTOS, group=Core, mode=CMSIS_V1, owner=FREERTOS
+2022-09-12 16:37:43,044 [INFO] RtosManager:484 - Registered RTOS mode: class=RTOS, group=Core, mode=CMSIS_V2, owner=FREERTOS
+2022-09-12 16:37:43,044 [WARN] ModelIntegratedComponent:181 - Missing modes for component STMicroelectronics:FreeRTOS:0.0.1:STMicroelectronics:RTOS:FreeRTOS:Core:::10.2.0:
+2022-09-12 16:37:43,051 [WARN] ApiManager:304 - Cannot register API 'Board Extension:S2868A1' from pack STMicroelectronics.X-CUBE-SUBG2.5.0.0: no header file found
+2022-09-12 16:37:43,051 [WARN] ApiManager:304 - Cannot register API 'Board Extension:S2868A2' from pack STMicroelectronics.X-CUBE-SUBG2.5.0.0: no header file found
+2022-09-12 16:37:43,051 [WARN] ApiManager:304 - Cannot register API 'Board Extension:S2915A1' from pack STMicroelectronics.X-CUBE-SUBG2.5.0.0: no header file found
+2022-09-12 16:37:43,061 [WARN] ApiManager:304 - Cannot register API 'Board Extension:NFC04A1' from pack STMicroelectronics.X-CUBE-NFC4.2.0.4: no header file found
+2022-09-12 16:37:43,064 [WARN] ApiManager:304 - Cannot register API 'Wireless:BlueNRG-2' from pack STMicroelectronics.X-CUBE-BLE2.3.2.2: no header file found
+2022-09-12 16:37:43,067 [WARN] ApiManager:304 - Cannot register API 'Board Extension:NFC04A1' from pack STMicroelectronics.X-CUBE-NFC4.2.0.3: no header file found
+2022-09-12 16:37:43,073 [WARN] ApiManager:304 - Cannot register API 'Board Extension:S2868A1' from pack STMicroelectronics.X-CUBE-SFXS2LP1.3.1.0: no header file found
+2022-09-12 16:37:43,073 [WARN] ApiManager:304 - Cannot register API 'Board Extension:S2868A2' from pack STMicroelectronics.X-CUBE-SFXS2LP1.3.1.0: no header file found
+2022-09-12 16:37:43,073 [WARN] ApiManager:304 - Cannot register API 'Board Extension:S2915A1' from pack STMicroelectronics.X-CUBE-SFXS2LP1.3.1.0: no header file found
+2022-09-12 16:37:43,080 [WARN] ModelIntegratedComponent:60 - No mode defined for component null
+2022-09-12 16:37:43,080 [WARN] ModelIntegratedComponent:60 - No mode defined for component null
+2022-09-12 16:37:43,080 [WARN] ModelIntegratedComponent:60 - No mode defined for component null
+2022-09-12 16:37:43,080 [WARN] ModelIntegratedComponent:60 - No mode defined for component null
+2022-09-12 16:37:43,080 [WARN] ModelIntegratedComponent:60 - No mode defined for component null
+2022-09-12 16:37:43,080 [WARN] ModelIntegratedComponent:60 - No mode defined for component null
+2022-09-12 16:37:43,080 [WARN] ModelIntegratedComponent:60 - No mode defined for component null
+2022-09-12 16:37:43,081 [WARN] ModelIntegratedComponent:60 - No mode defined for component null
+2022-09-12 16:37:43,081 [WARN] ModelIntegratedComponent:60 - No mode defined for component null
+2022-09-12 16:37:43,081 [WARN] ModelIntegratedComponent:60 - No mode defined for component null
+2022-09-12 16:37:43,081 [WARN] ModelIntegratedComponent:60 - No mode defined for component null
+2022-09-12 16:37:43,081 [WARN] ModelIntegratedComponent:60 - No mode defined for component null
+2022-09-12 16:37:43,081 [WARN] ModelIntegratedComponent:60 - No mode defined for component null
+2022-09-12 16:37:43,081 [WARN] ModelIntegratedComponent:60 - No mode defined for component null
+2022-09-12 16:37:43,081 [WARN] ModelIntegratedComponent:60 - No mode defined for component null
+2022-09-12 16:37:43,081 [WARN] ModelIntegratedComponent:60 - No mode defined for component null
+2022-09-12 16:37:43,081 [WARN] ModelIntegratedComponent:60 - No mode defined for component null
+2022-09-12 16:37:43,081 [WARN] ModelIntegratedComponent:60 - No mode defined for component null
+2022-09-12 16:37:43,081 [WARN] ModelIntegratedComponent:60 - No mode defined for component null
+2022-09-12 16:37:43,081 [WARN] ModelIntegratedComponent:60 - No mode defined for component null
+2022-09-12 16:37:43,081 [WARN] ModelIntegratedComponent:60 - No mode defined for component null
+2022-09-12 16:37:43,081 [WARN] ModelIntegratedComponent:60 - No mode defined for component null
+2022-09-12 16:37:43,081 [WARN] ModelIntegratedComponent:60 - No mode defined for component null
+2022-09-12 16:37:43,082 [WARN] ModelIntegratedComponent:60 - No mode defined for component null
+2022-09-12 16:37:43,082 [WARN] ModelIntegratedComponent:60 - No mode defined for component null
+2022-09-12 16:37:43,082 [WARN] ModelIntegratedComponent:60 - No mode defined for component null
+2022-09-12 16:37:43,082 [WARN] ModelIntegratedComponent:60 - No mode defined for component null
+2022-09-12 16:37:43,082 [WARN] ModelIntegratedComponent:60 - No mode defined for component null
+2022-09-12 16:37:43,082 [WARN] ModelIntegratedComponent:60 - No mode defined for component null
+2022-09-12 16:37:43,082 [WARN] ModelIntegratedComponent:60 - No mode defined for component null
+2022-09-12 16:37:43,082 [WARN] ModelIntegratedComponent:60 - No mode defined for component null
+2022-09-12 16:37:43,082 [WARN] ModelIntegratedComponent:60 - No mode defined for component null
+2022-09-12 16:37:43,082 [WARN] ModelIntegratedComponent:60 - No mode defined for component null
+2022-09-12 16:37:43,085 [WARN] ApiManager:304 - Cannot register API 'Board Extension:NFC07A1' from pack STMicroelectronics.X-CUBE-NFC7.1.0.0: no header file found
+2022-09-12 16:37:43,089 [WARN] ApiManager:304 - Cannot register API 'Board Extension:S2868A1' from pack STMicroelectronics.X-CUBE-SUBG2.4.2.0: no header file found
+2022-09-12 16:37:43,090 [WARN] ApiManager:304 - Cannot register API 'Board Extension:S2868A2' from pack STMicroelectronics.X-CUBE-SUBG2.4.2.0: no header file found
+2022-09-12 16:37:43,090 [WARN] ApiManager:304 - Cannot register API 'Board Extension:S2915A1' from pack STMicroelectronics.X-CUBE-SUBG2.4.2.0: no header file found
+2022-09-12 16:37:43,153 [WARN] ApiManager:304 - Cannot register API 'Board Extension:IKS01A3' from pack STMicroelectronics.X-CUBE-MEMS1.9.1.0: no header file found
+2022-09-12 16:37:43,153 [WARN] ApiManager:304 - Cannot register API 'Board Extension:IKS01A2' from pack STMicroelectronics.X-CUBE-MEMS1.9.1.0: no header file found
+2022-09-12 16:37:43,153 [WARN] ApiManager:304 - Cannot register API 'Board Extension:IKS02A1' from pack STMicroelectronics.X-CUBE-MEMS1.9.1.0: no header file found
+2022-09-12 16:37:43,228 [WARN] ApiManager:304 - Cannot register API 'Board Extension:IKS01A3' from pack STMicroelectronics.X-CUBE-MEMS1.9.3.0: no header file found
+2022-09-12 16:37:43,228 [WARN] ApiManager:304 - Cannot register API 'Board Extension:IKS01A2' from pack STMicroelectronics.X-CUBE-MEMS1.9.3.0: no header file found
+2022-09-12 16:37:43,228 [WARN] ApiManager:304 - Cannot register API 'Board Extension:IKS02A1' from pack STMicroelectronics.X-CUBE-MEMS1.9.3.0: no header file found
+2022-09-12 16:37:43,235 [WARN] ApiManager:304 - Cannot register API 'Board Extension:EEPRMA1' from pack STMicroelectronics.X-CUBE-EEPRMA1.3.1.1: no header file found
+2022-09-12 16:37:43,236 [WARN] ApiManager:304 - Cannot register API 'Board Extension:EEPRMA2' from pack STMicroelectronics.X-CUBE-EEPRMA1.3.1.1: no header file found
+2022-09-12 16:37:43,236 [WARN] ApiManager:304 - Cannot register API 'Board Extension:GNSS1A1' from pack STMicroelectronics.X-CUBE-GNSS1.5.2.0: no header file found
+2022-09-12 16:37:43,236 [WARN] ApiManager:304 - Cannot register API 'Board Support:Custom' from pack STMicroelectronics.X-CUBE-GNSS1.5.2.0: no header file found
+2022-09-12 16:37:43,236 [WARN] ApiManager:304 - Cannot register API 'Data Exchange:lib_gnss' from pack STMicroelectronics.X-CUBE-GNSS1.5.2.0: no header file found
+2022-09-12 16:37:43,237 [WARN] ApiManager:304 - Cannot register API 'Board Extension:S2868A1' from pack STMicroelectronics.X-CUBE-SFXS2LP1.4.0.0: no header file found
+2022-09-12 16:37:43,237 [WARN] ApiManager:304 - Cannot register API 'Board Extension:S2868A2' from pack STMicroelectronics.X-CUBE-SFXS2LP1.4.0.0: no header file found
+2022-09-12 16:37:43,237 [WARN] ApiManager:304 - Cannot register API 'Board Extension:S2915A1' from pack STMicroelectronics.X-CUBE-SFXS2LP1.4.0.0: no header file found
+2022-09-12 16:37:43,238 [WARN] ApiManager:304 - Cannot register API 'Wireless:BlueNRG-2' from pack STMicroelectronics.X-CUBE-BLE2.3.3.0: no header file found
+2022-09-12 16:37:43,257 [INFO] ThirdPartyModel:282 - Start build external matchings
+2022-09-12 16:37:43,908 [INFO] ThirdPartyModel:295 - End build external matchings
+2022-09-12 16:37:43,950 [INFO] ImportTextPane:183 - (OptionalMessage_ERROR) IP (RCC) : Parameter (48MHZClocksFreq_Value) has invalid value (84000000)
+2022-09-12 16:37:43,951 [INFO] ImportTextPane:183 - (OptionalMessage_ERROR) IP (RCC) : Parameter (RTCHSEDivFreq_Value) has invalid value (6000000)
+2022-09-12 16:37:45,624 [INFO] UtilMem:74 - End LoadConfig() Used Memory: 446208656 Bytes (510656512)
+2022-09-12 16:37:45,791 [INFO] ApiDb:567 - Connected to CubeFinder SQLite database (C:\Users\bdjdkn\.stmcufinder\plugins\mcufinder\mcu\cube-finder-db.db)
+2022-09-12 16:37:45,838 [INFO] ApiDb:654 - CubeFinder database Data Model version=2.1
+2022-09-12 16:37:45,838 [INFO] ApiDb:655 - CubeFinder database Configuration version=3.0.32
+2022-09-12 16:37:45,838 [INFO] ApiDb:656 - CubeFinder database generation date=2022-08-05 (1659688109)
+2022-09-12 16:37:45,839 [INFO] ApiDb:657 - CubeFinder database FW Pack versions=[STM32Cube_FW_C0_V1.0.0, STM32Cube_FW_F4_V1.27.1, STM32Cube_FW_F7_V1.17.0, STM32Cube_FW_G0_V1.6.1, STM32Cube_FW_G4_V1.5.0, STM32Cube_FW_H7_V1.10.0, STM32Cube_FW_L5_V1.4.0, STM32Cube_FW_U5_V1.1.1, STM32Cube_FW_WB_V1.14.1, STM32Cube_FW_WL_V1.2.0, X-CUBE-ALGOBUILD_V1.3.0, X-CUBE-ALS_V1.0.1, X-CUBE-AZRTOS-F4_V1.1.0, X-CUBE-AZRTOS-F7_V1.1.0, X-CUBE-AZRTOS-G0_V1.1.0, X-CUBE-AZRTOS-G4_V1.0.0, X-CUBE-AZRTOS-H7_V2.1.0, X-CUBE-AZRTOS-L4_V1.0.0, X-CUBE-AZRTOS-L5_V1.0.0, X-CUBE-AZRTOS-WL_V1.0.0, X-CUBE-BLE1_V6.2.3, X-CUBE-BLE2_V3.3.0, X-CUBE-EEPRMA1_V3.1.1, X-CUBE-GNSS1_V6.0.0, X-CUBE-MEMS1_V9.1.0, X-CUBE-MEMS1_V9.3.0, X-CUBE-NFC4_V2.0.4, X-CUBE-NFC7_V1.0.0, X-CUBE-SFXS2LP1_V4.0.0, X-CUBE-SUBG2_V5.0.0]
+2022-09-12 16:37:48,069 [INFO] ApiDb:212 - Found 97 in-development CPN: [NUCLEO-C031C6, STM32C0116-DK, STM32C011D6Y3TR, STM32C011D6Y6TR, STM32C011F4P3, STM32C011F4P6, STM32C011F4U3, STM32C011F4U6TR, STM32C011F6P3, STM32C011F6P6, STM32C011F6U3, STM32C011F6U6TR, STM32C011J4M3, STM32C011J4M6, STM32C011J6M3, STM32C011J6M6, STM32C0316-DK, STM32C031C4T3, STM32C031C4T6, STM32C031C4U3, STM32C031C4U6, STM32C031C6T3, STM32C031C6T6, STM32C031C6U3, STM32C031C6U6, STM32C031F4P3, STM32C031F4P6, STM32C031F6P3, STM32C031F6P6, STM32C031G4U3, STM32C031G4U6, STM32C031G6U3, STM32C031G6U6, STM32C031K4T3, STM32C031K4T6, STM32C031K4U3, STM32C031K4U6, STM32C031K6T3, STM32C031K6T6, STM32C031K6U3, STM32C031K6U6, STM32G071K8TXN, STM32G071K8UXN, STM32G081GBU6N, STM32G081KBT6N, STM32G081KBUXN, STM32G0B1CCT6N, STM32G0B1KCT6, STM32G0B1NEY6, STM32G0B1NEY6TR, STM32G0B1RCT6N, STM32G0C1CCT6, STM32G0C1CCT6N, STM32G0C1CCU6N, STM32G0C1CET6N, STM32G0C1CEU6N, STM32G0C1KCT6, STM32G0C1NEY6TR, STM32G0C1RCI6N, STM32G0C1RCT6N, STM32G0C1REI6N, STM32G0C1RET6N, STM32G0C1VCI6, STM32G0C1VEI6, STM32G471CCT6, STM32G471CCU6, STM32G471CET3, STM32G471CET6, STM32G471CEU3, STM32G471CEU6, STM32G471MCT6, STM32G471MET3, STM32G471MET6, STM32G471MEY6TR, STM32G471QCT6, STM32G471QET3, STM32G471RCT6, STM32G471RET3, STM32G471RET6, STM32G471VCH6, STM32G471VCI6, STM32G471VCT6, STM32G471VEH3, STM32G471VEH6, STM32G471VEI3, STM32G471VEI6, STM32G471VET3, STM32G471VET6, STM32G474CCT6, STM32L4R5QGI6STR, STM32U595ZJT6Q, STM32U599BJY6QTR, STM32U599NIH6Q, STM32U599NJH6Q, STM32U5A5ZJT6Q, STM32U5A9BJY6QTR, STM32U5A9NJH6Q]
+2022-09-12 16:37:48,074 [INFO] DbMcus:201 - Found 3505 MCUs, 3505 are supported
+2022-09-12 16:37:48,081 [INFO] ApiDb:407 - Load user favorites file C:\Users\bdjdkn/.stm32cubeide/favorites.mcus.txt: 0 item(s)
+2022-09-12 16:37:48,082 [INFO] ApiDb:411 - User favorites MCUs=[]
+2022-09-12 16:37:48,082 [INFO] DbMcus:207 - Set 0 / 0 favorites MCUs
+2022-09-12 16:37:48,101 [WARN] ThirdParty:785 - waiting for thirdparty lock release [change project]
+2022-09-12 16:37:48,102 [INFO] ThirdParty:787 - entering critical section [change project]
+2022-09-12 16:37:48,102 [INFO] ThirdParty:977 - CMSIS Pack Vendor :wolfSSL I-CUBE-wolfSSL 5.2.0
+2022-09-12 16:37:48,102 [INFO] ThirdParty:977 - CMSIS Pack Vendor :RoweBots I-CUBE-UNISONRTOS 5.5.0-4
+2022-09-12 16:37:48,102 [INFO] ThirdParty:977 - CMSIS Pack Vendor :STMicroelectronics X-CUBE-GNSS1 6.0.0
+2022-09-12 16:37:48,102 [INFO] ThirdParty:977 - CMSIS Pack Vendor :STMicroelectronics X-CUBE-AZRTOS-H7 2.1.0
+2022-09-12 16:37:48,102 [INFO] ThirdParty:977 - CMSIS Pack Vendor :STMicroelectronics USB_HOST 2.0.0
+2022-09-12 16:37:48,102 [INFO] ThirdParty:977 - CMSIS Pack Vendor :STMicroelectronics X-CUBE-AZRTOS-F4 1.1.0
+2022-09-12 16:37:48,102 [INFO] ThirdParty:977 - CMSIS Pack Vendor :STMicroelectronics LIBJPEG 8.0.0
+2022-09-12 16:37:48,102 [INFO] ThirdParty:977 - CMSIS Pack Vendor :STMicroelectronics USB_DEVICE 3.0.0
+2022-09-12 16:37:48,102 [INFO] ThirdParty:977 - CMSIS Pack Vendor :STMicroelectronics X-CUBE-BLEMGR 1.0.0
+2022-09-12 16:37:48,102 [INFO] ThirdParty:977 - CMSIS Pack Vendor :STMicroelectronics X-CUBE-MEMS1 9.2.0
+2022-09-12 16:37:48,102 [INFO] ThirdParty:977 - CMSIS Pack Vendor :STMicroelectronics X-CUBE-AZRTOS-F7 1.1.0
+2022-09-12 16:37:48,103 [INFO] ThirdParty:977 - CMSIS Pack Vendor :STMicroelectronics USB_DEVICE 2.0.0
+2022-09-12 16:37:48,103 [INFO] ThirdParty:977 - CMSIS Pack Vendor :STMicroelectronics X-CUBE-AI 7.1.0
+2022-09-12 16:37:48,103 [INFO] ThirdParty:977 - CMSIS Pack Vendor :STMicroelectronics X-CUBE-TOUCHGFX 4.19.1
+2022-09-12 16:37:48,103 [INFO] ThirdParty:977 - CMSIS Pack Vendor :STMicroelectronics X-CUBE-BLE1 6.2.3
+2022-09-12 16:37:48,103 [INFO] ThirdParty:977 - CMSIS Pack Vendor :STMicroelectronics X-CUBE-ALGOBUILD 1.3.0
+2022-09-12 16:37:48,103 [INFO] ThirdParty:977 - CMSIS Pack Vendor :STMicroelectronics FreeRTOS 0.0.1
+2022-09-12 16:37:48,103 [INFO] ThirdParty:977 - CMSIS Pack Vendor :STMicroelectronics X-CUBE-AZRTOS-G0 1.1.0
+2022-09-12 16:37:48,103 [INFO] ThirdParty:977 - CMSIS Pack Vendor :STMicroelectronics X-CUBE-SUBG2 5.0.0
+2022-09-12 16:37:48,103 [INFO] ThirdParty:977 - CMSIS Pack Vendor :SEGGER I-CUBE-embOS 1.2.0
+2022-09-12 16:37:48,103 [INFO] ThirdParty:977 - CMSIS Pack Vendor :STMicroelectronics STM32_WPAN 1.0.0
+2022-09-12 16:37:48,103 [INFO] ThirdParty:977 - CMSIS Pack Vendor :STMicroelectronics lwIP 2.0.3
+2022-09-12 16:37:48,103 [INFO] ThirdParty:977 - CMSIS Pack Vendor :STMicroelectronics X-CUBE-NFC4 2.0.4
+2022-09-12 16:37:48,103 [INFO] ThirdParty:977 - CMSIS Pack Vendor :STMicroelectronics X-CUBE-BLE2 3.2.2
+2022-09-12 16:37:48,103 [INFO] ThirdParty:977 - CMSIS Pack Vendor :STMicroelectronics USB_HOST 1.0.0
+2022-09-12 16:37:48,103 [INFO] ThirdParty:977 - CMSIS Pack Vendor :STMicroelectronics X-CUBE-NFC4 2.0.3
+2022-09-12 16:37:48,103 [INFO] ThirdParty:977 - CMSIS Pack Vendor :STMicroelectronics X-CUBE-DISPLAY 2.1.0
+2022-09-12 16:37:48,103 [INFO] ThirdParty:977 - CMSIS Pack Vendor :STMicroelectronics PDM2PCM 3.1.0
+2022-09-12 16:37:48,103 [INFO] ThirdParty:977 - CMSIS Pack Vendor :STMicroelectronics FP-ATR-ASTRA1 1.1.1
+2022-09-12 16:37:48,103 [INFO] ThirdParty:977 - CMSIS Pack Vendor :STMicroelectronics X-CUBE-TOUCHGFX 4.19.0
+2022-09-12 16:37:48,103 [INFO] ThirdParty:977 - CMSIS Pack Vendor :STMicroelectronics PDM2PCM 3.3.0
+2022-09-12 16:37:48,103 [INFO] ThirdParty:977 - CMSIS Pack Vendor :STMicroelectronics X-CUBE-TOF1 3.1.0
+2022-09-12 16:37:48,104 [INFO] ThirdParty:977 - CMSIS Pack Vendor :STMicroelectronics X-CUBE-SFXS2LP1 3.1.0
+2022-09-12 16:37:48,104 [INFO] ThirdParty:977 - CMSIS Pack Vendor :STMicroelectronics X-CUBE-AZRTOS-F4 1.0.0
+2022-09-12 16:37:48,104 [INFO] ThirdParty:977 - CMSIS Pack Vendor :STMicroelectronics X-CUBE-AZRTOS-H7 2.0.0
+2022-09-12 16:37:48,104 [INFO] ThirdParty:977 - CMSIS Pack Vendor :STMicroelectronics X-CUBE-AZRTOS-G4 1.0.0
+2022-09-12 16:37:48,104 [INFO] ThirdParty:977 - CMSIS Pack Vendor :STMicroelectronics X-CUBE-AZRTOS-L4 1.0.0
+2022-09-12 16:37:48,104 [INFO] ThirdParty:977 - CMSIS Pack Vendor :STMicroelectronics HAL Drivers 0.0.0
+2022-09-12 16:37:48,104 [INFO] ThirdParty:977 - CMSIS Pack Vendor :STMicroelectronics MBEDTLS 2.16.2
+2022-09-12 16:37:48,104 [INFO] ThirdParty:977 - CMSIS Pack Vendor :emotas I-CUBE-CANOPEN 1.1.2
+2022-09-12 16:37:48,104 [INFO] ThirdParty:977 - CMSIS Pack Vendor :STMicroelectronics X-CUBE-TOUCHGFX 4.20.0
+2022-09-12 16:37:48,104 [INFO] ThirdParty:977 - CMSIS Pack Vendor :STMicroelectronics MBEDTLS 2.14.1
+2022-09-12 16:37:48,104 [INFO] ThirdParty:977 - CMSIS Pack Vendor :STMicroelectronics X-CUBE-NFC7 1.0.0
+2022-09-12 16:37:48,104 [INFO] ThirdParty:977 - CMSIS Pack Vendor :STMicroelectronics X-CUBE-AZRTOS-F7 1.0.0
+2022-09-12 16:37:48,104 [INFO] ThirdParty:977 - CMSIS Pack Vendor :STMicroelectronics X-CUBE-AZRTOS-WL 1.0.0
+2022-09-12 16:37:48,104 [INFO] ThirdParty:977 - CMSIS Pack Vendor :STMicroelectronics X-CUBE-SUBG2 4.2.0
+2022-09-12 16:37:48,104 [INFO] ThirdParty:977 - CMSIS Pack Vendor :STMicroelectronics X-CUBE-MEMS1 9.1.0
+2022-09-12 16:37:48,104 [INFO] ThirdParty:977 - CMSIS Pack Vendor :STMicroelectronics X-CUBE-MEMS1 9.3.0
+2022-09-12 16:37:48,104 [INFO] ThirdParty:977 - CMSIS Pack Vendor :portGmbH I-Cube-SoM-uGOAL 1.1.0
+2022-09-12 16:37:48,105 [INFO] ThirdParty:977 - CMSIS Pack Vendor :STMicroelectronics X-CUBE-ALS 1.0.1
+2022-09-12 16:37:48,105 [INFO] ThirdParty:977 - CMSIS Pack Vendor :STMicroelectronics X-CUBE-AI 7.2.0
+2022-09-12 16:37:48,105 [INFO] ThirdParty:977 - CMSIS Pack Vendor :STMicroelectronics ThreadX 1.0.0
+2022-09-12 16:37:48,105 [INFO] ThirdParty:977 - CMSIS Pack Vendor :STMicroelectronics X-CUBE-AZRTOS-L5 1.0.0
+2022-09-12 16:37:48,105 [INFO] ThirdParty:977 - CMSIS Pack Vendor :STMicroelectronics USB_DEVICE 1.0.0
+2022-09-12 16:37:48,105 [INFO] ThirdParty:977 - CMSIS Pack Vendor :STMicroelectronics X-CUBE-AZRTOS-G0 1.0.0
+2022-09-12 16:37:48,105 [INFO] ThirdParty:977 - CMSIS Pack Vendor :STMicroelectronics X-CUBE-EEPRMA1 3.1.1
+2022-09-12 16:37:48,105 [INFO] ThirdParty:977 - CMSIS Pack Vendor :STMicroelectronics X-CUBE-GNSS1 5.2.0
+2022-09-12 16:37:48,105 [INFO] ThirdParty:977 - CMSIS Pack Vendor :STMicroelectronics ThreadX 0.0.2
+2022-09-12 16:37:48,105 [INFO] ThirdParty:977 - CMSIS Pack Vendor :STMicroelectronics lwIP 2.1.2
+2022-09-12 16:37:48,105 [INFO] ThirdParty:977 - CMSIS Pack Vendor :STMicroelectronics X-CUBE-SFXS2LP1 4.0.0
+2022-09-12 16:37:48,105 [INFO] ThirdParty:977 - CMSIS Pack Vendor :STMicroelectronics X-CUBE-BLE2 3.3.0
+2022-09-12 16:37:48,106 [INFO] ThirdParty:977 - CMSIS Pack Vendor :STMicroelectronics X-CUBE-DISPLAY 2.0.1
+2022-09-12 16:37:48,106 [INFO] ThirdParty:977 - CMSIS Pack Vendor :STMicroelectronics X-CUBE-DISPLAY 2.2.0
+2022-09-12 16:37:48,106 [INFO] ThirdParty:977 - CMSIS Pack Vendor :STMicroelectronics PDM2PCM 3.2.0
+2022-09-12 16:37:48,106 [INFO] ThirdParty:977 - CMSIS Pack Vendor :STMicroelectronics X-CUBE-TOF1 3.0.0
+2022-09-12 16:37:48,106 [INFO] ThirdParty:977 - CMSIS Pack Vendor :STMicroelectronics X-CUBE-ISPU 1.0.0
+2022-09-12 16:37:48,106 [INFO] ThirdParty:793 - exiting critical section [change project]
+2022-09-12 16:37:49,136 [INFO] PinOutPanel:1465 - setPackage(No Configuration,No Configuration)
+2022-09-12 16:37:49,139 [INFO] PinOutPanel:1465 - setPackage(STM32F407IGHx,UFBGA176)
+2022-09-12 16:37:50,402 [INFO] UtilMem:74 - Before build in PCC Used Memory: 430424888 Bytes (510656512)
+2022-09-12 16:37:51,933 [INFO] UtilMem:74 - After build in PCC Used Memory: 445843056 Bytes (537919488)
+2022-09-12 16:37:52,014 [INFO] IPUIPlugin:75 - create IPUIPlugin
+2022-09-12 16:37:52,014 [INFO] IPUIPlugin:75 - create IPUIPlugin
+2022-09-12 16:37:52,014 [INFO] IPUIPlugin:75 - create IPUIPlugin
+2022-09-12 16:37:52,014 [INFO] IPUIPlugin:75 - create IPUIPlugin
+2022-09-12 16:37:52,014 [INFO] IPUIPlugin:75 - create IPUIPlugin
+2022-09-12 16:37:52,015 [INFO] IPUIPlugin:75 - create IPUIPlugin
+2022-09-12 16:37:52,016 [INFO] IPUIPlugin:75 - create IPUIPlugin
+2022-09-12 16:37:52,016 [INFO] IPUIPlugin:75 - create IPUIPlugin
+2022-09-12 16:37:52,016 [INFO] IPUIPlugin:75 - create IPUIPlugin
+2022-09-12 16:37:52,017 [INFO] IPUIPlugin:75 - create IPUIPlugin
+2022-09-12 16:37:52,017 [INFO] IPUIPlugin:75 - create IPUIPlugin
+2022-09-12 16:37:52,017 [INFO] IPUIPlugin:75 - create IPUIPlugin
+2022-09-12 16:37:52,017 [INFO] IPUIPlugin:75 - create IPUIPlugin
+2022-09-12 16:37:52,017 [INFO] IPUIPlugin:75 - create IPUIPlugin
+2022-09-12 16:37:52,018 [INFO] IPUIPlugin:75 - create IPUIPlugin
+2022-09-12 16:37:52,018 [INFO] IPUIPlugin:75 - create IPUIPlugin
+2022-09-12 16:37:52,018 [INFO] IPUIPlugin:75 - create IPUIPlugin
+2022-09-12 16:37:52,018 [INFO] IPUIPlugin:75 - create IPUIPlugin
+2022-09-12 16:37:52,018 [INFO] IPUIPlugin:75 - create IPUIPlugin
+2022-09-12 16:37:52,019 [INFO] IPUIPlugin:75 - create IPUIPlugin
+2022-09-12 16:37:52,019 [INFO] IPUIPlugin:75 - create IPUIPlugin
+2022-09-12 16:37:52,020 [INFO] IPUIPlugin:75 - create IPUIPlugin
+2022-09-12 16:37:52,020 [INFO] IPUIPlugin:75 - create IPUIPlugin
+2022-09-12 16:37:52,021 [INFO] IPUIPlugin:75 - create IPUIPlugin
+2022-09-12 16:37:52,021 [INFO] IPUIPlugin:75 - create IPUIPlugin
+2022-09-12 16:37:52,021 [INFO] IPUIPlugin:75 - create IPUIPlugin
+2022-09-12 16:37:52,022 [INFO] IPUIPlugin:75 - create IPUIPlugin
+2022-09-12 16:37:52,022 [INFO] IPUIPlugin:75 - create IPUIPlugin
+2022-09-12 16:37:52,023 [INFO] IPUIPlugin:75 - create IPUIPlugin
+2022-09-12 16:37:52,023 [INFO] IPUIPlugin:75 - create IPUIPlugin
+2022-09-12 16:37:52,023 [INFO] IPUIPlugin:75 - create IPUIPlugin
+2022-09-12 16:37:52,024 [INFO] IPUIPlugin:75 - create IPUIPlugin
+2022-09-12 16:37:52,024 [INFO] IPUIPlugin:75 - create IPUIPlugin
+2022-09-12 16:37:52,025 [INFO] IPUIPlugin:75 - create IPUIPlugin
+2022-09-12 16:37:52,025 [INFO] IPUIPlugin:75 - create IPUIPlugin
+2022-09-12 16:37:52,026 [INFO] IPUIPlugin:75 - create IPUIPlugin
+2022-09-12 16:37:52,026 [INFO] IPUIPlugin:75 - create IPUIPlugin
+2022-09-12 16:37:52,027 [INFO] IPUIPlugin:75 - create IPUIPlugin
+2022-09-12 16:37:52,027 [INFO] IPUIPlugin:75 - create IPUIPlugin
+2022-09-12 16:37:52,028 [INFO] IPUIPlugin:75 - create IPUIPlugin
+2022-09-12 16:37:52,028 [INFO] IPUIPlugin:75 - create IPUIPlugin
+2022-09-12 16:37:52,029 [INFO] IPUIPlugin:75 - create IPUIPlugin
+2022-09-12 16:37:52,029 [INFO] IPUIPlugin:75 - create IPUIPlugin
+2022-09-12 16:37:52,030 [INFO] IPUIPlugin:75 - create IPUIPlugin
+2022-09-12 16:37:52,030 [INFO] IPUIPlugin:75 - create IPUIPlugin
+2022-09-12 16:37:52,031 [INFO] IPUIPlugin:75 - create IPUIPlugin
+2022-09-12 16:37:52,031 [INFO] IPUIPlugin:75 - create IPUIPlugin
+2022-09-12 16:37:52,032 [INFO] IPUIPlugin:75 - create IPUIPlugin
+2022-09-12 16:37:52,032 [INFO] IPUIPlugin:75 - create IPUIPlugin
+2022-09-12 16:37:52,033 [INFO] IPUIPlugin:75 - create IPUIPlugin
+2022-09-12 16:37:52,034 [INFO] IPUIPlugin:75 - create IPUIPlugin
+2022-09-12 16:37:52,034 [INFO] IPUIPlugin:75 - create IPUIPlugin
+2022-09-12 16:37:52,035 [INFO] IPUIPlugin:75 - create IPUIPlugin
+2022-09-12 16:37:52,036 [INFO] IPUIPlugin:75 - create IPUIPlugin
+2022-09-12 16:37:52,037 [INFO] IPUIPlugin:75 - create IPUIPlugin
+2022-09-12 16:37:52,038 [INFO] IPUIPlugin:75 - create IPUIPlugin
+2022-09-12 16:37:52,038 [INFO] IPUIPlugin:75 - create IPUIPlugin
+2022-09-12 16:37:52,039 [INFO] IPUIPlugin:75 - create IPUIPlugin
+2022-09-12 16:37:52,121 [INFO] ApiDbMcu:488 - Load IP Config File for PDM2PCM
+2022-09-12 16:37:52,137 [INFO] Can:66 - Can Add PropertyChangeListener com.st.microxplorer.plugins.ip.can.Can@1d4d2626
+2022-09-12 16:37:52,505 [INFO] OpenFileManager:323 - Restore cursor
+2022-09-12 16:38:39,490 [INFO] Gpio:254 - dependency for GPIO [CAN2, RCC, SYS]
+2022-09-12 16:39:25,868 [INFO] Gpio:254 - dependency for GPIO [CAN2, RCC, SYS]
+2022-09-12 16:39:28,282 [INFO] UtilMem:74 - End SaveConfig() Used Memory: 450982664 Bytes (537919488)
+2022-09-12 16:39:30,616 [INFO] UtilMem:74 - End SaveConfig() Used Memory: 452895720 Bytes (537919488)
+2022-09-12 16:39:34,099 [INFO] UtilMem:74 - End SaveConfig() Used Memory: 457555912 Bytes (537919488)
+2022-09-12 16:39:35,073 [INFO] BlockDiagram:2740 - set Specific Code input for plugin: CAN
+2022-09-12 16:39:35,074 [INFO] BlockDiagram:2740 - set Specific Code input for plugin: SYS
+2022-09-12 16:39:35,074 [INFO] BlockDiagram:2740 - set Specific Code input for plugin: RCC
+2022-09-12 16:39:35,074 [INFO] BlockDiagram:2740 - set Specific Code input for plugin: NVIC
+2022-09-12 16:39:35,075 [INFO] BlockDiagram:2740 - set Specific Code input for plugin: GPIO
+2022-09-12 16:39:35,077 [INFO] CodeGenerator:681 - code generatio: config db path: C:\ST\STM32CubeIDE_1.9.0\STM32CubeIDE\plugins\com.st.stm32cube.common.mx_6.5.0.202202251913\\db\
+2022-09-12 16:39:36,097 [INFO] CodeEngine:237 - oldGeneratedFile, E:\2022summer chuankou\2022summer chuankou\stm\stm32_can_read\stm32_can_read\MXTmpFiles\license.tmp_save
+2022-09-12 16:39:36,721 [INFO] CodeEngine:261 - Generated code: E:\2022summer chuankou\2022summer chuankou\stm\stm32_can_read\stm32_can_read\MXTmpFiles\license.tmp
+2022-09-12 16:39:36,865 [INFO] CodeEngine:237 - oldGeneratedFile, E:\2022summer chuankou\2022summer chuankou\stm\stm32_can_read\stm32_can_read\MXTmpFiles\gpio.tmp_save
+2022-09-12 16:39:37,083 [INFO] CodeEngine:261 - Generated code: E:\2022summer chuankou\2022summer chuankou\stm\stm32_can_read\stm32_can_read\MXTmpFiles\gpio.tmp
+2022-09-12 16:39:37,225 [INFO] CodeEngine:237 - oldGeneratedFile, E:\2022summer chuankou\2022summer chuankou\stm\stm32_can_read\stm32_can_read\Core\Src\stm32f4xx_it.c_save
+2022-09-12 16:39:37,438 [INFO] CodeEngine:261 - Generated code: E:\2022summer chuankou\2022summer chuankou\stm\stm32_can_read\stm32_can_read\Core\Src\stm32f4xx_it.c
+2022-09-12 16:39:37,457 [INFO] CodeEngine:237 - oldGeneratedFile, E:\2022summer chuankou\2022summer chuankou\stm\stm32_can_read\stm32_can_read\Core\Inc\stm32f4xx_it.h_save
+2022-09-12 16:39:37,580 [INFO] CodeEngine:261 - Generated code: E:\2022summer chuankou\2022summer chuankou\stm\stm32_can_read\stm32_can_read\Core\Inc\stm32f4xx_it.h
+2022-09-12 16:39:37,612 [INFO] CodeEngine:237 - oldGeneratedFile, E:\2022summer chuankou\2022summer chuankou\stm\stm32_can_read\stm32_can_read\Core\Src\stm32f4xx_hal_msp.c_save
+2022-09-12 16:39:37,856 [INFO] CodeEngine:261 - Generated code: E:\2022summer chuankou\2022summer chuankou\stm\stm32_can_read\stm32_can_read\Core\Src\stm32f4xx_hal_msp.c
+2022-09-12 16:39:37,892 [INFO] CodeEngine:237 - oldGeneratedFile, E:\2022summer chuankou\2022summer chuankou\stm\stm32_can_read\stm32_can_read\MXTmpFiles\system.tmp_save
+2022-09-12 16:39:38,045 [INFO] CodeEngine:261 - Generated code: E:\2022summer chuankou\2022summer chuankou\stm\stm32_can_read\stm32_can_read\MXTmpFiles\system.tmp
+2022-09-12 16:39:38,074 [INFO] CodeEngine:237 - oldGeneratedFile, E:\2022summer chuankou\2022summer chuankou\stm\stm32_can_read\stm32_can_read\Core\Inc\stm32f4xx_hal_conf.h_save
+2022-09-12 16:39:38,285 [INFO] CodeEngine:261 - Generated code: E:\2022summer chuankou\2022summer chuankou\stm\stm32_can_read\stm32_can_read\Core\Inc\stm32f4xx_hal_conf.h
+2022-09-12 16:39:38,382 [INFO] CodeEngine:237 - oldGeneratedFile, E:\2022summer chuankou\2022summer chuankou\stm\stm32_can_read\stm32_can_read\Core\Inc\main.h_save
+2022-09-12 16:39:38,560 [INFO] CodeEngine:261 - Generated code: E:\2022summer chuankou\2022summer chuankou\stm\stm32_can_read\stm32_can_read\Core\Inc\main.h
+2022-09-12 16:39:38,597 [INFO] CodeEngine:237 - oldGeneratedFile, E:\2022summer chuankou\2022summer chuankou\stm\stm32_can_read\stm32_can_read\Core\Src\main.c_save
+2022-09-12 16:39:38,932 [INFO] CodeEngine:261 - Generated code: E:\2022summer chuankou\2022summer chuankou\stm\stm32_can_read\stm32_can_read\Core\Src\main.c
+2022-09-12 16:39:40,429 [INFO] ProjectBuilder:2913 - Time for Copy HAL[1] : 600mS.
+2022-09-12 16:39:40,446 [INFO] ProjectBuilder:4015 - Project Generator version: 3.16.0
+2022-09-12 16:39:40,911 [INFO] ConfigFileManager:1287 - The Die is : DIE413
+2022-09-12 16:39:40,922 [INFO] ApiDbMcu:488 - Load IP Config File for FATFS
+2022-09-12 16:39:40,931 [INFO] ApiDbMcu:488 - Load IP Config File for FREERTOS
+2022-09-12 16:39:40,935 [INFO] ApiDbMcu:488 - Load IP Config File for LIBJPEG
+2022-09-12 16:39:40,945 [INFO] ApiDbMcu:488 - Load IP Config File for LWIP
+2022-09-12 16:39:40,952 [INFO] ApiDbMcu:488 - Load IP Config File for MBEDTLS
+2022-09-12 16:39:40,964 [INFO] ApiDbMcu:488 - Load IP Config File for USB_DEVICE
+2022-09-12 16:39:40,972 [INFO] ApiDbMcu:488 - Load IP Config File for USB_HOST
+2022-09-12 16:39:43,660 [INFO] ProjectBuilder:4183 - Time for Generating toolchain IDE Files: 3213mS.
+2022-09-12 16:39:43,662 [INFO] ProjectBuilder:2785 - Time for Copy CMSIS : 1mS.
+2022-09-12 16:39:43,683 [INFO] ProjectBuilder:2785 - Time for Copy CMSIS : 0mS.
+2022-09-12 16:47:07,401 [INFO] Gpio:254 - dependency for GPIO [CAN2, RCC, SYS]
+2022-09-12 16:47:11,466 [INFO] UtilMem:74 - End SaveConfig() Used Memory: 528658536 Bytes (871366656)
+2022-09-12 16:47:13,491 [INFO] UtilMem:74 - End SaveConfig() Used Memory: 562735208 Bytes (871366656)
+2022-09-12 16:47:22,436 [INFO] UtilMem:74 - End SaveConfig() Used Memory: 693284968 Bytes (871366656)
+2022-09-12 16:47:22,815 [INFO] BlockDiagram:2740 - set Specific Code input for plugin: CAN
+2022-09-12 16:47:22,815 [INFO] BlockDiagram:2740 - set Specific Code input for plugin: SYS
+2022-09-12 16:47:22,815 [INFO] BlockDiagram:2740 - set Specific Code input for plugin: RCC
+2022-09-12 16:47:22,816 [INFO] BlockDiagram:2740 - set Specific Code input for plugin: NVIC
+2022-09-12 16:47:22,816 [INFO] BlockDiagram:2740 - set Specific Code input for plugin: GPIO
+2022-09-12 16:47:22,818 [INFO] CodeGenerator:681 - code generatio: config db path: C:\ST\STM32CubeIDE_1.9.0\STM32CubeIDE\plugins\com.st.stm32cube.common.mx_6.5.0.202202251913\\db\
+2022-09-12 16:47:23,267 [INFO] CodeEngine:237 - oldGeneratedFile, E:\2022summer chuankou\2022summer chuankou\stm\stm32_can_read\stm32_can_read\MXTmpFiles\license.tmp_save
+2022-09-12 16:47:23,373 [INFO] CodeEngine:261 - Generated code: E:\2022summer chuankou\2022summer chuankou\stm\stm32_can_read\stm32_can_read\MXTmpFiles\license.tmp
+2022-09-12 16:47:23,407 [INFO] CodeEngine:237 - oldGeneratedFile, E:\2022summer chuankou\2022summer chuankou\stm\stm32_can_read\stm32_can_read\MXTmpFiles\gpio.tmp_save
+2022-09-12 16:47:23,531 [INFO] CodeEngine:261 - Generated code: E:\2022summer chuankou\2022summer chuankou\stm\stm32_can_read\stm32_can_read\MXTmpFiles\gpio.tmp
+2022-09-12 16:47:23,620 [INFO] CodeEngine:237 - oldGeneratedFile, E:\2022summer chuankou\2022summer chuankou\stm\stm32_can_read\stm32_can_read\Core\Src\stm32f4xx_it.c_save
+2022-09-12 16:47:23,772 [INFO] CodeEngine:261 - Generated code: E:\2022summer chuankou\2022summer chuankou\stm\stm32_can_read\stm32_can_read\Core\Src\stm32f4xx_it.c
+2022-09-12 16:47:23,784 [INFO] CodeEngine:237 - oldGeneratedFile, E:\2022summer chuankou\2022summer chuankou\stm\stm32_can_read\stm32_can_read\Core\Inc\stm32f4xx_it.h_save
+2022-09-12 16:47:23,897 [INFO] CodeEngine:261 - Generated code: E:\2022summer chuankou\2022summer chuankou\stm\stm32_can_read\stm32_can_read\Core\Inc\stm32f4xx_it.h
+2022-09-12 16:47:23,928 [INFO] CodeEngine:237 - oldGeneratedFile, E:\2022summer chuankou\2022summer chuankou\stm\stm32_can_read\stm32_can_read\Core\Src\stm32f4xx_hal_msp.c_save
+2022-09-12 16:47:24,098 [INFO] CodeEngine:261 - Generated code: E:\2022summer chuankou\2022summer chuankou\stm\stm32_can_read\stm32_can_read\Core\Src\stm32f4xx_hal_msp.c
+2022-09-12 16:47:24,107 [INFO] CodeEngine:237 - oldGeneratedFile, E:\2022summer chuankou\2022summer chuankou\stm\stm32_can_read\stm32_can_read\MXTmpFiles\system.tmp_save
+2022-09-12 16:47:24,186 [INFO] CodeEngine:261 - Generated code: E:\2022summer chuankou\2022summer chuankou\stm\stm32_can_read\stm32_can_read\MXTmpFiles\system.tmp
+2022-09-12 16:47:24,206 [INFO] CodeEngine:237 - oldGeneratedFile, E:\2022summer chuankou\2022summer chuankou\stm\stm32_can_read\stm32_can_read\Core\Inc\stm32f4xx_hal_conf.h_save
+2022-09-12 16:47:24,281 [INFO] CodeEngine:261 - Generated code: E:\2022summer chuankou\2022summer chuankou\stm\stm32_can_read\stm32_can_read\Core\Inc\stm32f4xx_hal_conf.h
+2022-09-12 16:47:24,326 [INFO] CodeEngine:237 - oldGeneratedFile, E:\2022summer chuankou\2022summer chuankou\stm\stm32_can_read\stm32_can_read\Core\Inc\main.h_save
+2022-09-12 16:47:24,420 [INFO] CodeEngine:261 - Generated code: E:\2022summer chuankou\2022summer chuankou\stm\stm32_can_read\stm32_can_read\Core\Inc\main.h
+2022-09-12 16:47:24,433 [INFO] CodeEngine:237 - oldGeneratedFile, E:\2022summer chuankou\2022summer chuankou\stm\stm32_can_read\stm32_can_read\Core\Src\main.c_save
+2022-09-12 16:47:24,610 [INFO] CodeEngine:261 - Generated code: E:\2022summer chuankou\2022summer chuankou\stm\stm32_can_read\stm32_can_read\Core\Src\main.c
+2022-09-12 16:47:25,707 [INFO] ProjectBuilder:2913 - Time for Copy HAL[1] : 493mS.
+2022-09-12 16:47:25,715 [INFO] ProjectBuilder:4015 - Project Generator version: 3.16.0
+2022-09-12 16:47:26,190 [INFO] ConfigFileManager:1287 - The Die is : DIE413
+2022-09-12 16:47:27,825 [INFO] ProjectBuilder:4183 - Time for Generating toolchain IDE Files: 2110mS.
+2022-09-12 16:47:27,826 [INFO] ProjectBuilder:2785 - Time for Copy CMSIS : 0mS.
+2022-09-12 16:47:27,831 [INFO] ProjectBuilder:2785 - Time for Copy CMSIS : 0mS.
+2022-09-12 17:35:46,687 [ERROR] AdobePublisher:162 - Exception while opening the connection: java.net.UnknownHostException: stmicroelectronics.d3.sc.omtrdc.net
+2022-09-12 17:35:46,689 [ERROR] AdobePublisher:162 - Exception while opening the connection: java.net.UnknownHostException: stmicroelectronics.d3.sc.omtrdc.net
+2022-09-12 17:35:46,690 [ERROR] AdobePublisher:162 - Exception while opening the connection: java.net.UnknownHostException: stmicroelectronics.d3.sc.omtrdc.net
+2022-09-12 17:35:46,691 [ERROR] AdobePublisher:162 - Exception while opening the connection: java.net.UnknownHostException: stmicroelectronics.d3.sc.omtrdc.net
+2022-09-12 17:35:46,692 [ERROR] AdobePublisher:162 - Exception while opening the connection: java.net.UnknownHostException: stmicroelectronics.d3.sc.omtrdc.net
+2022-09-12 17:35:49,002 [ERROR] AdobePublisher:162 - Exception while opening the connection: java.net.UnknownHostException: stmicroelectronics.d3.sc.omtrdc.net
+2022-09-12 17:35:49,002 [ERROR] AdobePublisher:162 - Exception while opening the connection: java.net.UnknownHostException: stmicroelectronics.d3.sc.omtrdc.net
+2022-09-12 17:35:49,002 [ERROR] AdobePublisher:162 - Exception while opening the connection: java.net.UnknownHostException: stmicroelectronics.d3.sc.omtrdc.net
+2022-09-12 17:35:49,003 [ERROR] AdobePublisher:162 - Exception while opening the connection: java.net.UnknownHostException: stmicroelectronics.d3.sc.omtrdc.net
+2022-09-12 17:35:49,003 [ERROR] AdobePublisher:162 - Exception while opening the connection: java.net.UnknownHostException: stmicroelectronics.d3.sc.omtrdc.net
+2022-09-12 17:41:00,928 [INFO] NvicIntPanel:96 - NVIC parent = com.st.microxplorer.plugins.ip.nvic.MultiNvicIntPanel[,0,0,0x0,invalid,layout=javax.swing.BoxLayout,alignmentX=0.0,alignmentY=0.0,border=,flags=9,maximumSize=,minimumSize=,preferredSize=]
+2022-09-12 17:41:01,084 [INFO] NvicIntPanel:96 - NVIC parent = com.st.microxplorer.plugins.ip.nvic.MultiNvicIntPanel[,0,0,0x0,invalid,layout=javax.swing.BoxLayout,alignmentX=0.0,alignmentY=0.0,border=,flags=9,maximumSize=,minimumSize=,preferredSize=]
+2022-09-12 17:41:05,125 [INFO] NvicIntPanel:96 - NVIC parent = com.st.microxplorer.plugins.ip.nvic.MultiNvicIntPanel[,0,0,0x0,invalid,layout=javax.swing.BoxLayout,alignmentX=0.0,alignmentY=0.0,border=,flags=9,maximumSize=,minimumSize=,preferredSize=]
+2022-09-12 17:41:05,224 [INFO] NvicIntPanel:96 - NVIC parent = com.st.microxplorer.plugins.ip.nvic.MultiNvicIntPanel[,0,0,0x0,invalid,layout=javax.swing.BoxLayout,alignmentX=0.0,alignmentY=0.0,border=,flags=9,maximumSize=,minimumSize=,preferredSize=]
+2022-09-12 17:41:09,024 [INFO] NvicIntPanel:96 - NVIC parent = com.st.microxplorer.plugins.ip.nvic.MultiNvicIntPanel[,0,0,0x0,invalid,layout=javax.swing.BoxLayout,alignmentX=0.0,alignmentY=0.0,border=,flags=9,maximumSize=,minimumSize=,preferredSize=]
+2022-09-12 17:41:09,169 [INFO] NvicIntPanel:96 - NVIC parent = com.st.microxplorer.plugins.ip.nvic.MultiNvicIntPanel[,0,0,0x0,invalid,layout=javax.swing.BoxLayout,alignmentX=0.0,alignmentY=0.0,border=,flags=9,maximumSize=,minimumSize=,preferredSize=]
+2022-09-12 17:41:11,781 [INFO] NvicIntPanel:96 - NVIC parent = com.st.microxplorer.plugins.ip.nvic.MultiNvicIntPanel[,0,0,0x0,invalid,layout=javax.swing.BoxLayout,alignmentX=0.0,alignmentY=0.0,border=,flags=9,maximumSize=,minimumSize=,preferredSize=]
+2022-09-12 17:41:14,033 [INFO] NvicIntPanel:96 - NVIC parent = com.st.microxplorer.plugins.ip.nvic.MultiNvicIntPanel[,0,0,0x0,invalid,layout=javax.swing.BoxLayout,alignmentX=0.0,alignmentY=0.0,border=,flags=9,maximumSize=,minimumSize=,preferredSize=]
+2022-09-12 17:41:16,722 [INFO] NvicIntPanel:96 - NVIC parent = com.st.microxplorer.plugins.ip.nvic.MultiNvicIntPanel[,0,0,0x0,invalid,layout=javax.swing.BoxLayout,alignmentX=0.0,alignmentY=0.0,border=,flags=9,maximumSize=,minimumSize=,preferredSize=]
+2022-09-12 17:41:18,142 [INFO] NvicIntPanel:96 - NVIC parent = com.st.microxplorer.plugins.ip.nvic.MultiNvicIntPanel[,0,0,0x0,invalid,layout=javax.swing.BoxLayout,alignmentX=0.0,alignmentY=0.0,border=,flags=9,maximumSize=,minimumSize=,preferredSize=]
+2022-09-12 17:41:28,219 [INFO] NvicIntPanel:96 - NVIC parent = com.st.microxplorer.plugins.ip.nvic.MultiNvicIntPanel[,0,0,0x0,invalid,layout=javax.swing.BoxLayout,alignmentX=0.0,alignmentY=0.0,border=,flags=9,maximumSize=,minimumSize=,preferredSize=]
+2022-09-12 17:41:28,313 [INFO] NvicIntPanel:96 - NVIC parent = com.st.microxplorer.plugins.ip.nvic.MultiNvicIntPanel[,0,0,0x0,invalid,layout=javax.swing.BoxLayout,alignmentX=0.0,alignmentY=0.0,border=,flags=9,maximumSize=,minimumSize=,preferredSize=]
+2022-09-12 17:41:57,470 [INFO] NvicIntPanel:96 - NVIC parent = com.st.microxplorer.plugins.ip.nvic.MultiNvicIntPanel[,0,0,0x0,invalid,layout=javax.swing.BoxLayout,alignmentX=0.0,alignmentY=0.0,border=,flags=9,maximumSize=,minimumSize=,preferredSize=]
+2022-09-12 17:41:58,817 [INFO] NvicIntPanel:96 - NVIC parent = com.st.microxplorer.plugins.ip.nvic.MultiNvicIntPanel[,0,0,0x0,invalid,layout=javax.swing.BoxLayout,alignmentX=0.0,alignmentY=0.0,border=,flags=9,maximumSize=,minimumSize=,preferredSize=]
+2022-09-12 17:42:02,233 [INFO] NvicIntPanel:96 - NVIC parent = com.st.microxplorer.plugins.ip.nvic.MultiNvicIntPanel[,0,0,0x0,invalid,layout=javax.swing.BoxLayout,alignmentX=0.0,alignmentY=0.0,border=,flags=9,maximumSize=,minimumSize=,preferredSize=]
+2022-09-12 17:42:03,242 [INFO] NvicIntPanel:96 - NVIC parent = com.st.microxplorer.plugins.ip.nvic.MultiNvicIntPanel[,0,0,0x0,invalid,layout=javax.swing.BoxLayout,alignmentX=0.0,alignmentY=0.0,border=,flags=9,maximumSize=,minimumSize=,preferredSize=]
+2022-09-12 17:42:08,713 [INFO] NvicIntPanel:96 - NVIC parent = com.st.microxplorer.plugins.ip.nvic.MultiNvicIntPanel[,0,0,0x0,invalid,layout=javax.swing.BoxLayout,alignmentX=0.0,alignmentY=0.0,border=,flags=9,maximumSize=,minimumSize=,preferredSize=]
+2022-09-12 17:42:09,930 [INFO] NvicIntPanel:96 - NVIC parent = com.st.microxplorer.plugins.ip.nvic.MultiNvicIntPanel[,0,0,0x0,invalid,layout=javax.swing.BoxLayout,alignmentX=0.0,alignmentY=0.0,border=,flags=9,maximumSize=,minimumSize=,preferredSize=]
+2022-09-12 17:42:17,022 [INFO] NvicIntPanel:96 - NVIC parent = com.st.microxplorer.plugins.ip.nvic.MultiNvicIntPanel[,0,0,0x0,invalid,layout=javax.swing.BoxLayout,alignmentX=0.0,alignmentY=0.0,border=,flags=9,maximumSize=,minimumSize=,preferredSize=]
+2022-09-12 17:42:17,119 [INFO] NvicIntPanel:96 - NVIC parent = com.st.microxplorer.plugins.ip.nvic.MultiNvicIntPanel[,0,0,0x0,invalid,layout=javax.swing.BoxLayout,alignmentX=0.0,alignmentY=0.0,border=,flags=9,maximumSize=,minimumSize=,preferredSize=]
+2022-09-12 17:42:22,501 [INFO] NvicIntPanel:96 - NVIC parent = com.st.microxplorer.plugins.ip.nvic.MultiNvicIntPanel[,0,0,0x0,invalid,layout=javax.swing.BoxLayout,alignmentX=0.0,alignmentY=0.0,border=,flags=9,maximumSize=,minimumSize=,preferredSize=]
+2022-09-12 17:42:22,603 [INFO] NvicIntPanel:96 - NVIC parent = com.st.microxplorer.plugins.ip.nvic.MultiNvicIntPanel[,0,0,0x0,invalid,layout=javax.swing.BoxLayout,alignmentX=0.0,alignmentY=0.0,border=,flags=9,maximumSize=,minimumSize=,preferredSize=]
+2022-09-12 17:42:24,645 [INFO] NvicIntPanel:96 - NVIC parent = com.st.microxplorer.plugins.ip.nvic.MultiNvicIntPanel[,0,0,0x0,invalid,layout=javax.swing.BoxLayout,alignmentX=0.0,alignmentY=0.0,border=,flags=9,maximumSize=,minimumSize=,preferredSize=]
+2022-09-12 17:42:24,721 [INFO] NvicIntPanel:96 - NVIC parent = com.st.microxplorer.plugins.ip.nvic.MultiNvicIntPanel[,0,0,0x0,invalid,layout=javax.swing.BoxLayout,alignmentX=0.0,alignmentY=0.0,border=,flags=9,maximumSize=,minimumSize=,preferredSize=]
+2022-09-12 17:42:29,161 [INFO] NvicIntPanel:96 - NVIC parent = com.st.microxplorer.plugins.ip.nvic.MultiNvicIntPanel[,0,0,0x0,invalid,layout=javax.swing.BoxLayout,alignmentX=0.0,alignmentY=0.0,border=,flags=9,maximumSize=,minimumSize=,preferredSize=]
+2022-09-12 17:42:29,247 [INFO] NvicIntPanel:96 - NVIC parent = com.st.microxplorer.plugins.ip.nvic.MultiNvicIntPanel[,0,0,0x0,invalid,layout=javax.swing.BoxLayout,alignmentX=0.0,alignmentY=0.0,border=,flags=9,maximumSize=,minimumSize=,preferredSize=]
+2022-09-12 17:42:33,634 [INFO] NvicIntPanel:96 - NVIC parent = com.st.microxplorer.plugins.ip.nvic.MultiNvicIntPanel[,0,0,0x0,invalid,layout=javax.swing.BoxLayout,alignmentX=0.0,alignmentY=0.0,border=,flags=9,maximumSize=,minimumSize=,preferredSize=]
+2022-09-12 17:42:33,727 [INFO] NvicIntPanel:96 - NVIC parent = com.st.microxplorer.plugins.ip.nvic.MultiNvicIntPanel[,0,0,0x0,invalid,layout=javax.swing.BoxLayout,alignmentX=0.0,alignmentY=0.0,border=,flags=9,maximumSize=,minimumSize=,preferredSize=]
+2022-09-12 17:42:51,808 [INFO] NvicIntPanel:96 - NVIC parent = com.st.microxplorer.plugins.ip.nvic.MultiNvicIntPanel[,0,0,0x0,invalid,layout=javax.swing.BoxLayout,alignmentX=0.0,alignmentY=0.0,border=,flags=9,maximumSize=,minimumSize=,preferredSize=]
+2022-09-12 17:42:51,929 [INFO] NvicIntPanel:96 - NVIC parent = com.st.microxplorer.plugins.ip.nvic.MultiNvicIntPanel[,0,0,0x0,invalid,layout=javax.swing.BoxLayout,alignmentX=0.0,alignmentY=0.0,border=,flags=9,maximumSize=,minimumSize=,preferredSize=]
+2022-09-12 17:43:05,441 [INFO] NvicIntPanel:96 - NVIC parent = com.st.microxplorer.plugins.ip.nvic.MultiNvicIntPanel[,0,0,0x0,invalid,layout=javax.swing.BoxLayout,alignmentX=0.0,alignmentY=0.0,border=,flags=9,maximumSize=,minimumSize=,preferredSize=]
+2022-09-12 17:43:05,544 [INFO] NvicIntPanel:96 - NVIC parent = com.st.microxplorer.plugins.ip.nvic.MultiNvicIntPanel[,0,0,0x0,invalid,layout=javax.swing.BoxLayout,alignmentX=0.0,alignmentY=0.0,border=,flags=9,maximumSize=,minimumSize=,preferredSize=]
+2022-09-12 17:43:07,755 [INFO] NvicIntPanel:96 - NVIC parent = com.st.microxplorer.plugins.ip.nvic.MultiNvicIntPanel[,0,0,0x0,invalid,layout=javax.swing.BoxLayout,alignmentX=0.0,alignmentY=0.0,border=,flags=9,maximumSize=,minimumSize=,preferredSize=]
+2022-09-12 17:43:07,849 [INFO] NvicIntPanel:96 - NVIC parent = com.st.microxplorer.plugins.ip.nvic.MultiNvicIntPanel[,0,0,0x0,invalid,layout=javax.swing.BoxLayout,alignmentX=0.0,alignmentY=0.0,border=,flags=9,maximumSize=,minimumSize=,preferredSize=]
+2022-09-12 17:43:09,512 [INFO] NvicIntPanel:96 - NVIC parent = com.st.microxplorer.plugins.ip.nvic.MultiNvicIntPanel[,0,0,0x0,invalid,layout=javax.swing.BoxLayout,alignmentX=0.0,alignmentY=0.0,border=,flags=9,maximumSize=,minimumSize=,preferredSize=]
+2022-09-12 17:43:09,589 [INFO] NvicIntPanel:96 - NVIC parent = com.st.microxplorer.plugins.ip.nvic.MultiNvicIntPanel[,0,0,0x0,invalid,layout=javax.swing.BoxLayout,alignmentX=0.0,alignmentY=0.0,border=,flags=9,maximumSize=,minimumSize=,preferredSize=]
+2022-09-12 17:45:08,835 [INFO] NvicIntPanel:96 - NVIC parent = com.st.microxplorer.plugins.ip.nvic.MultiNvicIntPanel[,0,0,0x0,invalid,layout=javax.swing.BoxLayout,alignmentX=0.0,alignmentY=0.0,border=,flags=9,maximumSize=,minimumSize=,preferredSize=]
+2022-09-12 17:45:08,914 [INFO] NvicIntPanel:96 - NVIC parent = com.st.microxplorer.plugins.ip.nvic.MultiNvicIntPanel[,0,0,0x0,invalid,layout=javax.swing.BoxLayout,alignmentX=0.0,alignmentY=0.0,border=,flags=9,maximumSize=,minimumSize=,preferredSize=]
+2022-09-12 17:45:13,128 [INFO] NvicIntPanel:96 - NVIC parent = com.st.microxplorer.plugins.ip.nvic.MultiNvicIntPanel[,0,0,0x0,invalid,layout=javax.swing.BoxLayout,alignmentX=0.0,alignmentY=0.0,border=,flags=9,maximumSize=,minimumSize=,preferredSize=]
+2022-09-12 17:45:13,223 [INFO] NvicIntPanel:96 - NVIC parent = com.st.microxplorer.plugins.ip.nvic.MultiNvicIntPanel[,0,0,0x0,invalid,layout=javax.swing.BoxLayout,alignmentX=0.0,alignmentY=0.0,border=,flags=9,maximumSize=,minimumSize=,preferredSize=]
+2022-09-12 17:45:17,384 [INFO] NvicIntPanel:96 - NVIC parent = com.st.microxplorer.plugins.ip.nvic.MultiNvicIntPanel[,0,0,0x0,invalid,layout=javax.swing.BoxLayout,alignmentX=0.0,alignmentY=0.0,border=,flags=9,maximumSize=,minimumSize=,preferredSize=]
+2022-09-12 17:45:17,479 [INFO] NvicIntPanel:96 - NVIC parent = com.st.microxplorer.plugins.ip.nvic.MultiNvicIntPanel[,0,0,0x0,invalid,layout=javax.swing.BoxLayout,alignmentX=0.0,alignmentY=0.0,border=,flags=9,maximumSize=,minimumSize=,preferredSize=]
+2022-09-12 17:45:28,318 [INFO] NvicIntPanel:96 - NVIC parent = com.st.microxplorer.plugins.ip.nvic.MultiNvicIntPanel[,0,0,0x0,invalid,layout=javax.swing.BoxLayout,alignmentX=0.0,alignmentY=0.0,border=,flags=9,maximumSize=,minimumSize=,preferredSize=]
+2022-09-12 17:45:28,402 [INFO] NvicIntPanel:96 - NVIC parent = com.st.microxplorer.plugins.ip.nvic.MultiNvicIntPanel[,0,0,0x0,invalid,layout=javax.swing.BoxLayout,alignmentX=0.0,alignmentY=0.0,border=,flags=9,maximumSize=,minimumSize=,preferredSize=]
+2022-09-12 17:45:32,561 [INFO] NvicIntPanel:96 - NVIC parent = com.st.microxplorer.plugins.ip.nvic.MultiNvicIntPanel[,0,0,0x0,invalid,layout=javax.swing.BoxLayout,alignmentX=0.0,alignmentY=0.0,border=,flags=9,maximumSize=,minimumSize=,preferredSize=]
+2022-09-12 17:45:32,647 [INFO] NvicIntPanel:96 - NVIC parent = com.st.microxplorer.plugins.ip.nvic.MultiNvicIntPanel[,0,0,0x0,invalid,layout=javax.swing.BoxLayout,alignmentX=0.0,alignmentY=0.0,border=,flags=9,maximumSize=,minimumSize=,preferredSize=]
+2022-09-12 17:45:52,571 [INFO] UtilMem:74 - End SaveConfig() Used Memory: 512816248 Bytes (894435328)
+2022-09-12 17:45:52,656 [INFO] UtilMem:74 - End SaveConfig() Used Memory: 539410848 Bytes (894435328)
+2022-09-12 17:45:53,348 [INFO] UtilMem:74 - End SaveConfig() Used Memory: 579104632 Bytes (894435328)
+2022-09-12 17:45:53,767 [INFO] BlockDiagram:2740 - set Specific Code input for plugin: CAN
+2022-09-12 17:45:53,767 [INFO] BlockDiagram:2740 - set Specific Code input for plugin: SYS
+2022-09-12 17:45:53,767 [INFO] BlockDiagram:2740 - set Specific Code input for plugin: RCC
+2022-09-12 17:45:53,767 [INFO] BlockDiagram:2740 - set Specific Code input for plugin: NVIC
+2022-09-12 17:45:53,768 [INFO] BlockDiagram:2740 - set Specific Code input for plugin: GPIO
+2022-09-12 17:45:53,770 [INFO] CodeGenerator:681 - code generatio: config db path: C:\ST\STM32CubeIDE_1.9.0\STM32CubeIDE\plugins\com.st.stm32cube.common.mx_6.5.0.202202251913\\db\
+2022-09-12 17:45:54,362 [INFO] CodeEngine:237 - oldGeneratedFile, E:\2022summer chuankou\2022summer chuankou\stm\stm32_can_read\stm32_can_read\MXTmpFiles\license.tmp_save
+2022-09-12 17:45:54,430 [INFO] CodeEngine:261 - Generated code: E:\2022summer chuankou\2022summer chuankou\stm\stm32_can_read\stm32_can_read\MXTmpFiles\license.tmp
+2022-09-12 17:45:54,460 [INFO] CodeEngine:237 - oldGeneratedFile, E:\2022summer chuankou\2022summer chuankou\stm\stm32_can_read\stm32_can_read\MXTmpFiles\gpio.tmp_save
+2022-09-12 17:45:54,563 [INFO] CodeEngine:261 - Generated code: E:\2022summer chuankou\2022summer chuankou\stm\stm32_can_read\stm32_can_read\MXTmpFiles\gpio.tmp
+2022-09-12 17:45:54,635 [INFO] CodeEngine:237 - oldGeneratedFile, E:\2022summer chuankou\2022summer chuankou\stm\stm32_can_read\stm32_can_read\Core\Src\stm32f4xx_it.c_save
+2022-09-12 17:45:54,726 [INFO] CodeEngine:261 - Generated code: E:\2022summer chuankou\2022summer chuankou\stm\stm32_can_read\stm32_can_read\Core\Src\stm32f4xx_it.c
+2022-09-12 17:45:54,737 [INFO] CodeEngine:237 - oldGeneratedFile, E:\2022summer chuankou\2022summer chuankou\stm\stm32_can_read\stm32_can_read\Core\Inc\stm32f4xx_it.h_save
+2022-09-12 17:45:54,876 [INFO] CodeEngine:261 - Generated code: E:\2022summer chuankou\2022summer chuankou\stm\stm32_can_read\stm32_can_read\Core\Inc\stm32f4xx_it.h
+2022-09-12 17:45:54,909 [INFO] CodeEngine:237 - oldGeneratedFile, E:\2022summer chuankou\2022summer chuankou\stm\stm32_can_read\stm32_can_read\Core\Src\stm32f4xx_hal_msp.c_save
+2022-09-12 17:45:55,043 [INFO] CodeEngine:261 - Generated code: E:\2022summer chuankou\2022summer chuankou\stm\stm32_can_read\stm32_can_read\Core\Src\stm32f4xx_hal_msp.c
+2022-09-12 17:45:55,057 [INFO] CodeEngine:237 - oldGeneratedFile, E:\2022summer chuankou\2022summer chuankou\stm\stm32_can_read\stm32_can_read\MXTmpFiles\system.tmp_save
+2022-09-12 17:45:55,116 [INFO] CodeEngine:261 - Generated code: E:\2022summer chuankou\2022summer chuankou\stm\stm32_can_read\stm32_can_read\MXTmpFiles\system.tmp
+2022-09-12 17:45:55,134 [INFO] CodeEngine:237 - oldGeneratedFile, E:\2022summer chuankou\2022summer chuankou\stm\stm32_can_read\stm32_can_read\Core\Inc\stm32f4xx_hal_conf.h_save
+2022-09-12 17:45:55,239 [INFO] CodeEngine:261 - Generated code: E:\2022summer chuankou\2022summer chuankou\stm\stm32_can_read\stm32_can_read\Core\Inc\stm32f4xx_hal_conf.h
+2022-09-12 17:45:55,289 [INFO] CodeEngine:237 - oldGeneratedFile, E:\2022summer chuankou\2022summer chuankou\stm\stm32_can_read\stm32_can_read\Core\Inc\main.h_save
+2022-09-12 17:45:55,354 [INFO] CodeEngine:261 - Generated code: E:\2022summer chuankou\2022summer chuankou\stm\stm32_can_read\stm32_can_read\Core\Inc\main.h
+2022-09-12 17:45:55,363 [INFO] CodeEngine:237 - oldGeneratedFile, E:\2022summer chuankou\2022summer chuankou\stm\stm32_can_read\stm32_can_read\Core\Src\main.c_save
+2022-09-12 17:45:55,483 [INFO] CodeEngine:261 - Generated code: E:\2022summer chuankou\2022summer chuankou\stm\stm32_can_read\stm32_can_read\Core\Src\main.c
+2022-09-12 17:45:56,639 [INFO] ProjectBuilder:2913 - Time for Copy HAL[1] : 516mS.
+2022-09-12 17:45:56,647 [INFO] ProjectBuilder:4015 - Project Generator version: 3.16.0
+2022-09-12 17:45:57,129 [INFO] ConfigFileManager:1287 - The Die is : DIE413
+2022-09-12 17:45:59,018 [INFO] ProjectBuilder:4183 - Time for Generating toolchain IDE Files: 2371mS.
+2022-09-12 17:45:59,019 [INFO] ProjectBuilder:2785 - Time for Copy CMSIS : 1mS.
+2022-09-12 17:45:59,025 [INFO] ProjectBuilder:2785 - Time for Copy CMSIS : 0mS.
+2022-09-12 18:39:23,003 [INFO] Gpio:254 - dependency for GPIO [CAN2, RCC, SYS]
+2022-09-12 18:50:52,446 [INFO] NvicIntPanel:96 - NVIC parent = com.st.microxplorer.plugins.ip.nvic.MultiNvicIntPanel[,0,0,453x436,layout=javax.swing.BoxLayout,alignmentX=0.0,alignmentY=0.0,border=,flags=9,maximumSize=,minimumSize=,preferredSize=]
+2022-09-12 18:51:10,212 [INFO] NvicIntPanel:96 - NVIC parent = com.st.microxplorer.plugins.ip.nvic.MultiNvicIntPanel[,0,0,0x0,invalid,layout=javax.swing.BoxLayout,alignmentX=0.0,alignmentY=0.0,border=,flags=9,maximumSize=,minimumSize=,preferredSize=]
+2022-09-12 18:51:20,187 [INFO] UtilMem:74 - End SaveConfig() Used Memory: 763087864 Bytes (961544192)
+2022-09-12 18:51:20,271 [INFO] UtilMem:74 - End SaveConfig() Used Memory: 523296704 Bytes (961544192)
+2022-09-12 18:51:20,756 [INFO] UtilMem:74 - End SaveConfig() Used Memory: 515288968 Bytes (961544192)
+2022-09-12 18:51:21,044 [INFO] BlockDiagram:2740 - set Specific Code input for plugin: CAN
+2022-09-12 18:51:21,044 [INFO] BlockDiagram:2740 - set Specific Code input for plugin: SYS
+2022-09-12 18:51:21,044 [INFO] BlockDiagram:2740 - set Specific Code input for plugin: RCC
+2022-09-12 18:51:21,044 [INFO] BlockDiagram:2740 - set Specific Code input for plugin: NVIC
+2022-09-12 18:51:21,044 [INFO] BlockDiagram:2740 - set Specific Code input for plugin: GPIO
+2022-09-12 18:51:21,046 [INFO] CodeGenerator:681 - code generatio: config db path: C:\ST\STM32CubeIDE_1.9.0\STM32CubeIDE\plugins\com.st.stm32cube.common.mx_6.5.0.202202251913\\db\
+2022-09-12 18:51:21,567 [INFO] CodeEngine:237 - oldGeneratedFile, E:\2022summer chuankou\2022summer chuankou\stm\stm32_can_read\stm32_can_read\MXTmpFiles\license.tmp_save
+2022-09-12 18:51:21,637 [INFO] CodeEngine:261 - Generated code: E:\2022summer chuankou\2022summer chuankou\stm\stm32_can_read\stm32_can_read\MXTmpFiles\license.tmp
+2022-09-12 18:51:21,661 [INFO] CodeEngine:237 - oldGeneratedFile, E:\2022summer chuankou\2022summer chuankou\stm\stm32_can_read\stm32_can_read\MXTmpFiles\gpio.tmp_save
+2022-09-12 18:51:21,744 [INFO] CodeEngine:261 - Generated code: E:\2022summer chuankou\2022summer chuankou\stm\stm32_can_read\stm32_can_read\MXTmpFiles\gpio.tmp
+2022-09-12 18:51:21,805 [INFO] CodeEngine:237 - oldGeneratedFile, E:\2022summer chuankou\2022summer chuankou\stm\stm32_can_read\stm32_can_read\Core\Src\stm32f4xx_it.c_save
+2022-09-12 18:51:21,878 [INFO] CodeEngine:261 - Generated code: E:\2022summer chuankou\2022summer chuankou\stm\stm32_can_read\stm32_can_read\Core\Src\stm32f4xx_it.c
+2022-09-12 18:51:21,890 [INFO] CodeEngine:237 - oldGeneratedFile, E:\2022summer chuankou\2022summer chuankou\stm\stm32_can_read\stm32_can_read\Core\Inc\stm32f4xx_it.h_save
+2022-09-12 18:51:21,953 [INFO] CodeEngine:261 - Generated code: E:\2022summer chuankou\2022summer chuankou\stm\stm32_can_read\stm32_can_read\Core\Inc\stm32f4xx_it.h
+2022-09-12 18:51:21,970 [INFO] CodeEngine:237 - oldGeneratedFile, E:\2022summer chuankou\2022summer chuankou\stm\stm32_can_read\stm32_can_read\Core\Src\stm32f4xx_hal_msp.c_save
+2022-09-12 18:51:22,061 [INFO] CodeEngine:261 - Generated code: E:\2022summer chuankou\2022summer chuankou\stm\stm32_can_read\stm32_can_read\Core\Src\stm32f4xx_hal_msp.c
+2022-09-12 18:51:22,071 [INFO] CodeEngine:237 - oldGeneratedFile, E:\2022summer chuankou\2022summer chuankou\stm\stm32_can_read\stm32_can_read\MXTmpFiles\system.tmp_save
+2022-09-12 18:51:22,142 [INFO] CodeEngine:261 - Generated code: E:\2022summer chuankou\2022summer chuankou\stm\stm32_can_read\stm32_can_read\MXTmpFiles\system.tmp
+2022-09-12 18:51:22,158 [INFO] CodeEngine:237 - oldGeneratedFile, E:\2022summer chuankou\2022summer chuankou\stm\stm32_can_read\stm32_can_read\Core\Inc\stm32f4xx_hal_conf.h_save
+2022-09-12 18:51:22,228 [INFO] CodeEngine:261 - Generated code: E:\2022summer chuankou\2022summer chuankou\stm\stm32_can_read\stm32_can_read\Core\Inc\stm32f4xx_hal_conf.h
+2022-09-12 18:51:22,267 [INFO] CodeEngine:237 - oldGeneratedFile, E:\2022summer chuankou\2022summer chuankou\stm\stm32_can_read\stm32_can_read\Core\Inc\main.h_save
+2022-09-12 18:51:22,331 [INFO] CodeEngine:261 - Generated code: E:\2022summer chuankou\2022summer chuankou\stm\stm32_can_read\stm32_can_read\Core\Inc\main.h
+2022-09-12 18:51:22,340 [INFO] CodeEngine:237 - oldGeneratedFile, E:\2022summer chuankou\2022summer chuankou\stm\stm32_can_read\stm32_can_read\Core\Src\main.c_save
+2022-09-12 18:51:22,475 [INFO] CodeEngine:261 - Generated code: E:\2022summer chuankou\2022summer chuankou\stm\stm32_can_read\stm32_can_read\Core\Src\main.c
+2022-09-12 18:51:23,363 [INFO] ProjectBuilder:2913 - Time for Copy HAL[1] : 402mS.
+2022-09-12 18:51:23,370 [INFO] ProjectBuilder:4015 - Project Generator version: 3.16.0
+2022-09-12 18:51:23,763 [INFO] ConfigFileManager:1287 - The Die is : DIE413
+2022-09-12 18:51:25,274 [INFO] ProjectBuilder:4183 - Time for Generating toolchain IDE Files: 1904mS.
+2022-09-12 18:51:25,276 [INFO] ProjectBuilder:2785 - Time for Copy CMSIS : 1mS.
+2022-09-12 18:51:25,305 [INFO] ProjectBuilder:2785 - Time for Copy CMSIS : 1mS.
+2022-09-12 21:49:59,827 [INFO] NvicIntPanel:96 - NVIC parent = com.st.microxplorer.plugins.ip.nvic.MultiNvicIntPanel[,0,0,0x0,invalid,layout=javax.swing.BoxLayout,alignmentX=0.0,alignmentY=0.0,border=,flags=9,maximumSize=,minimumSize=,preferredSize=]
+2022-09-12 21:50:01,219 [INFO] NvicIntPanel:96 - NVIC parent = com.st.microxplorer.plugins.ip.nvic.MultiNvicIntPanel[,0,0,0x0,invalid,layout=javax.swing.BoxLayout,alignmentX=0.0,alignmentY=0.0,border=,flags=9,maximumSize=,minimumSize=,preferredSize=]
+2022-09-12 21:50:03,840 [INFO] NvicIntPanel:96 - NVIC parent = com.st.microxplorer.plugins.ip.nvic.MultiNvicIntPanel[,0,0,0x0,invalid,layout=javax.swing.BoxLayout,alignmentX=0.0,alignmentY=0.0,border=,flags=9,maximumSize=,minimumSize=,preferredSize=]
+2022-09-12 21:50:05,160 [INFO] NvicIntPanel:96 - NVIC parent = com.st.microxplorer.plugins.ip.nvic.MultiNvicIntPanel[,0,0,0x0,invalid,layout=javax.swing.BoxLayout,alignmentX=0.0,alignmentY=0.0,border=,flags=9,maximumSize=,minimumSize=,preferredSize=]
+2022-09-12 21:54:57,841 [INFO] NvicIntPanel:96 - NVIC parent = com.st.microxplorer.plugins.ip.nvic.MultiNvicIntPanel[,0,0,0x0,invalid,layout=javax.swing.BoxLayout,alignmentX=0.0,alignmentY=0.0,border=,flags=9,maximumSize=,minimumSize=,preferredSize=]
+2022-09-12 21:54:57,932 [INFO] NvicIntPanel:96 - NVIC parent = com.st.microxplorer.plugins.ip.nvic.MultiNvicIntPanel[,0,0,0x0,invalid,layout=javax.swing.BoxLayout,alignmentX=0.0,alignmentY=0.0,border=,flags=9,maximumSize=,minimumSize=,preferredSize=]
+2022-09-12 21:55:07,296 [INFO] NvicIntPanel:96 - NVIC parent = com.st.microxplorer.plugins.ip.nvic.MultiNvicIntPanel[,0,0,0x0,invalid,layout=javax.swing.BoxLayout,alignmentX=0.0,alignmentY=0.0,border=,flags=9,maximumSize=,minimumSize=,preferredSize=]
+2022-09-12 21:55:07,406 [INFO] NvicIntPanel:96 - NVIC parent = com.st.microxplorer.plugins.ip.nvic.MultiNvicIntPanel[,0,0,0x0,invalid,layout=javax.swing.BoxLayout,alignmentX=0.0,alignmentY=0.0,border=,flags=9,maximumSize=,minimumSize=,preferredSize=]
+2022-09-12 21:55:14,758 [INFO] NvicIntPanel:96 - NVIC parent = com.st.microxplorer.plugins.ip.nvic.MultiNvicIntPanel[,0,0,0x0,invalid,layout=javax.swing.BoxLayout,alignmentX=0.0,alignmentY=0.0,border=,flags=9,maximumSize=,minimumSize=,preferredSize=]
+2022-09-12 21:55:14,836 [INFO] NvicIntPanel:96 - NVIC parent = com.st.microxplorer.plugins.ip.nvic.MultiNvicIntPanel[,0,0,0x0,invalid,layout=javax.swing.BoxLayout,alignmentX=0.0,alignmentY=0.0,border=,flags=9,maximumSize=,minimumSize=,preferredSize=]
+2022-09-12 21:55:19,916 [INFO] NvicIntPanel:96 - NVIC parent = com.st.microxplorer.plugins.ip.nvic.MultiNvicIntPanel[,0,0,0x0,invalid,layout=javax.swing.BoxLayout,alignmentX=0.0,alignmentY=0.0,border=,flags=9,maximumSize=,minimumSize=,preferredSize=]
+2022-09-12 21:55:19,995 [INFO] NvicIntPanel:96 - NVIC parent = com.st.microxplorer.plugins.ip.nvic.MultiNvicIntPanel[,0,0,0x0,invalid,layout=javax.swing.BoxLayout,alignmentX=0.0,alignmentY=0.0,border=,flags=9,maximumSize=,minimumSize=,preferredSize=]
+2022-09-12 21:55:58,317 [INFO] UtilMem:74 - End SaveConfig() Used Memory: 487213112 Bytes (978321408)
+2022-09-12 21:55:58,407 [INFO] UtilMem:74 - End SaveConfig() Used Memory: 512378936 Bytes (978321408)
+2022-09-12 21:55:59,115 [INFO] UtilMem:74 - End SaveConfig() Used Memory: 550127672 Bytes (978321408)
+2022-09-12 21:55:59,502 [INFO] BlockDiagram:2740 - set Specific Code input for plugin: CAN
+2022-09-12 21:55:59,502 [INFO] BlockDiagram:2740 - set Specific Code input for plugin: SYS
+2022-09-12 21:55:59,502 [INFO] BlockDiagram:2740 - set Specific Code input for plugin: RCC
+2022-09-12 21:55:59,503 [INFO] BlockDiagram:2740 - set Specific Code input for plugin: NVIC
+2022-09-12 21:55:59,503 [INFO] BlockDiagram:2740 - set Specific Code input for plugin: GPIO
+2022-09-12 21:55:59,506 [INFO] CodeGenerator:681 - code generatio: config db path: C:\ST\STM32CubeIDE_1.9.0\STM32CubeIDE\plugins\com.st.stm32cube.common.mx_6.5.0.202202251913\\db\
+2022-09-12 21:56:00,049 [INFO] CodeEngine:237 - oldGeneratedFile, E:\2022summer chuankou\2022summer chuankou\stm\stm32_can_read\stm32_can_read\MXTmpFiles\license.tmp_save
+2022-09-12 21:56:00,275 [INFO] CodeEngine:261 - Generated code: E:\2022summer chuankou\2022summer chuankou\stm\stm32_can_read\stm32_can_read\MXTmpFiles\license.tmp
+2022-09-12 21:56:00,316 [INFO] CodeEngine:237 - oldGeneratedFile, E:\2022summer chuankou\2022summer chuankou\stm\stm32_can_read\stm32_can_read\MXTmpFiles\gpio.tmp_save
+2022-09-12 21:56:00,417 [INFO] CodeEngine:261 - Generated code: E:\2022summer chuankou\2022summer chuankou\stm\stm32_can_read\stm32_can_read\MXTmpFiles\gpio.tmp
+2022-09-12 21:56:00,466 [INFO] CodeEngine:237 - oldGeneratedFile, E:\2022summer chuankou\2022summer chuankou\stm\stm32_can_read\stm32_can_read\Core\Src\stm32f4xx_it.c_save
+2022-09-12 21:56:00,543 [INFO] CodeEngine:261 - Generated code: E:\2022summer chuankou\2022summer chuankou\stm\stm32_can_read\stm32_can_read\Core\Src\stm32f4xx_it.c
+2022-09-12 21:56:00,556 [INFO] CodeEngine:237 - oldGeneratedFile, E:\2022summer chuankou\2022summer chuankou\stm\stm32_can_read\stm32_can_read\Core\Inc\stm32f4xx_it.h_save
+2022-09-12 21:56:00,624 [INFO] CodeEngine:261 - Generated code: E:\2022summer chuankou\2022summer chuankou\stm\stm32_can_read\stm32_can_read\Core\Inc\stm32f4xx_it.h
+2022-09-12 21:56:00,645 [INFO] CodeEngine:237 - oldGeneratedFile, E:\2022summer chuankou\2022summer chuankou\stm\stm32_can_read\stm32_can_read\Core\Src\stm32f4xx_hal_msp.c_save
+2022-09-12 21:56:00,729 [INFO] CodeEngine:261 - Generated code: E:\2022summer chuankou\2022summer chuankou\stm\stm32_can_read\stm32_can_read\Core\Src\stm32f4xx_hal_msp.c
+2022-09-12 21:56:00,739 [INFO] CodeEngine:237 - oldGeneratedFile, E:\2022summer chuankou\2022summer chuankou\stm\stm32_can_read\stm32_can_read\MXTmpFiles\system.tmp_save
+2022-09-12 21:56:00,800 [INFO] CodeEngine:261 - Generated code: E:\2022summer chuankou\2022summer chuankou\stm\stm32_can_read\stm32_can_read\MXTmpFiles\system.tmp
+2022-09-12 21:56:00,818 [INFO] CodeEngine:237 - oldGeneratedFile, E:\2022summer chuankou\2022summer chuankou\stm\stm32_can_read\stm32_can_read\Core\Inc\stm32f4xx_hal_conf.h_save
+2022-09-12 21:56:00,913 [INFO] CodeEngine:261 - Generated code: E:\2022summer chuankou\2022summer chuankou\stm\stm32_can_read\stm32_can_read\Core\Inc\stm32f4xx_hal_conf.h
+2022-09-12 21:56:00,960 [INFO] CodeEngine:237 - oldGeneratedFile, E:\2022summer chuankou\2022summer chuankou\stm\stm32_can_read\stm32_can_read\Core\Inc\main.h_save
+2022-09-12 21:56:01,025 [INFO] CodeEngine:261 - Generated code: E:\2022summer chuankou\2022summer chuankou\stm\stm32_can_read\stm32_can_read\Core\Inc\main.h
+2022-09-12 21:56:01,035 [INFO] CodeEngine:237 - oldGeneratedFile, E:\2022summer chuankou\2022summer chuankou\stm\stm32_can_read\stm32_can_read\Core\Src\main.c_save
+2022-09-12 21:56:01,152 [INFO] CodeEngine:261 - Generated code: E:\2022summer chuankou\2022summer chuankou\stm\stm32_can_read\stm32_can_read\Core\Src\main.c
+2022-09-12 21:56:02,345 [INFO] ProjectBuilder:2913 - Time for Copy HAL[1] : 571mS.
+2022-09-12 21:56:02,355 [INFO] ProjectBuilder:4015 - Project Generator version: 3.16.0
+2022-09-12 21:56:02,589 [INFO] ConfigFileManager:1287 - The Die is : DIE413
+2022-09-12 21:56:04,576 [INFO] ProjectBuilder:4183 - Time for Generating toolchain IDE Files: 2221mS.
+2022-09-12 21:56:04,578 [INFO] ProjectBuilder:2785 - Time for Copy CMSIS : 1mS.
+2022-09-12 21:56:04,586 [INFO] ProjectBuilder:2785 - Time for Copy CMSIS : 1mS.
+2022-09-12 22:03:08,626 [INFO] NvicIntPanel:96 - NVIC parent = com.st.microxplorer.plugins.ip.nvic.MultiNvicIntPanel[,0,0,453x436,layout=javax.swing.BoxLayout,alignmentX=0.0,alignmentY=0.0,border=,flags=9,maximumSize=,minimumSize=,preferredSize=]
+2022-09-12 22:32:39,069 [INFO] UtilMem:74 - End SaveConfig() Used Memory: 708619312 Bytes (1073741824)
+2022-09-12 22:32:39,241 [INFO] UtilMem:74 - End SaveConfig() Used Memory: 553809408 Bytes (1073741824)
+2022-09-12 22:32:39,514 [INFO] UtilMem:74 - End SaveConfig() Used Memory: 630355456 Bytes (1073741824)
+2022-09-12 22:32:39,814 [INFO] BlockDiagram:2740 - set Specific Code input for plugin: CAN
+2022-09-12 22:32:39,856 [INFO] BlockDiagram:2740 - set Specific Code input for plugin: SYS
+2022-09-12 22:32:39,857 [INFO] BlockDiagram:2740 - set Specific Code input for plugin: RCC
+2022-09-12 22:32:39,857 [INFO] BlockDiagram:2740 - set Specific Code input for plugin: NVIC
+2022-09-12 22:32:39,857 [INFO] BlockDiagram:2740 - set Specific Code input for plugin: GPIO
+2022-09-12 22:32:39,859 [INFO] CodeGenerator:681 - code generatio: config db path: C:\ST\STM32CubeIDE_1.9.0\STM32CubeIDE\plugins\com.st.stm32cube.common.mx_6.5.0.202202251913\\db\
+2022-09-12 22:32:40,327 [INFO] CodeEngine:237 - oldGeneratedFile, E:\2022summer chuankou\2022summer chuankou\stm\stm32_can_read\stm32_can_read\MXTmpFiles\license.tmp_save
+2022-09-12 22:32:40,384 [INFO] CodeEngine:261 - Generated code: E:\2022summer chuankou\2022summer chuankou\stm\stm32_can_read\stm32_can_read\MXTmpFiles\license.tmp
+2022-09-12 22:32:40,407 [INFO] CodeEngine:237 - oldGeneratedFile, E:\2022summer chuankou\2022summer chuankou\stm\stm32_can_read\stm32_can_read\MXTmpFiles\gpio.tmp_save
+2022-09-12 22:32:40,466 [INFO] CodeEngine:261 - Generated code: E:\2022summer chuankou\2022summer chuankou\stm\stm32_can_read\stm32_can_read\MXTmpFiles\gpio.tmp
+2022-09-12 22:32:40,518 [INFO] CodeEngine:237 - oldGeneratedFile, E:\2022summer chuankou\2022summer chuankou\stm\stm32_can_read\stm32_can_read\Core\Src\stm32f4xx_it.c_save
+2022-09-12 22:32:40,588 [INFO] CodeEngine:261 - Generated code: E:\2022summer chuankou\2022summer chuankou\stm\stm32_can_read\stm32_can_read\Core\Src\stm32f4xx_it.c
+2022-09-12 22:32:40,601 [INFO] CodeEngine:237 - oldGeneratedFile, E:\2022summer chuankou\2022summer chuankou\stm\stm32_can_read\stm32_can_read\Core\Inc\stm32f4xx_it.h_save
+2022-09-12 22:32:40,688 [INFO] CodeEngine:261 - Generated code: E:\2022summer chuankou\2022summer chuankou\stm\stm32_can_read\stm32_can_read\Core\Inc\stm32f4xx_it.h
+2022-09-12 22:32:40,715 [INFO] CodeEngine:237 - oldGeneratedFile, E:\2022summer chuankou\2022summer chuankou\stm\stm32_can_read\stm32_can_read\Core\Src\stm32f4xx_hal_msp.c_save
+2022-09-12 22:32:40,930 [INFO] CodeEngine:261 - Generated code: E:\2022summer chuankou\2022summer chuankou\stm\stm32_can_read\stm32_can_read\Core\Src\stm32f4xx_hal_msp.c
+2022-09-12 22:32:40,947 [INFO] CodeEngine:237 - oldGeneratedFile, E:\2022summer chuankou\2022summer chuankou\stm\stm32_can_read\stm32_can_read\MXTmpFiles\system.tmp_save
+2022-09-12 22:32:41,073 [INFO] CodeEngine:261 - Generated code: E:\2022summer chuankou\2022summer chuankou\stm\stm32_can_read\stm32_can_read\MXTmpFiles\system.tmp
+2022-09-12 22:32:41,131 [INFO] CodeEngine:237 - oldGeneratedFile, E:\2022summer chuankou\2022summer chuankou\stm\stm32_can_read\stm32_can_read\Core\Inc\stm32f4xx_hal_conf.h_save
+2022-09-12 22:32:41,311 [INFO] CodeEngine:261 - Generated code: E:\2022summer chuankou\2022summer chuankou\stm\stm32_can_read\stm32_can_read\Core\Inc\stm32f4xx_hal_conf.h
+2022-09-12 22:32:41,394 [INFO] CodeEngine:237 - oldGeneratedFile, E:\2022summer chuankou\2022summer chuankou\stm\stm32_can_read\stm32_can_read\Core\Inc\main.h_save
+2022-09-12 22:32:41,512 [INFO] CodeEngine:261 - Generated code: E:\2022summer chuankou\2022summer chuankou\stm\stm32_can_read\stm32_can_read\Core\Inc\main.h
+2022-09-12 22:32:41,525 [INFO] CodeEngine:237 - oldGeneratedFile, E:\2022summer chuankou\2022summer chuankou\stm\stm32_can_read\stm32_can_read\Core\Src\main.c_save
+2022-09-12 22:32:41,703 [INFO] CodeEngine:261 - Generated code: E:\2022summer chuankou\2022summer chuankou\stm\stm32_can_read\stm32_can_read\Core\Src\main.c
+2022-09-12 22:32:43,318 [INFO] ProjectBuilder:2913 - Time for Copy HAL[1] : 768mS.
+2022-09-12 22:32:43,336 [INFO] ProjectBuilder:4015 - Project Generator version: 3.16.0
+2022-09-12 22:32:43,821 [INFO] ConfigFileManager:1287 - The Die is : DIE413
+2022-09-12 22:32:45,731 [INFO] ProjectBuilder:4183 - Time for Generating toolchain IDE Files: 2395mS.
+2022-09-12 22:32:45,733 [INFO] ProjectBuilder:2785 - Time for Copy CMSIS : 0mS.
+2022-09-12 22:32:45,739 [INFO] ProjectBuilder:2785 - Time for Copy CMSIS : 0mS.
+2022-09-13 10:40:34,913 [INFO] NvicIntPanel:96 - NVIC parent = com.st.microxplorer.plugins.ip.nvic.MultiNvicIntPanel[,0,0,0x0,invalid,layout=javax.swing.BoxLayout,alignmentX=0.0,alignmentY=0.0,border=,flags=9,maximumSize=,minimumSize=,preferredSize=]
+2022-09-13 10:40:35,579 [INFO] NvicIntPanel:96 - NVIC parent = com.st.microxplorer.plugins.ip.nvic.MultiNvicIntPanel[,0,0,0x0,invalid,layout=javax.swing.BoxLayout,alignmentX=0.0,alignmentY=0.0,border=,flags=9,maximumSize=,minimumSize=,preferredSize=]
+2022-09-13 10:40:39,502 [INFO] UtilMem:74 - End SaveConfig() Used Memory: 499705608 Bytes (1073741824)
+2022-09-13 10:40:39,578 [INFO] UtilMem:74 - End SaveConfig() Used Memory: 530613832 Bytes (1073741824)
+2022-09-13 10:40:40,120 [INFO] UtilMem:74 - End SaveConfig() Used Memory: 619056520 Bytes (1073741824)
+2022-09-13 10:40:40,442 [INFO] BlockDiagram:2740 - set Specific Code input for plugin: CAN
+2022-09-13 10:40:40,443 [INFO] BlockDiagram:2740 - set Specific Code input for plugin: SYS
+2022-09-13 10:40:40,443 [INFO] BlockDiagram:2740 - set Specific Code input for plugin: RCC
+2022-09-13 10:40:40,443 [INFO] BlockDiagram:2740 - set Specific Code input for plugin: NVIC
+2022-09-13 10:40:40,444 [INFO] BlockDiagram:2740 - set Specific Code input for plugin: GPIO
+2022-09-13 10:40:40,446 [INFO] CodeGenerator:681 - code generatio: config db path: C:\ST\STM32CubeIDE_1.9.0\STM32CubeIDE\plugins\com.st.stm32cube.common.mx_6.5.0.202202251913\\db\
+2022-09-13 10:40:40,993 [INFO] CodeEngine:237 - oldGeneratedFile, E:\2022summer chuankou\2022summer chuankou\stm\stm32_can_read\stm32_can_read\MXTmpFiles\license.tmp_save
+2022-09-13 10:40:41,082 [INFO] CodeEngine:261 - Generated code: E:\2022summer chuankou\2022summer chuankou\stm\stm32_can_read\stm32_can_read\MXTmpFiles\license.tmp
+2022-09-13 10:40:41,112 [INFO] CodeEngine:237 - oldGeneratedFile, E:\2022summer chuankou\2022summer chuankou\stm\stm32_can_read\stm32_can_read\MXTmpFiles\gpio.tmp_save
+2022-09-13 10:40:41,189 [INFO] CodeEngine:261 - Generated code: E:\2022summer chuankou\2022summer chuankou\stm\stm32_can_read\stm32_can_read\MXTmpFiles\gpio.tmp
+2022-09-13 10:40:41,245 [INFO] CodeEngine:237 - oldGeneratedFile, E:\2022summer chuankou\2022summer chuankou\stm\stm32_can_read\stm32_can_read\Core\Src\stm32f4xx_it.c_save
+2022-09-13 10:40:41,330 [INFO] CodeEngine:261 - Generated code: E:\2022summer chuankou\2022summer chuankou\stm\stm32_can_read\stm32_can_read\Core\Src\stm32f4xx_it.c
+2022-09-13 10:40:41,340 [INFO] CodeEngine:237 - oldGeneratedFile, E:\2022summer chuankou\2022summer chuankou\stm\stm32_can_read\stm32_can_read\Core\Inc\stm32f4xx_it.h_save
+2022-09-13 10:40:41,405 [INFO] CodeEngine:261 - Generated code: E:\2022summer chuankou\2022summer chuankou\stm\stm32_can_read\stm32_can_read\Core\Inc\stm32f4xx_it.h
+2022-09-13 10:40:41,426 [INFO] CodeEngine:237 - oldGeneratedFile, E:\2022summer chuankou\2022summer chuankou\stm\stm32_can_read\stm32_can_read\Core\Src\stm32f4xx_hal_msp.c_save
+2022-09-13 10:40:41,514 [INFO] CodeEngine:261 - Generated code: E:\2022summer chuankou\2022summer chuankou\stm\stm32_can_read\stm32_can_read\Core\Src\stm32f4xx_hal_msp.c
+2022-09-13 10:40:41,523 [INFO] CodeEngine:237 - oldGeneratedFile, E:\2022summer chuankou\2022summer chuankou\stm\stm32_can_read\stm32_can_read\MXTmpFiles\system.tmp_save
+2022-09-13 10:40:41,585 [INFO] CodeEngine:261 - Generated code: E:\2022summer chuankou\2022summer chuankou\stm\stm32_can_read\stm32_can_read\MXTmpFiles\system.tmp
+2022-09-13 10:40:41,618 [INFO] CodeEngine:237 - oldGeneratedFile, E:\2022summer chuankou\2022summer chuankou\stm\stm32_can_read\stm32_can_read\Core\Inc\stm32f4xx_hal_conf.h_save
+2022-09-13 10:40:41,838 [INFO] CodeEngine:261 - Generated code: E:\2022summer chuankou\2022summer chuankou\stm\stm32_can_read\stm32_can_read\Core\Inc\stm32f4xx_hal_conf.h
+2022-09-13 10:40:41,915 [INFO] CodeEngine:237 - oldGeneratedFile, E:\2022summer chuankou\2022summer chuankou\stm\stm32_can_read\stm32_can_read\Core\Inc\main.h_save
+2022-09-13 10:40:42,036 [INFO] CodeEngine:261 - Generated code: E:\2022summer chuankou\2022summer chuankou\stm\stm32_can_read\stm32_can_read\Core\Inc\main.h
+2022-09-13 10:40:42,049 [INFO] CodeEngine:237 - oldGeneratedFile, E:\2022summer chuankou\2022summer chuankou\stm\stm32_can_read\stm32_can_read\Core\Src\main.c_save
+2022-09-13 10:40:42,263 [INFO] CodeEngine:261 - Generated code: E:\2022summer chuankou\2022summer chuankou\stm\stm32_can_read\stm32_can_read\Core\Src\main.c
+2022-09-13 10:40:43,871 [INFO] ProjectBuilder:2913 - Time for Copy HAL[1] : 686mS.
+2022-09-13 10:40:43,880 [INFO] ProjectBuilder:4015 - Project Generator version: 3.16.0
+2022-09-13 10:40:44,129 [INFO] ConfigFileManager:1287 - The Die is : DIE413
+2022-09-13 10:40:46,019 [INFO] ProjectBuilder:4183 - Time for Generating toolchain IDE Files: 2139mS.
+2022-09-13 10:40:46,023 [INFO] ProjectBuilder:2785 - Time for Copy CMSIS : 2mS.
+2022-09-13 10:40:46,029 [INFO] ProjectBuilder:2785 - Time for Copy CMSIS : 0mS.
+2022-09-13 10:53:03,018 [INFO] NvicIntPanel:96 - NVIC parent = com.st.microxplorer.plugins.ip.nvic.MultiNvicIntPanel[,0,0,0x0,invalid,layout=javax.swing.BoxLayout,alignmentX=0.0,alignmentY=0.0,border=,flags=9,maximumSize=,minimumSize=,preferredSize=]
+2022-09-13 10:53:03,438 [INFO] NvicIntPanel:96 - NVIC parent = com.st.microxplorer.plugins.ip.nvic.MultiNvicIntPanel[,0,0,0x0,invalid,layout=javax.swing.BoxLayout,alignmentX=0.0,alignmentY=0.0,border=,flags=9,maximumSize=,minimumSize=,preferredSize=]
+2022-09-13 10:53:03,967 [INFO] NvicIntPanel:96 - NVIC parent = com.st.microxplorer.plugins.ip.nvic.MultiNvicIntPanel[,0,0,0x0,invalid,layout=javax.swing.BoxLayout,alignmentX=0.0,alignmentY=0.0,border=,flags=9,maximumSize=,minimumSize=,preferredSize=]
+2022-09-13 10:53:04,339 [INFO] NvicIntPanel:96 - NVIC parent = com.st.microxplorer.plugins.ip.nvic.MultiNvicIntPanel[,0,0,0x0,invalid,layout=javax.swing.BoxLayout,alignmentX=0.0,alignmentY=0.0,border=,flags=9,maximumSize=,minimumSize=,preferredSize=]
+2022-09-13 10:53:06,270 [INFO] UtilMem:74 - End SaveConfig() Used Memory: 600239368 Bytes (1073741824)
+2022-09-13 10:53:06,336 [INFO] UtilMem:74 - End SaveConfig() Used Memory: 626976008 Bytes (1073741824)
+2022-09-13 10:53:06,781 [INFO] UtilMem:74 - End SaveConfig() Used Memory: 710339848 Bytes (1073741824)
+2022-09-13 10:53:07,050 [INFO] BlockDiagram:2740 - set Specific Code input for plugin: CAN
+2022-09-13 10:53:07,051 [INFO] BlockDiagram:2740 - set Specific Code input for plugin: SYS
+2022-09-13 10:53:07,051 [INFO] BlockDiagram:2740 - set Specific Code input for plugin: RCC
+2022-09-13 10:53:07,051 [INFO] BlockDiagram:2740 - set Specific Code input for plugin: NVIC
+2022-09-13 10:53:07,052 [INFO] BlockDiagram:2740 - set Specific Code input for plugin: GPIO
+2022-09-13 10:53:07,054 [INFO] CodeGenerator:681 - code generatio: config db path: C:\ST\STM32CubeIDE_1.9.0\STM32CubeIDE\plugins\com.st.stm32cube.common.mx_6.5.0.202202251913\\db\
+2022-09-13 10:53:07,593 [INFO] CodeEngine:237 - oldGeneratedFile, E:\2022summer chuankou\2022summer chuankou\stm\stm32_can_read\stm32_can_read\MXTmpFiles\license.tmp_save
+2022-09-13 10:53:07,660 [INFO] CodeEngine:261 - Generated code: E:\2022summer chuankou\2022summer chuankou\stm\stm32_can_read\stm32_can_read\MXTmpFiles\license.tmp
+2022-09-13 10:53:07,684 [INFO] CodeEngine:237 - oldGeneratedFile, E:\2022summer chuankou\2022summer chuankou\stm\stm32_can_read\stm32_can_read\MXTmpFiles\gpio.tmp_save
+2022-09-13 10:53:07,745 [INFO] CodeEngine:261 - Generated code: E:\2022summer chuankou\2022summer chuankou\stm\stm32_can_read\stm32_can_read\MXTmpFiles\gpio.tmp
+2022-09-13 10:53:07,819 [INFO] CodeEngine:237 - oldGeneratedFile, E:\2022summer chuankou\2022summer chuankou\stm\stm32_can_read\stm32_can_read\Core\Src\stm32f4xx_it.c_save
+2022-09-13 10:53:07,902 [INFO] CodeEngine:261 - Generated code: E:\2022summer chuankou\2022summer chuankou\stm\stm32_can_read\stm32_can_read\Core\Src\stm32f4xx_it.c
+2022-09-13 10:53:07,915 [INFO] CodeEngine:237 - oldGeneratedFile, E:\2022summer chuankou\2022summer chuankou\stm\stm32_can_read\stm32_can_read\Core\Inc\stm32f4xx_it.h_save
+2022-09-13 10:53:08,003 [INFO] CodeEngine:261 - Generated code: E:\2022summer chuankou\2022summer chuankou\stm\stm32_can_read\stm32_can_read\Core\Inc\stm32f4xx_it.h
+2022-09-13 10:53:08,024 [INFO] CodeEngine:237 - oldGeneratedFile, E:\2022summer chuankou\2022summer chuankou\stm\stm32_can_read\stm32_can_read\Core\Src\stm32f4xx_hal_msp.c_save
+2022-09-13 10:53:08,117 [INFO] CodeEngine:261 - Generated code: E:\2022summer chuankou\2022summer chuankou\stm\stm32_can_read\stm32_can_read\Core\Src\stm32f4xx_hal_msp.c
+2022-09-13 10:53:08,127 [INFO] CodeEngine:237 - oldGeneratedFile, E:\2022summer chuankou\2022summer chuankou\stm\stm32_can_read\stm32_can_read\MXTmpFiles\system.tmp_save
+2022-09-13 10:53:08,211 [INFO] CodeEngine:261 - Generated code: E:\2022summer chuankou\2022summer chuankou\stm\stm32_can_read\stm32_can_read\MXTmpFiles\system.tmp
+2022-09-13 10:53:08,227 [INFO] CodeEngine:237 - oldGeneratedFile, E:\2022summer chuankou\2022summer chuankou\stm\stm32_can_read\stm32_can_read\Core\Inc\stm32f4xx_hal_conf.h_save
+2022-09-13 10:53:08,291 [INFO] CodeEngine:261 - Generated code: E:\2022summer chuankou\2022summer chuankou\stm\stm32_can_read\stm32_can_read\Core\Inc\stm32f4xx_hal_conf.h
+2022-09-13 10:53:08,326 [INFO] CodeEngine:237 - oldGeneratedFile, E:\2022summer chuankou\2022summer chuankou\stm\stm32_can_read\stm32_can_read\Core\Inc\main.h_save
+2022-09-13 10:53:08,412 [INFO] CodeEngine:261 - Generated code: E:\2022summer chuankou\2022summer chuankou\stm\stm32_can_read\stm32_can_read\Core\Inc\main.h
+2022-09-13 10:53:08,423 [INFO] CodeEngine:237 - oldGeneratedFile, E:\2022summer chuankou\2022summer chuankou\stm\stm32_can_read\stm32_can_read\Core\Src\main.c_save
+2022-09-13 10:53:08,516 [INFO] CodeEngine:261 - Generated code: E:\2022summer chuankou\2022summer chuankou\stm\stm32_can_read\stm32_can_read\Core\Src\main.c
+2022-09-13 10:53:09,342 [INFO] ProjectBuilder:2913 - Time for Copy HAL[1] : 398mS.
+2022-09-13 10:53:09,348 [INFO] ProjectBuilder:4015 - Project Generator version: 3.16.0
+2022-09-13 10:53:09,556 [INFO] ConfigFileManager:1287 - The Die is : DIE413
+2022-09-13 10:53:10,972 [INFO] ProjectBuilder:4183 - Time for Generating toolchain IDE Files: 1624mS.
+2022-09-13 10:53:10,974 [INFO] ProjectBuilder:2785 - Time for Copy CMSIS : 1mS.
+2022-09-13 10:53:10,986 [INFO] ProjectBuilder:2785 - Time for Copy CMSIS : 0mS.
+2022-09-13 11:03:13,025 [INFO] UtilMem:74 - End SaveConfig() Used Memory: 568226280 Bytes (1073741824)
+2022-09-13 11:03:13,088 [INFO] UtilMem:74 - End SaveConfig() Used Memory: 594962920 Bytes (1073741824)
+2022-09-13 11:03:13,573 [INFO] UtilMem:74 - End SaveConfig() Used Memory: 676751848 Bytes (1073741824)
+2022-09-13 11:03:13,824 [INFO] BlockDiagram:2740 - set Specific Code input for plugin: CAN
+2022-09-13 11:03:13,824 [INFO] BlockDiagram:2740 - set Specific Code input for plugin: SYS
+2022-09-13 11:03:13,824 [INFO] BlockDiagram:2740 - set Specific Code input for plugin: RCC
+2022-09-13 11:03:13,824 [INFO] BlockDiagram:2740 - set Specific Code input for plugin: NVIC
+2022-09-13 11:03:13,824 [INFO] BlockDiagram:2740 - set Specific Code input for plugin: USART
+2022-09-13 11:03:13,825 [INFO] BlockDiagram:2740 - set Specific Code input for plugin: GPIO
+2022-09-13 11:03:13,828 [INFO] CodeGenerator:681 - code generatio: config db path: C:\ST\STM32CubeIDE_1.9.0\STM32CubeIDE\plugins\com.st.stm32cube.common.mx_6.5.0.202202251913\\db\
+2022-09-13 11:03:14,255 [INFO] CodeEngine:237 - oldGeneratedFile, E:\2022summer chuankou\2022summer chuankou\stm\stm32_can_read\stm32_can_read\MXTmpFiles\license.tmp_save
+2022-09-13 11:03:14,309 [INFO] CodeEngine:261 - Generated code: E:\2022summer chuankou\2022summer chuankou\stm\stm32_can_read\stm32_can_read\MXTmpFiles\license.tmp
+2022-09-13 11:03:14,329 [INFO] CodeEngine:237 - oldGeneratedFile, E:\2022summer chuankou\2022summer chuankou\stm\stm32_can_read\stm32_can_read\MXTmpFiles\gpio.tmp_save
+2022-09-13 11:03:14,387 [INFO] CodeEngine:261 - Generated code: E:\2022summer chuankou\2022summer chuankou\stm\stm32_can_read\stm32_can_read\MXTmpFiles\gpio.tmp
+2022-09-13 11:03:14,464 [INFO] CodeEngine:237 - oldGeneratedFile, E:\2022summer chuankou\2022summer chuankou\stm\stm32_can_read\stm32_can_read\Core\Src\stm32f4xx_it.c_save
+2022-09-13 11:03:14,526 [INFO] CodeEngine:261 - Generated code: E:\2022summer chuankou\2022summer chuankou\stm\stm32_can_read\stm32_can_read\Core\Src\stm32f4xx_it.c
+2022-09-13 11:03:14,535 [INFO] CodeEngine:237 - oldGeneratedFile, E:\2022summer chuankou\2022summer chuankou\stm\stm32_can_read\stm32_can_read\Core\Inc\stm32f4xx_it.h_save
+2022-09-13 11:03:14,608 [INFO] CodeEngine:261 - Generated code: E:\2022summer chuankou\2022summer chuankou\stm\stm32_can_read\stm32_can_read\Core\Inc\stm32f4xx_it.h
+2022-09-13 11:03:14,633 [INFO] CodeEngine:237 - oldGeneratedFile, E:\2022summer chuankou\2022summer chuankou\stm\stm32_can_read\stm32_can_read\Core\Src\stm32f4xx_hal_msp.c_save
+2022-09-13 11:03:14,785 [INFO] CodeEngine:261 - Generated code: E:\2022summer chuankou\2022summer chuankou\stm\stm32_can_read\stm32_can_read\Core\Src\stm32f4xx_hal_msp.c
+2022-09-13 11:03:14,797 [INFO] CodeEngine:237 - oldGeneratedFile, E:\2022summer chuankou\2022summer chuankou\stm\stm32_can_read\stm32_can_read\MXTmpFiles\system.tmp_save
+2022-09-13 11:03:14,925 [INFO] CodeEngine:261 - Generated code: E:\2022summer chuankou\2022summer chuankou\stm\stm32_can_read\stm32_can_read\MXTmpFiles\system.tmp
+2022-09-13 11:03:14,946 [INFO] CodeEngine:237 - oldGeneratedFile, E:\2022summer chuankou\2022summer chuankou\stm\stm32_can_read\stm32_can_read\Core\Inc\stm32f4xx_hal_conf.h_save
+2022-09-13 11:03:15,088 [INFO] CodeEngine:261 - Generated code: E:\2022summer chuankou\2022summer chuankou\stm\stm32_can_read\stm32_can_read\Core\Inc\stm32f4xx_hal_conf.h
+2022-09-13 11:03:15,148 [INFO] CodeEngine:237 - oldGeneratedFile, E:\2022summer chuankou\2022summer chuankou\stm\stm32_can_read\stm32_can_read\Core\Inc\main.h_save
+2022-09-13 11:03:15,278 [INFO] CodeEngine:261 - Generated code: E:\2022summer chuankou\2022summer chuankou\stm\stm32_can_read\stm32_can_read\Core\Inc\main.h
+2022-09-13 11:03:15,292 [INFO] CodeEngine:237 - oldGeneratedFile, E:\2022summer chuankou\2022summer chuankou\stm\stm32_can_read\stm32_can_read\Core\Src\main.c_save
+2022-09-13 11:03:15,470 [INFO] CodeEngine:261 - Generated code: E:\2022summer chuankou\2022summer chuankou\stm\stm32_can_read\stm32_can_read\Core\Src\main.c
+2022-09-13 11:03:16,674 [INFO] ProjectBuilder:2913 - Time for Copy HAL[1] : 548mS.
+2022-09-13 11:03:16,683 [INFO] ProjectBuilder:4015 - Project Generator version: 3.16.0
+2022-09-13 11:03:17,296 [INFO] ConfigFileManager:1287 - The Die is : DIE413
+2022-09-13 11:03:18,611 [INFO] ProjectBuilder:4183 - Time for Generating toolchain IDE Files: 1928mS.
+2022-09-13 11:03:18,612 [INFO] ProjectBuilder:2785 - Time for Copy CMSIS : 1mS.
+2022-09-13 11:03:18,617 [INFO] ProjectBuilder:2785 - Time for Copy CMSIS : 0mS.
+2022-09-13 11:05:46,591 [ERROR] AdobePublisher:162 - Exception while opening the connection: java.net.UnknownHostException: stmicroelectronics.d3.sc.omtrdc.net
+2022-09-13 11:05:46,592 [ERROR] AdobePublisher:162 - Exception while opening the connection: java.net.UnknownHostException: stmicroelectronics.d3.sc.omtrdc.net
+2022-09-13 11:05:46,592 [ERROR] AdobePublisher:162 - Exception while opening the connection: java.net.UnknownHostException: stmicroelectronics.d3.sc.omtrdc.net
+2022-09-13 11:05:46,592 [ERROR] AdobePublisher:162 - Exception while opening the connection: java.net.UnknownHostException: stmicroelectronics.d3.sc.omtrdc.net
+2022-09-13 11:05:46,592 [ERROR] AdobePublisher:162 - Exception while opening the connection: java.net.UnknownHostException: stmicroelectronics.d3.sc.omtrdc.net
+2022-09-13 11:05:47,094 [ERROR] AdobePublisher:162 - Exception while opening the connection: java.net.UnknownHostException: stmicroelectronics.d3.sc.omtrdc.net
+2022-09-13 11:05:47,094 [ERROR] AdobePublisher:162 - Exception while opening the connection: java.net.UnknownHostException: stmicroelectronics.d3.sc.omtrdc.net
+2022-09-13 11:05:47,095 [ERROR] AdobePublisher:162 - Exception while opening the connection: java.net.UnknownHostException: stmicroelectronics.d3.sc.omtrdc.net
+2022-09-13 11:05:47,095 [ERROR] AdobePublisher:162 - Exception while opening the connection: java.net.UnknownHostException: stmicroelectronics.d3.sc.omtrdc.net
+2022-09-13 11:05:47,095 [ERROR] AdobePublisher:162 - Exception while opening the connection: java.net.UnknownHostException: stmicroelectronics.d3.sc.omtrdc.net
+2022-09-13 11:05:50,448 [ERROR] AdobePublisher:162 - Exception while opening the connection: java.net.UnknownHostException: stmicroelectronics.d3.sc.omtrdc.net
+2022-09-13 11:05:50,448 [ERROR] AdobePublisher:162 - Exception while opening the connection: java.net.UnknownHostException: stmicroelectronics.d3.sc.omtrdc.net
+2022-09-13 11:05:50,449 [ERROR] AdobePublisher:162 - Exception while opening the connection: java.net.UnknownHostException: stmicroelectronics.d3.sc.omtrdc.net
+2022-09-13 11:05:50,449 [ERROR] AdobePublisher:162 - Exception while opening the connection: java.net.UnknownHostException: stmicroelectronics.d3.sc.omtrdc.net
+2022-09-13 11:05:50,449 [ERROR] AdobePublisher:162 - Exception while opening the connection: java.net.UnknownHostException: stmicroelectronics.d3.sc.omtrdc.net
+2022-09-13 11:05:50,753 [ERROR] AdobePublisher:162 - Exception while opening the connection: java.net.UnknownHostException: stmicroelectronics.d3.sc.omtrdc.net
+2022-09-13 11:05:50,754 [ERROR] AdobePublisher:162 - Exception while opening the connection: java.net.UnknownHostException: stmicroelectronics.d3.sc.omtrdc.net
+2022-09-13 11:05:50,754 [ERROR] AdobePublisher:162 - Exception while opening the connection: java.net.UnknownHostException: stmicroelectronics.d3.sc.omtrdc.net
+2022-09-13 11:05:50,755 [ERROR] AdobePublisher:162 - Exception while opening the connection: java.net.UnknownHostException: stmicroelectronics.d3.sc.omtrdc.net
+2022-09-13 11:05:50,755 [ERROR] AdobePublisher:162 - Exception while opening the connection: java.net.UnknownHostException: stmicroelectronics.d3.sc.omtrdc.net
+2022-09-13 11:14:05,225 [ERROR] ConfigurationRetriever:139 - IOException on connection: sw-center.st.com
+2022-09-13 11:14:05,226 [ERROR] ConfigurationRetriever:139 - IOException on connection: sw-center.st.com
+2022-09-13 11:14:05,226 [ERROR] ConfigurationRetriever:139 - IOException on connection: sw-center.st.com
+2022-09-13 11:14:05,270 [ERROR] ConfigurationRetriever:139 - IOException on connection: sw-center.st.com
+2022-09-13 11:14:05,271 [ERROR] ConfigurationRetriever:139 - IOException on connection: sw-center.st.com
+2022-09-13 11:14:05,271 [ERROR] ConfigurationRetriever:139 - IOException on connection: sw-center.st.com
+2022-09-13 14:11:39,654 [ERROR] ConfigurationRetriever:139 - IOException on connection: sw-center.st.com
+2022-09-13 14:11:39,656 [ERROR] ConfigurationRetriever:139 - IOException on connection: sw-center.st.com
+2022-09-13 14:11:39,656 [ERROR] ConfigurationRetriever:139 - IOException on connection: sw-center.st.com
+2022-09-13 14:11:39,687 [ERROR] ConfigurationRetriever:139 - IOException on connection: sw-center.st.com
+2022-09-13 14:11:39,687 [ERROR] ConfigurationRetriever:139 - IOException on connection: sw-center.st.com
+2022-09-13 14:11:39,687 [ERROR] ConfigurationRetriever:139 - IOException on connection: sw-center.st.com
+2022-09-13 14:41:26,020 [ERROR] AdobePublisher:162 - Exception while opening the connection: java.net.SocketTimeoutException: Read timed out
+2022-09-13 14:41:28,034 [ERROR] AdobePublisher:162 - Exception while opening the connection: java.net.SocketTimeoutException: connect timed out
+2022-09-13 14:41:30,038 [ERROR] AdobePublisher:162 - Exception while opening the connection: java.net.SocketTimeoutException: connect timed out
+2022-09-13 14:41:33,263 [ERROR] AdobePublisher:162 - Exception while opening the connection: java.net.SocketTimeoutException: Read timed out
+2022-09-13 14:41:36,076 [ERROR] AdobePublisher:162 - Exception while opening the connection: java.net.SocketTimeoutException: Read timed out
+2022-09-13 14:41:41,953 [ERROR] AdobePublisher:183 - Exception while getting the server answer: java.net.SocketTimeoutException: Read timed out
+2022-09-13 14:55:47,105 [INFO] NvicIntPanel:96 - NVIC parent = com.st.microxplorer.plugins.ip.nvic.MultiNvicIntPanel[,0,0,453x436,layout=javax.swing.BoxLayout,alignmentX=0.0,alignmentY=0.0,border=,flags=9,maximumSize=,minimumSize=,preferredSize=]
+2022-09-13 14:55:49,795 [INFO] NvicIntPanel:96 - NVIC parent = com.st.microxplorer.plugins.ip.nvic.MultiNvicIntPanel[,0,0,0x0,invalid,layout=javax.swing.BoxLayout,alignmentX=0.0,alignmentY=0.0,border=,flags=9,maximumSize=,minimumSize=,preferredSize=]
+2022-09-13 16:24:24,343 [ERROR] ConfigurationRetriever:139 - IOException on connection: sw-center.st.com
+2022-09-13 16:24:24,344 [ERROR] ConfigurationRetriever:139 - IOException on connection: sw-center.st.com
+2022-09-13 16:24:24,345 [ERROR] ConfigurationRetriever:139 - IOException on connection: sw-center.st.com
+2022-09-13 16:24:24,380 [ERROR] ConfigurationRetriever:139 - IOException on connection: sw-center.st.com
+2022-09-13 16:24:24,380 [ERROR] ConfigurationRetriever:139 - IOException on connection: sw-center.st.com
+2022-09-13 16:24:24,380 [ERROR] ConfigurationRetriever:139 - IOException on connection: sw-center.st.com
+2022-09-13 17:02:01,775 [INFO] Gpio:254 - dependency for GPIO [CAN2, RCC, SYS, USART1]
+2022-09-13 19:10:47,772 [INFO] NvicIntPanel:96 - NVIC parent = com.st.microxplorer.plugins.ip.nvic.MultiNvicIntPanel[,0,0,453x436,layout=javax.swing.BoxLayout,alignmentX=0.0,alignmentY=0.0,border=,flags=9,maximumSize=,minimumSize=,preferredSize=]
+2022-09-13 19:10:49,432 [INFO] NvicIntPanel:96 - NVIC parent = com.st.microxplorer.plugins.ip.nvic.MultiNvicIntPanel[,0,0,0x0,invalid,layout=javax.swing.BoxLayout,alignmentX=0.0,alignmentY=0.0,border=,flags=9,maximumSize=,minimumSize=,preferredSize=]
+2022-09-13 19:10:59,389 [INFO] UtilMem:74 - End SaveConfig() Used Memory: 607660792 Bytes (1073741824)
+2022-09-13 19:10:59,481 [INFO] UtilMem:74 - End SaveConfig() Used Memory: 633875192 Bytes (1073741824)
+2022-09-13 19:11:00,393 [INFO] UtilMem:74 - End SaveConfig() Used Memory: 737684216 Bytes (1073741824)
+2022-09-13 19:11:01,115 [INFO] BlockDiagram:2740 - set Specific Code input for plugin: CAN
+2022-09-13 19:11:01,116 [INFO] BlockDiagram:2740 - set Specific Code input for plugin: SYS
+2022-09-13 19:11:01,116 [INFO] BlockDiagram:2740 - set Specific Code input for plugin: RCC
+2022-09-13 19:11:01,116 [INFO] BlockDiagram:2740 - set Specific Code input for plugin: NVIC
+2022-09-13 19:11:01,116 [INFO] BlockDiagram:2740 - set Specific Code input for plugin: USART
+2022-09-13 19:11:01,117 [INFO] BlockDiagram:2740 - set Specific Code input for plugin: GPIO
+2022-09-13 19:11:01,119 [INFO] CodeGenerator:681 - code generatio: config db path: C:\ST\STM32CubeIDE_1.9.0\STM32CubeIDE\plugins\com.st.stm32cube.common.mx_6.5.0.202202251913\\db\
+2022-09-13 19:11:01,997 [INFO] CodeEngine:237 - oldGeneratedFile, E:\2022summer chuankou\2022summer chuankou\stm\stm32_can_read\stm32_can_read\MXTmpFiles\license.tmp_save
+2022-09-13 19:11:02,147 [INFO] CodeEngine:261 - Generated code: E:\2022summer chuankou\2022summer chuankou\stm\stm32_can_read\stm32_can_read\MXTmpFiles\license.tmp
+2022-09-13 19:11:02,196 [INFO] CodeEngine:237 - oldGeneratedFile, E:\2022summer chuankou\2022summer chuankou\stm\stm32_can_read\stm32_can_read\MXTmpFiles\gpio.tmp_save
+2022-09-13 19:11:02,327 [INFO] CodeEngine:261 - Generated code: E:\2022summer chuankou\2022summer chuankou\stm\stm32_can_read\stm32_can_read\MXTmpFiles\gpio.tmp
+2022-09-13 19:11:02,601 [INFO] CodeEngine:237 - oldGeneratedFile, E:\2022summer chuankou\2022summer chuankou\stm\stm32_can_read\stm32_can_read\Core\Src\stm32f4xx_it.c_save
+2022-09-13 19:11:02,753 [INFO] CodeEngine:261 - Generated code: E:\2022summer chuankou\2022summer chuankou\stm\stm32_can_read\stm32_can_read\Core\Src\stm32f4xx_it.c
+2022-09-13 19:11:02,771 [INFO] CodeEngine:237 - oldGeneratedFile, E:\2022summer chuankou\2022summer chuankou\stm\stm32_can_read\stm32_can_read\Core\Inc\stm32f4xx_it.h_save
+2022-09-13 19:11:02,919 [INFO] CodeEngine:261 - Generated code: E:\2022summer chuankou\2022summer chuankou\stm\stm32_can_read\stm32_can_read\Core\Inc\stm32f4xx_it.h
+2022-09-13 19:11:02,967 [INFO] CodeEngine:237 - oldGeneratedFile, E:\2022summer chuankou\2022summer chuankou\stm\stm32_can_read\stm32_can_read\Core\Src\stm32f4xx_hal_msp.c_save
+2022-09-13 19:11:03,218 [INFO] CodeEngine:261 - Generated code: E:\2022summer chuankou\2022summer chuankou\stm\stm32_can_read\stm32_can_read\Core\Src\stm32f4xx_hal_msp.c
+2022-09-13 19:11:03,239 [INFO] CodeEngine:237 - oldGeneratedFile, E:\2022summer chuankou\2022summer chuankou\stm\stm32_can_read\stm32_can_read\MXTmpFiles\system.tmp_save
+2022-09-13 19:11:03,513 [INFO] CodeEngine:261 - Generated code: E:\2022summer chuankou\2022summer chuankou\stm\stm32_can_read\stm32_can_read\MXTmpFiles\system.tmp
+2022-09-13 19:11:03,603 [INFO] CodeEngine:237 - oldGeneratedFile, E:\2022summer chuankou\2022summer chuankou\stm\stm32_can_read\stm32_can_read\Core\Inc\stm32f4xx_hal_conf.h_save
+2022-09-13 19:11:03,945 [INFO] CodeEngine:261 - Generated code: E:\2022summer chuankou\2022summer chuankou\stm\stm32_can_read\stm32_can_read\Core\Inc\stm32f4xx_hal_conf.h
+2022-09-13 19:11:04,110 [INFO] CodeEngine:237 - oldGeneratedFile, E:\2022summer chuankou\2022summer chuankou\stm\stm32_can_read\stm32_can_read\Core\Inc\main.h_save
+2022-09-13 19:11:04,514 [INFO] CodeEngine:261 - Generated code: E:\2022summer chuankou\2022summer chuankou\stm\stm32_can_read\stm32_can_read\Core\Inc\main.h
+2022-09-13 19:11:04,537 [INFO] CodeEngine:237 - oldGeneratedFile, E:\2022summer chuankou\2022summer chuankou\stm\stm32_can_read\stm32_can_read\Core\Src\main.c_save
+2022-09-13 19:11:04,924 [INFO] CodeEngine:261 - Generated code: E:\2022summer chuankou\2022summer chuankou\stm\stm32_can_read\stm32_can_read\Core\Src\main.c
+2022-09-13 19:11:08,024 [INFO] ProjectBuilder:2913 - Time for Copy HAL[1] : 1358mS.
+2022-09-13 19:11:08,050 [INFO] ProjectBuilder:4015 - Project Generator version: 3.16.0
+2022-09-13 19:11:08,643 [INFO] ConfigFileManager:1287 - The Die is : DIE413
+2022-09-13 19:11:11,983 [INFO] ProjectBuilder:4183 - Time for Generating toolchain IDE Files: 3933mS.
+2022-09-13 19:11:11,993 [INFO] ProjectBuilder:2785 - Time for Copy CMSIS : 9mS.
+2022-09-13 19:11:12,005 [INFO] ProjectBuilder:2785 - Time for Copy CMSIS : 0mS.
+2022-09-13 19:21:27,469 [INFO] NvicIntPanel:96 - NVIC parent = com.st.microxplorer.plugins.ip.nvic.MultiNvicIntPanel[,0,0,0x0,invalid,layout=javax.swing.BoxLayout,alignmentX=0.0,alignmentY=0.0,border=,flags=9,maximumSize=,minimumSize=,preferredSize=]
+2022-09-13 19:21:35,485 [INFO] Gpio:254 - dependency for GPIO [CAN2, RCC, SYS, USART1]
+2022-09-13 19:21:37,670 [INFO] UtilMem:74 - End SaveConfig() Used Memory: 706102704 Bytes (1073741824)
+2022-09-13 19:21:37,758 [INFO] UtilMem:74 - End SaveConfig() Used Memory: 733365680 Bytes (1073741824)
+2022-09-13 19:21:38,689 [INFO] UtilMem:74 - End SaveConfig() Used Memory: 857623984 Bytes (1073741824)
+2022-09-13 19:21:39,399 [INFO] BlockDiagram:2740 - set Specific Code input for plugin: CAN
+2022-09-13 19:21:39,400 [INFO] BlockDiagram:2740 - set Specific Code input for plugin: SYS
+2022-09-13 19:21:39,400 [INFO] BlockDiagram:2740 - set Specific Code input for plugin: RCC
+2022-09-13 19:21:39,400 [INFO] BlockDiagram:2740 - set Specific Code input for plugin: NVIC
+2022-09-13 19:21:39,400 [INFO] BlockDiagram:2740 - set Specific Code input for plugin: USART
+2022-09-13 19:21:39,400 [INFO] BlockDiagram:2740 - set Specific Code input for plugin: GPIO
+2022-09-13 19:21:39,402 [INFO] CodeGenerator:681 - code generatio: config db path: C:\ST\STM32CubeIDE_1.9.0\STM32CubeIDE\plugins\com.st.stm32cube.common.mx_6.5.0.202202251913\\db\
+2022-09-13 19:21:40,080 [INFO] CodeEngine:237 - oldGeneratedFile, E:\2022summer chuankou\2022summer chuankou\stm\stm32_can_read\stm32_can_read\MXTmpFiles\license.tmp_save
+2022-09-13 19:21:40,173 [INFO] CodeEngine:261 - Generated code: E:\2022summer chuankou\2022summer chuankou\stm\stm32_can_read\stm32_can_read\MXTmpFiles\license.tmp
+2022-09-13 19:21:40,213 [INFO] CodeEngine:237 - oldGeneratedFile, E:\2022summer chuankou\2022summer chuankou\stm\stm32_can_read\stm32_can_read\MXTmpFiles\gpio.tmp_save
+2022-09-13 19:21:40,336 [INFO] CodeEngine:261 - Generated code: E:\2022summer chuankou\2022summer chuankou\stm\stm32_can_read\stm32_can_read\MXTmpFiles\gpio.tmp
+2022-09-13 19:21:40,515 [INFO] CodeEngine:237 - oldGeneratedFile, E:\2022summer chuankou\2022summer chuankou\stm\stm32_can_read\stm32_can_read\Core\Src\stm32f4xx_it.c_save
+2022-09-13 19:21:40,616 [INFO] CodeEngine:261 - Generated code: E:\2022summer chuankou\2022summer chuankou\stm\stm32_can_read\stm32_can_read\Core\Src\stm32f4xx_it.c
+2022-09-13 19:21:40,630 [INFO] CodeEngine:237 - oldGeneratedFile, E:\2022summer chuankou\2022summer chuankou\stm\stm32_can_read\stm32_can_read\Core\Inc\stm32f4xx_it.h_save
+2022-09-13 19:21:40,715 [INFO] CodeEngine:261 - Generated code: E:\2022summer chuankou\2022summer chuankou\stm\stm32_can_read\stm32_can_read\Core\Inc\stm32f4xx_it.h
+2022-09-13 19:21:40,741 [INFO] CodeEngine:237 - oldGeneratedFile, E:\2022summer chuankou\2022summer chuankou\stm\stm32_can_read\stm32_can_read\Core\Src\stm32f4xx_hal_msp.c_save
+2022-09-13 19:21:40,851 [INFO] CodeEngine:261 - Generated code: E:\2022summer chuankou\2022summer chuankou\stm\stm32_can_read\stm32_can_read\Core\Src\stm32f4xx_hal_msp.c
+2022-09-13 19:21:40,861 [INFO] CodeEngine:237 - oldGeneratedFile, E:\2022summer chuankou\2022summer chuankou\stm\stm32_can_read\stm32_can_read\MXTmpFiles\system.tmp_save
+2022-09-13 19:21:40,944 [INFO] CodeEngine:261 - Generated code: E:\2022summer chuankou\2022summer chuankou\stm\stm32_can_read\stm32_can_read\MXTmpFiles\system.tmp
+2022-09-13 19:21:40,969 [INFO] CodeEngine:237 - oldGeneratedFile, E:\2022summer chuankou\2022summer chuankou\stm\stm32_can_read\stm32_can_read\Core\Inc\stm32f4xx_hal_conf.h_save
+2022-09-13 19:21:41,067 [INFO] CodeEngine:261 - Generated code: E:\2022summer chuankou\2022summer chuankou\stm\stm32_can_read\stm32_can_read\Core\Inc\stm32f4xx_hal_conf.h
+2022-09-13 19:21:41,116 [INFO] CodeEngine:237 - oldGeneratedFile, E:\2022summer chuankou\2022summer chuankou\stm\stm32_can_read\stm32_can_read\Core\Inc\main.h_save
+2022-09-13 19:21:41,207 [INFO] CodeEngine:261 - Generated code: E:\2022summer chuankou\2022summer chuankou\stm\stm32_can_read\stm32_can_read\Core\Inc\main.h
+2022-09-13 19:21:41,221 [INFO] CodeEngine:237 - oldGeneratedFile, E:\2022summer chuankou\2022summer chuankou\stm\stm32_can_read\stm32_can_read\Core\Src\main.c_save
+2022-09-13 19:21:41,373 [INFO] CodeEngine:261 - Generated code: E:\2022summer chuankou\2022summer chuankou\stm\stm32_can_read\stm32_can_read\Core\Src\main.c
+2022-09-13 19:21:42,381 [INFO] ProjectBuilder:2913 - Time for Copy HAL[1] : 542mS.
+2022-09-13 19:21:42,391 [INFO] ProjectBuilder:4015 - Project Generator version: 3.16.0
+2022-09-13 19:21:43,145 [INFO] ConfigFileManager:1287 - The Die is : DIE413
+2022-09-13 19:21:45,158 [INFO] ProjectBuilder:4183 - Time for Generating toolchain IDE Files: 2767mS.
+2022-09-13 19:21:45,160 [INFO] ProjectBuilder:2785 - Time for Copy CMSIS : 2mS.
+2022-09-13 19:21:45,167 [INFO] ProjectBuilder:2785 - Time for Copy CMSIS : 0mS.
+2022-09-13 20:00:18,760 [INFO] NvicIntPanel:96 - NVIC parent = com.st.microxplorer.plugins.ip.nvic.MultiNvicIntPanel[,0,0,0x0,invalid,layout=javax.swing.BoxLayout,alignmentX=0.0,alignmentY=0.0,border=,flags=9,maximumSize=,minimumSize=,preferredSize=]
+2022-09-13 20:00:20,562 [INFO] NvicIntPanel:96 - NVIC parent = com.st.microxplorer.plugins.ip.nvic.MultiNvicIntPanel[,0,0,0x0,invalid,layout=javax.swing.BoxLayout,alignmentX=0.0,alignmentY=0.0,border=,flags=9,maximumSize=,minimumSize=,preferredSize=]
+2022-09-13 20:00:22,812 [INFO] UtilMem:74 - End SaveConfig() Used Memory: 599016304 Bytes (1073741824)
+2022-09-13 20:00:22,945 [INFO] UtilMem:74 - End SaveConfig() Used Memory: 578050160 Bytes (1073741824)
+2022-09-13 20:00:23,645 [INFO] UtilMem:74 - End SaveConfig() Used Memory: 621564016 Bytes (1073741824)
+2022-09-13 20:00:24,138 [INFO] BlockDiagram:2740 - set Specific Code input for plugin: CAN
+2022-09-13 20:00:24,138 [INFO] BlockDiagram:2740 - set Specific Code input for plugin: SYS
+2022-09-13 20:00:24,138 [INFO] BlockDiagram:2740 - set Specific Code input for plugin: RCC
+2022-09-13 20:00:24,138 [INFO] BlockDiagram:2740 - set Specific Code input for plugin: NVIC
+2022-09-13 20:00:24,138 [INFO] BlockDiagram:2740 - set Specific Code input for plugin: USART
+2022-09-13 20:00:24,138 [INFO] BlockDiagram:2740 - set Specific Code input for plugin: GPIO
+2022-09-13 20:00:24,140 [INFO] CodeGenerator:681 - code generatio: config db path: C:\ST\STM32CubeIDE_1.9.0\STM32CubeIDE\plugins\com.st.stm32cube.common.mx_6.5.0.202202251913\\db\
+2022-09-13 20:00:24,813 [INFO] CodeEngine:237 - oldGeneratedFile, E:\2022summer chuankou\2022summer chuankou\stm\stm32_can_read\stm32_can_read\MXTmpFiles\license.tmp_save
+2022-09-13 20:00:24,916 [INFO] CodeEngine:261 - Generated code: E:\2022summer chuankou\2022summer chuankou\stm\stm32_can_read\stm32_can_read\MXTmpFiles\license.tmp
+2022-09-13 20:00:24,952 [INFO] CodeEngine:237 - oldGeneratedFile, E:\2022summer chuankou\2022summer chuankou\stm\stm32_can_read\stm32_can_read\MXTmpFiles\gpio.tmp_save
+2022-09-13 20:00:25,045 [INFO] CodeEngine:261 - Generated code: E:\2022summer chuankou\2022summer chuankou\stm\stm32_can_read\stm32_can_read\MXTmpFiles\gpio.tmp
+2022-09-13 20:00:25,138 [INFO] CodeEngine:237 - oldGeneratedFile, E:\2022summer chuankou\2022summer chuankou\stm\stm32_can_read\stm32_can_read\Core\Src\stm32f4xx_it.c_save
+2022-09-13 20:00:25,224 [INFO] CodeEngine:261 - Generated code: E:\2022summer chuankou\2022summer chuankou\stm\stm32_can_read\stm32_can_read\Core\Src\stm32f4xx_it.c
+2022-09-13 20:00:25,236 [INFO] CodeEngine:237 - oldGeneratedFile, E:\2022summer chuankou\2022summer chuankou\stm\stm32_can_read\stm32_can_read\Core\Inc\stm32f4xx_it.h_save
+2022-09-13 20:00:25,312 [INFO] CodeEngine:261 - Generated code: E:\2022summer chuankou\2022summer chuankou\stm\stm32_can_read\stm32_can_read\Core\Inc\stm32f4xx_it.h
+2022-09-13 20:00:25,338 [INFO] CodeEngine:237 - oldGeneratedFile, E:\2022summer chuankou\2022summer chuankou\stm\stm32_can_read\stm32_can_read\Core\Src\stm32f4xx_hal_msp.c_save
+2022-09-13 20:00:25,455 [INFO] CodeEngine:261 - Generated code: E:\2022summer chuankou\2022summer chuankou\stm\stm32_can_read\stm32_can_read\Core\Src\stm32f4xx_hal_msp.c
+2022-09-13 20:00:25,472 [INFO] CodeEngine:237 - oldGeneratedFile, E:\2022summer chuankou\2022summer chuankou\stm\stm32_can_read\stm32_can_read\MXTmpFiles\system.tmp_save
+2022-09-13 20:00:25,607 [INFO] CodeEngine:261 - Generated code: E:\2022summer chuankou\2022summer chuankou\stm\stm32_can_read\stm32_can_read\MXTmpFiles\system.tmp
+2022-09-13 20:00:25,645 [INFO] CodeEngine:237 - oldGeneratedFile, E:\2022summer chuankou\2022summer chuankou\stm\stm32_can_read\stm32_can_read\Core\Inc\stm32f4xx_hal_conf.h_save
+2022-09-13 20:00:25,832 [INFO] CodeEngine:261 - Generated code: E:\2022summer chuankou\2022summer chuankou\stm\stm32_can_read\stm32_can_read\Core\Inc\stm32f4xx_hal_conf.h
+2022-09-13 20:00:25,913 [INFO] CodeEngine:237 - oldGeneratedFile, E:\2022summer chuankou\2022summer chuankou\stm\stm32_can_read\stm32_can_read\Core\Inc\main.h_save
+2022-09-13 20:00:26,095 [INFO] CodeEngine:261 - Generated code: E:\2022summer chuankou\2022summer chuankou\stm\stm32_can_read\stm32_can_read\Core\Inc\main.h
+2022-09-13 20:00:26,115 [INFO] CodeEngine:237 - oldGeneratedFile, E:\2022summer chuankou\2022summer chuankou\stm\stm32_can_read\stm32_can_read\Core\Src\main.c_save
+2022-09-13 20:00:26,405 [INFO] CodeEngine:261 - Generated code: E:\2022summer chuankou\2022summer chuankou\stm\stm32_can_read\stm32_can_read\Core\Src\main.c
+2022-09-13 20:00:28,642 [INFO] ProjectBuilder:2913 - Time for Copy HAL[1] : 1002mS.
+2022-09-13 20:00:28,666 [INFO] ProjectBuilder:4015 - Project Generator version: 3.16.0
+2022-09-13 20:00:29,226 [INFO] ConfigFileManager:1287 - The Die is : DIE413
+2022-09-13 20:00:31,693 [INFO] ProjectBuilder:4183 - Time for Generating toolchain IDE Files: 3027mS.
+2022-09-13 20:00:31,711 [INFO] ProjectBuilder:2785 - Time for Copy CMSIS : 1mS.
+2022-09-13 20:00:31,717 [INFO] ProjectBuilder:2785 - Time for Copy CMSIS : 0mS.
+2022-09-13 20:09:19,052 [INFO] NvicIntPanel:96 - NVIC parent = com.st.microxplorer.plugins.ip.nvic.MultiNvicIntPanel[,0,0,0x0,invalid,layout=javax.swing.BoxLayout,alignmentX=0.0,alignmentY=0.0,border=,flags=9,maximumSize=,minimumSize=,preferredSize=]
+2022-09-13 20:09:55,403 [INFO] UtilMem:74 - End SaveConfig() Used Memory: 824469224 Bytes (1073741824)
+2022-09-13 20:09:55,483 [INFO] UtilMem:74 - End SaveConfig() Used Memory: 595856544 Bytes (1073741824)
+2022-09-13 20:09:56,123 [INFO] UtilMem:74 - End SaveConfig() Used Memory: 569762144 Bytes (1073741824)
+2022-09-13 20:09:56,442 [INFO] BlockDiagram:2740 - set Specific Code input for plugin: CAN
+2022-09-13 20:09:56,442 [INFO] BlockDiagram:2740 - set Specific Code input for plugin: SYS
+2022-09-13 20:09:56,442 [INFO] BlockDiagram:2740 - set Specific Code input for plugin: RCC
+2022-09-13 20:09:56,444 [INFO] BlockDiagram:2740 - set Specific Code input for plugin: NVIC
+2022-09-13 20:09:56,444 [INFO] BlockDiagram:2740 - set Specific Code input for plugin: GPIO
+2022-09-13 20:09:56,445 [INFO] CodeGenerator:681 - code generatio: config db path: C:\ST\STM32CubeIDE_1.9.0\STM32CubeIDE\plugins\com.st.stm32cube.common.mx_6.5.0.202202251913\\db\
+2022-09-13 20:09:56,982 [INFO] CodeEngine:237 - oldGeneratedFile, E:\2022summer chuankou\2022summer chuankou\stm\stm32_can_read\stm32_can_read\MXTmpFiles\license.tmp_save
+2022-09-13 20:09:57,078 [INFO] CodeEngine:261 - Generated code: E:\2022summer chuankou\2022summer chuankou\stm\stm32_can_read\stm32_can_read\MXTmpFiles\license.tmp
+2022-09-13 20:09:57,111 [INFO] CodeEngine:237 - oldGeneratedFile, E:\2022summer chuankou\2022summer chuankou\stm\stm32_can_read\stm32_can_read\MXTmpFiles\gpio.tmp_save
+2022-09-13 20:09:57,192 [INFO] CodeEngine:261 - Generated code: E:\2022summer chuankou\2022summer chuankou\stm\stm32_can_read\stm32_can_read\MXTmpFiles\gpio.tmp
+2022-09-13 20:09:57,257 [INFO] CodeEngine:237 - oldGeneratedFile, E:\2022summer chuankou\2022summer chuankou\stm\stm32_can_read\stm32_can_read\Core\Src\stm32f4xx_it.c_save
+2022-09-13 20:09:57,332 [INFO] CodeEngine:261 - Generated code: E:\2022summer chuankou\2022summer chuankou\stm\stm32_can_read\stm32_can_read\Core\Src\stm32f4xx_it.c
+2022-09-13 20:09:57,345 [INFO] CodeEngine:237 - oldGeneratedFile, E:\2022summer chuankou\2022summer chuankou\stm\stm32_can_read\stm32_can_read\Core\Inc\stm32f4xx_it.h_save
+2022-09-13 20:09:57,415 [INFO] CodeEngine:261 - Generated code: E:\2022summer chuankou\2022summer chuankou\stm\stm32_can_read\stm32_can_read\Core\Inc\stm32f4xx_it.h
+2022-09-13 20:09:57,445 [INFO] CodeEngine:237 - oldGeneratedFile, E:\2022summer chuankou\2022summer chuankou\stm\stm32_can_read\stm32_can_read\Core\Src\stm32f4xx_hal_msp.c_save
+2022-09-13 20:09:57,564 [INFO] CodeEngine:261 - Generated code: E:\2022summer chuankou\2022summer chuankou\stm\stm32_can_read\stm32_can_read\Core\Src\stm32f4xx_hal_msp.c
+2022-09-13 20:09:57,580 [INFO] CodeEngine:237 - oldGeneratedFile, E:\2022summer chuankou\2022summer chuankou\stm\stm32_can_read\stm32_can_read\MXTmpFiles\system.tmp_save
+2022-09-13 20:09:57,691 [INFO] CodeEngine:261 - Generated code: E:\2022summer chuankou\2022summer chuankou\stm\stm32_can_read\stm32_can_read\MXTmpFiles\system.tmp
+2022-09-13 20:09:57,718 [INFO] CodeEngine:237 - oldGeneratedFile, E:\2022summer chuankou\2022summer chuankou\stm\stm32_can_read\stm32_can_read\Core\Inc\stm32f4xx_hal_conf.h_save
+2022-09-13 20:09:57,861 [INFO] CodeEngine:261 - Generated code: E:\2022summer chuankou\2022summer chuankou\stm\stm32_can_read\stm32_can_read\Core\Inc\stm32f4xx_hal_conf.h
+2022-09-13 20:09:57,947 [INFO] CodeEngine:237 - oldGeneratedFile, E:\2022summer chuankou\2022summer chuankou\stm\stm32_can_read\stm32_can_read\Core\Inc\main.h_save
+2022-09-13 20:09:58,082 [INFO] CodeEngine:261 - Generated code: E:\2022summer chuankou\2022summer chuankou\stm\stm32_can_read\stm32_can_read\Core\Inc\main.h
+2022-09-13 20:09:58,102 [INFO] CodeEngine:237 - oldGeneratedFile, E:\2022summer chuankou\2022summer chuankou\stm\stm32_can_read\stm32_can_read\Core\Src\main.c_save
+2022-09-13 20:09:58,298 [INFO] CodeEngine:261 - Generated code: E:\2022summer chuankou\2022summer chuankou\stm\stm32_can_read\stm32_can_read\Core\Src\main.c
+2022-09-13 20:10:00,016 [INFO] ProjectBuilder:2913 - Time for Copy HAL[1] : 740mS.
+2022-09-13 20:10:00,031 [INFO] ProjectBuilder:4015 - Project Generator version: 3.16.0
+2022-09-13 20:10:00,656 [INFO] ConfigFileManager:1287 - The Die is : DIE413
+2022-09-13 20:10:02,476 [INFO] ProjectBuilder:4183 - Time for Generating toolchain IDE Files: 2445mS.
+2022-09-13 20:10:02,478 [INFO] ProjectBuilder:2785 - Time for Copy CMSIS : 1mS.
+2022-09-13 20:10:02,483 [INFO] ProjectBuilder:2785 - Time for Copy CMSIS : 0mS.
+2022-09-13 20:11:48,503 [ERROR] AdobePublisher:162 - Exception while opening the connection: java.net.UnknownHostException: stmicroelectronics.d3.sc.omtrdc.net
+2022-09-13 20:11:48,504 [ERROR] AdobePublisher:162 - Exception while opening the connection: java.net.UnknownHostException: stmicroelectronics.d3.sc.omtrdc.net
+2022-09-13 20:11:48,504 [ERROR] AdobePublisher:162 - Exception while opening the connection: java.net.UnknownHostException: stmicroelectronics.d3.sc.omtrdc.net
+2022-09-13 20:11:48,505 [ERROR] AdobePublisher:162 - Exception while opening the connection: java.net.UnknownHostException: stmicroelectronics.d3.sc.omtrdc.net
+2022-09-13 20:11:48,505 [ERROR] AdobePublisher:162 - Exception while opening the connection: java.net.UnknownHostException: stmicroelectronics.d3.sc.omtrdc.net
+2022-09-13 20:11:50,057 [ERROR] AdobePublisher:162 - Exception while opening the connection: java.net.UnknownHostException: stmicroelectronics.d3.sc.omtrdc.net
+2022-09-13 20:11:50,058 [ERROR] AdobePublisher:162 - Exception while opening the connection: java.net.UnknownHostException: stmicroelectronics.d3.sc.omtrdc.net
+2022-09-13 20:11:50,058 [ERROR] AdobePublisher:162 - Exception while opening the connection: java.net.UnknownHostException: stmicroelectronics.d3.sc.omtrdc.net
+2022-09-13 20:11:50,058 [ERROR] AdobePublisher:162 - Exception while opening the connection: java.net.UnknownHostException: stmicroelectronics.d3.sc.omtrdc.net
+2022-09-13 20:11:50,059 [ERROR] AdobePublisher:162 - Exception while opening the connection: java.net.UnknownHostException: stmicroelectronics.d3.sc.omtrdc.net
+2022-09-13 20:31:01,918 [INFO] NvicIntPanel:96 - NVIC parent = com.st.microxplorer.plugins.ip.nvic.MultiNvicIntPanel[,0,0,0x0,invalid,layout=javax.swing.BoxLayout,alignmentX=0.0,alignmentY=0.0,border=,flags=9,maximumSize=,minimumSize=,preferredSize=]
+2022-09-13 20:31:03,174 [INFO] NvicIntPanel:96 - NVIC parent = com.st.microxplorer.plugins.ip.nvic.MultiNvicIntPanel[,0,0,0x0,invalid,layout=javax.swing.BoxLayout,alignmentX=0.0,alignmentY=0.0,border=,flags=9,maximumSize=,minimumSize=,preferredSize=]
+2022-09-13 20:31:03,563 [INFO] NvicIntPanel:96 - NVIC parent = com.st.microxplorer.plugins.ip.nvic.MultiNvicIntPanel[,0,0,0x0,invalid,layout=javax.swing.BoxLayout,alignmentX=0.0,alignmentY=0.0,border=,flags=9,maximumSize=,minimumSize=,preferredSize=]
+2022-09-13 20:31:04,952 [INFO] UtilMem:74 - End SaveConfig() Used Memory: 640467024 Bytes (1073741824)
+2022-09-13 20:31:05,017 [INFO] UtilMem:74 - End SaveConfig() Used Memory: 666681424 Bytes (1073741824)
+2022-09-13 20:31:05,509 [INFO] UtilMem:74 - End SaveConfig() Used Memory: 709146704 Bytes (1073741824)
+2022-09-13 20:31:05,826 [INFO] BlockDiagram:2740 - set Specific Code input for plugin: CAN
+2022-09-13 20:31:05,826 [INFO] BlockDiagram:2740 - set Specific Code input for plugin: SYS
+2022-09-13 20:31:05,826 [INFO] BlockDiagram:2740 - set Specific Code input for plugin: RCC
+2022-09-13 20:31:05,826 [INFO] BlockDiagram:2740 - set Specific Code input for plugin: NVIC
+2022-09-13 20:31:05,827 [INFO] BlockDiagram:2740 - set Specific Code input for plugin: GPIO
+2022-09-13 20:31:05,828 [INFO] CodeGenerator:681 - code generatio: config db path: C:\ST\STM32CubeIDE_1.9.0\STM32CubeIDE\plugins\com.st.stm32cube.common.mx_6.5.0.202202251913\\db\
+2022-09-13 20:31:06,280 [INFO] CodeEngine:237 - oldGeneratedFile, E:\2022summer chuankou\2022summer chuankou\stm\stm32_can_read\stm32_can_read\MXTmpFiles\license.tmp_save
+2022-09-13 20:31:06,344 [INFO] CodeEngine:261 - Generated code: E:\2022summer chuankou\2022summer chuankou\stm\stm32_can_read\stm32_can_read\MXTmpFiles\license.tmp
+2022-09-13 20:31:06,368 [INFO] CodeEngine:237 - oldGeneratedFile, E:\2022summer chuankou\2022summer chuankou\stm\stm32_can_read\stm32_can_read\MXTmpFiles\gpio.tmp_save
+2022-09-13 20:31:06,435 [INFO] CodeEngine:261 - Generated code: E:\2022summer chuankou\2022summer chuankou\stm\stm32_can_read\stm32_can_read\MXTmpFiles\gpio.tmp
+2022-09-13 20:31:06,487 [INFO] CodeEngine:237 - oldGeneratedFile, E:\2022summer chuankou\2022summer chuankou\stm\stm32_can_read\stm32_can_read\Core\Src\stm32f4xx_it.c_save
+2022-09-13 20:31:06,574 [INFO] CodeEngine:261 - Generated code: E:\2022summer chuankou\2022summer chuankou\stm\stm32_can_read\stm32_can_read\Core\Src\stm32f4xx_it.c
+2022-09-13 20:31:06,586 [INFO] CodeEngine:237 - oldGeneratedFile, E:\2022summer chuankou\2022summer chuankou\stm\stm32_can_read\stm32_can_read\Core\Inc\stm32f4xx_it.h_save
+2022-09-13 20:31:06,663 [INFO] CodeEngine:261 - Generated code: E:\2022summer chuankou\2022summer chuankou\stm\stm32_can_read\stm32_can_read\Core\Inc\stm32f4xx_it.h
+2022-09-13 20:31:06,683 [INFO] CodeEngine:237 - oldGeneratedFile, E:\2022summer chuankou\2022summer chuankou\stm\stm32_can_read\stm32_can_read\Core\Src\stm32f4xx_hal_msp.c_save
+2022-09-13 20:31:06,771 [INFO] CodeEngine:261 - Generated code: E:\2022summer chuankou\2022summer chuankou\stm\stm32_can_read\stm32_can_read\Core\Src\stm32f4xx_hal_msp.c
+2022-09-13 20:31:06,780 [INFO] CodeEngine:237 - oldGeneratedFile, E:\2022summer chuankou\2022summer chuankou\stm\stm32_can_read\stm32_can_read\MXTmpFiles\system.tmp_save
+2022-09-13 20:31:06,835 [INFO] CodeEngine:261 - Generated code: E:\2022summer chuankou\2022summer chuankou\stm\stm32_can_read\stm32_can_read\MXTmpFiles\system.tmp
+2022-09-13 20:31:06,852 [INFO] CodeEngine:237 - oldGeneratedFile, E:\2022summer chuankou\2022summer chuankou\stm\stm32_can_read\stm32_can_read\Core\Inc\stm32f4xx_hal_conf.h_save
+2022-09-13 20:31:06,918 [INFO] CodeEngine:261 - Generated code: E:\2022summer chuankou\2022summer chuankou\stm\stm32_can_read\stm32_can_read\Core\Inc\stm32f4xx_hal_conf.h
+2022-09-13 20:31:06,950 [INFO] CodeEngine:237 - oldGeneratedFile, E:\2022summer chuankou\2022summer chuankou\stm\stm32_can_read\stm32_can_read\Core\Inc\main.h_save
+2022-09-13 20:31:07,012 [INFO] CodeEngine:261 - Generated code: E:\2022summer chuankou\2022summer chuankou\stm\stm32_can_read\stm32_can_read\Core\Inc\main.h
+2022-09-13 20:31:07,021 [INFO] CodeEngine:237 - oldGeneratedFile, E:\2022summer chuankou\2022summer chuankou\stm\stm32_can_read\stm32_can_read\Core\Src\main.c_save
+2022-09-13 20:31:07,115 [INFO] CodeEngine:261 - Generated code: E:\2022summer chuankou\2022summer chuankou\stm\stm32_can_read\stm32_can_read\Core\Src\main.c
+2022-09-13 20:31:08,146 [INFO] ProjectBuilder:2913 - Time for Copy HAL[1] : 468mS.
+2022-09-13 20:31:08,155 [INFO] ProjectBuilder:4015 - Project Generator version: 3.16.0
+2022-09-13 20:31:08,415 [INFO] ConfigFileManager:1287 - The Die is : DIE413
+2022-09-13 20:31:09,858 [INFO] ProjectBuilder:4183 - Time for Generating toolchain IDE Files: 1703mS.
+2022-09-13 20:31:09,860 [INFO] ProjectBuilder:2785 - Time for Copy CMSIS : 1mS.
+2022-09-13 20:31:09,864 [INFO] ProjectBuilder:2785 - Time for Copy CMSIS : 0mS.

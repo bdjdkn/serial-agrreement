@@ -1,0 +1,10 @@
+20:36:31 **** Incremental Build of configuration Debug for project stm32_can_read ****
+make -j8 all 
+arm-none-eabi-size   stm32_can_read.elf 
+   text	   data	    bss	    dec	    hex	filename
+   8176	     20	   1612	   9808	   2650	stm32_can_read.elf
+Finished building: default.size.stdout
+ 
+
+20:36:31 Build Finished. 0 errors, 0 warnings. (took 407ms)
+
